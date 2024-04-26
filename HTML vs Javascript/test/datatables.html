@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+   <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+</head>
+<body>
+<table id="Example">
+    <thead>
+    <tr>
+        <th>1</th>
+        <th>2</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>a</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>b</td>
+        <td>2</td>
+    </tr>
+    </tbody>
+
+</table>
+<script>
+    $(document).ready( function () {
+        $('#Example').DataTable();
+    } );
+</script>
+</body>
+</html>

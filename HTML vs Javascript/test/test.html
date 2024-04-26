@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="display"></div>
+<script>
+    class Product {
+        constructor(id, name,price) {
+            this.id = id;
+            this.name = name;
+            this.price = price;
+        }
+    ​
+        setId(id) {
+            this.id = id;
+        }
+    ​
+        setName(name) {
+            this.name = name;
+        }
+    ​
+        setPrice(price) {
+            this.price = price;
+        }
+    ​
+        getId() {
+            return this.id;
+        }
+    ​
+        getName() {
+            return this.name;
+        }
+    ​
+        getPrice() {
+            return this.price;
+        }
+    }
+​
+    let product1 = new Product(1, "sam sung", 1000);
+    let product2 = new Product(2, "nokia", 1000);
+    let product3 = new Product(3, "iphone", 1000);
+    let products = [product1, product1, product3];
+    display(products);
+​
+    function display(products) {
+        let data = '<table border="1">\n' +
+            '    <tr>\n' +
+            '        <th>STT</th>\n' +
+            '        <th>ID</th>\n' +
+            '        <th>Name</th>\n' +
+            '        <th>Price</th>\n' +
+            '        <th>Delete</th>\n' +
+            '    </tr>';
+        for (let i = 0; i < products.length; i++) {
+            data += '<tr>\n' +
+                '        <td>' + (i + 1) + '</td>\n' +
+                '        <td>' + products[i].getId() + '</td>\n' +
+                '        <td>' + products[i].getName() + '</td>\n' +
+                '        <td>' + products[i].getPrice() + '</td>\n' +
+                '        <td><input type="button" value="Delete" onclick="deleteProduct(' + i + ')"></td>\n' +
+                '    </tr>';
+        }
+        data += '</table>';
+        document.getElementById("display").innerHTML = data;
+    }
+​
+    function deleteProduct(index) {
+        let isDelete = confirm("Bạn có muốn xoá sản phẩm " + products[index].getName());
+        if (isDelete) {
+            products.splice(index, 1);
+        }
+        display(products);
+    }
+</script>
+</body>
+</html>

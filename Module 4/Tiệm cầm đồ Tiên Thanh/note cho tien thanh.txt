@@ -1,0 +1,14 @@
+- chưa xong:
++ khi thêm điện thoại mới thì khung chọn loại máy bị lỗi là khi chọn vào ô khac để nhập dữ liệu nhưng đổi ý chọn vào ô 
+khác như samsung thì khi nhấn lại vào ô khác thì sẽ không hiện lên ô input khác cho mình nhập
+
++ khi xem danh sách trễ hạn hay gần tới hạn thì nó dùng jsp của list_Android_phone nên không đổi tiêu đề được
+
++ khi thêm điện thoại mới thì chưa kiểm tra validate của ô nhập số điện thoại
+
++ Khi chỉnh sửa một hàng nào đó thì ô input số điện loại không có thì nó không hiển thị bằng placeholder, hãy chỉnh sửa
+ nếu giá trị à không có hoặc dữ liệu là chữ chứ không phải số thì sẽ hiển thị giá trị đó vào placeholder đó 
+
++ Rãnh thì chỉnh khung alert thành modal hay gì đó cho đẹp đi và chỉnh luôn thanh phân trang luôn
+
++ chuyển kiểu dữ liệu của cột id trong android_phone thành kiểu int và sửa code lại cho phù hợp

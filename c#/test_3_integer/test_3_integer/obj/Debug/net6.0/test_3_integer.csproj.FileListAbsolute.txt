@@ -1,0 +1,15 @@
+D:\codegym\text\c#\test_3_integer\test_3_integer\bin\Debug\net6.0\test_3_integer.exe
+D:\codegym\text\c#\test_3_integer\test_3_integer\bin\Debug\net6.0\test_3_integer.deps.json
+D:\codegym\text\c#\test_3_integer\test_3_integer\bin\Debug\net6.0\test_3_integer.runtimeconfig.json
+D:\codegym\text\c#\test_3_integer\test_3_integer\bin\Debug\net6.0\test_3_integer.dll
+D:\codegym\text\c#\test_3_integer\test_3_integer\bin\Debug\net6.0\test_3_integer.pdb
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.AssemblyInfoInputs.cache
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.AssemblyInfo.cs
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.csproj.CoreCompileInputs.cache
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.sourcelink.json
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.dll
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\refint\test_3_integer.dll
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.pdb
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\test_3_integer.genruntimeconfig.cache
+D:\codegym\text\c#\test_3_integer\test_3_integer\obj\Debug\net6.0\ref\test_3_integer.dll

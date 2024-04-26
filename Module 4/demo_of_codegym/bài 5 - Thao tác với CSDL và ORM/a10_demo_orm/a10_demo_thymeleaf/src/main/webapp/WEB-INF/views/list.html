@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div th:replace="~{layout::head}"></div>
+<h1>Trang danh sách</h1>
+<a href ="/student/create">Thêm mới</a><br>
+<a th:href ="@{/student/create}">Thêm mới</a>
+<table border="1">
+    <tr>
+        <th>STT</th>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Detail1</th>
+        <th>Detail2</th>
+        <th>Detail3</th>
+    </tr>
+
+    <tr th:each="student,status: ${studentList}">
+        <td th:text="${status.count}"></td>
+        <td th:text="${student.id}" ></td>
+        <td th:text="${student.name}" ></td>
+        <td th:switch="${student.gender}">
+            <span th:case="1" th:text="Nam"></span>
+            <span th:case="0" th:text="Nữ"></span>
+            <span th:case="*" th:text="LGBT"></span>
+        </td>
+        <td><a th:href="@{/student/detail(id=${student.id})}">Detail1/RequestParam</a></td>
+        <td><a th:href="@{/student/detail/{id}(id=${student.id})}">Detail2/PathVariable</a></td>
+        <td><a th:href="@{/student/detail/__${student.id}__}">Detail2/PathVariable</a></td>
+    </tr>
+    <tr>
+        <td colspan="5" th:if="${studentList.isEmpty()}">
+            Danh sách trống
+        </td>
+    </tr>
+</table>
+<div th:insert="~{layout::foot}"></div>
+<p th:text="#{test}"></p>
+</body>
+</html>

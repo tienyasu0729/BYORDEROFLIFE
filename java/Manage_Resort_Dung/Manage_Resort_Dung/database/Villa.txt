@@ -1,0 +1,2 @@
+villa,150m2,5.0,10,2,123,perfect,massage,25.0,3,5
+villa,155m2,5.0,12,2,143,verygood,no,35.0,4,4

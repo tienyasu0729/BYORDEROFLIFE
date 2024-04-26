@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>chủ đề nhập dữ liệu cho mảng</h1>
+<label for="nhapmang">Xin mời nhập dữ liệu cho mảng</label><br>
+<input id="nhapmang" onclick=""><br><br>
+<button id="themsovaomang" type="button" onclick="arr_themsovaomang()">Thêm số vào mảng </button>
+<button id="xemnhungsodanhapvaomang" type="button" onclick="arr_xemnhungsotrongmang()">Xem những số có trong mảng</button>
+<button id="daonguocmang" type="button" onclick="arr_daonguocmang()">Đảo ngược mảng</button>
+<hr>
+<p id="hienthi"></p>
+<script>
+    let x = 0;
+    let arr = [];
+    function arr_themsovaomang() {
+        arr[x] = document.getElementById('nhapmang').value;
+        if (arr[x] === ""){
+            alert("nhập dữ liệu vào đi thèn loz")
+        }else {
+            x++;
+            document.getElementById('nhapmang').value = "";
+        }
+    }
+    
+    function arr_xemnhungsotrongmang() {
+        let r = "";
+        for (let i = 0; i < arr.length ; i++) {
+            if (arr[i] === ""){
+            }
+            else {r += "số thứ " + i + ":" + arr[i] + "<br>";
+                document.getElementById('hienthi').innerHTML = r;
+            }
+        }
+    }
+
+    function arr_daonguocmang() {
+        let first = 0;
+        let last = arr.length - 1;
+        while (first < last){
+            let b = arr[last];
+            arr[first] = arr[last];
+            arr[first] = b;
+            first ++;
+            last --;
+        }
+        alert(arr);
+    }
+
+</script>
+</body>
+</html>

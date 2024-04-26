@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kiem tra chuoi doi xung</title>
+</head>
+<body>
+<script>
+    let strings = prompt("Nhap chuoi ky tu: ");
+    let check = true;
+    function kiemTra(strings) {
+        for (let i = 0; i < strings.length / 2; i++) {
+            if (strings[i] !== strings[strings.length - i - 1]) {
+                check = false;
+            }
+        }
+    }
+    kiemTra(String);
+    if (check) {
+        document.write("Chuỗi " + strings + " là chuỗi đối xứng");
+    } else {
+        document.write("Chuỗi " + strings + " không phải chuỗi đối xứng");
+    }
+</script>
+</body>
+</html>

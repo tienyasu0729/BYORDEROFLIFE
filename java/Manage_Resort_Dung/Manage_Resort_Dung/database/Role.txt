@@ -1,0 +1,6 @@
+1,Receptionist
+2,Waiter
+3,Specialist
+4,Supervisor
+5,Manager
+6,Director

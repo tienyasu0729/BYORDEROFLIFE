@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<label for="khungnhapso"></label>
+<input type="number" id="khungnhapso">
+<button id="themso" type="button" onclick="arr_add()">Add</button>
+<button id="hienthiso" type="button" onclick="arr_display()">Display</button>
+<br><br>
+<h4 id="hienthi"></h4>
+<script>
+    let x = 0;
+    let arr = [];
+    function arr_add() {
+    arr[x] = document.getElementById('khungnhapso').value;
+    alert(arr[x]);
+    x++;
+    document.getElementById('khungnhapso').value = "";
+    }
+
+    function arr_display() {
+        let r = "<hr/>";
+        for (let i = 0; i < arr.length; i++) {
+            r += "số thứ : " + arr[i] + "<br>";
+        }
+        document.getElementById('hienthi').innerHTML = r ;
+    }
+</script>
+</body>
+</html>

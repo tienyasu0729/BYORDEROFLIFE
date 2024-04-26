@@ -1,0 +1,1 @@
+house,100m2,5.0,7,2,132,good,massage,2,3

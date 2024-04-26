@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        #canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        #circle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: black;
+            z-index: 2;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div id="canvas"></div>
+<div id="circle"></div>
+
+<script>
+    var canvas = document.getElementById('canvas');
+    var circle = document.getElementById('circle');
+    var isDrawing = false;
+    var startX, startY;
+
+    circle.addEventListener('mousedown', function(event) {
+        isDrawing = true;
+        startX = circle.offsetLeft;
+        startY = circle.offsetTop;
+    });
+
+    document.addEventListener('mousemove', function(event) {
+        if (isDrawing) {
+            var mouseX = event.pageX;
+            var mouseY = event.pageY;
+
+            drawLine(startX, startY, mouseX, mouseY);
+        }
+    });
+
+    document.addEventListener('mouseup', function(event) {
+        isDrawing = false;
+        canvas.innerHTML = '';
+    });
+
+    function drawLine(startX, startY, endX, endY) {
+        var centerX = startX + circle.offsetWidth / 2;
+        var centerY = startY + circle.offsetHeight / 2;
+
+        canvas.innerHTML = '<svg width="' + window.innerWidth + '" height="' + window.innerHeight + '">' +
+            '<line x1="' + centerX + '" y1="' + centerY + '" x2="' + endX + '" y2="' + endY + '" stroke="black" />' +
+            '</svg>';
+    }
+</script>
+</body>
+</html>

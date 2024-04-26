@@ -1,0 +1,15 @@
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\bin\Debug\net6.0\test_1.exe
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\bin\Debug\net6.0\test_1.deps.json
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\bin\Debug\net6.0\test_1.runtimeconfig.json
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\bin\Debug\net6.0\test_1.dll
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\bin\Debug\net6.0\test_1.pdb
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.AssemblyInfoInputs.cache
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.AssemblyInfo.cs
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.csproj.CoreCompileInputs.cache
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.sourcelink.json
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.dll
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\refint\test_1.dll
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.pdb
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\test_1.genruntimeconfig.cache
+D:\codegym\text\c#\test_1\test_1\test_1\test_1\obj\Debug\net6.0\ref\test_1.dll

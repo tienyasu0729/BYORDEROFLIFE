@@ -1,0 +1,5 @@
+1,Massage,1,10.0
+2,Karaoke,1,10.0
+3,Food,1,5.0
+4,Water,1,5.0
+5,Rent a car to visit the resort,1,10.0

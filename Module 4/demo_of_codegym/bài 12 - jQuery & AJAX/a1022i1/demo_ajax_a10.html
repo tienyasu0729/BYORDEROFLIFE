@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.6.1.min.js"></script>
+</head>
+<body>
+<h1>Thêm mới</h1>
+<input id="name" placeholder="Enter name">
+<input id="gender" placeholder="Enter gender">
+<select id="classId">
+    <option value="1">CO1</option>
+    <option value="2">CO2</option>
+    <option value="3">CO3</option>
+    <option value="100">CO3</option>
+</select>
+<button onclick="add()" id="btn-add">Add</button>
+
+<h1>Danh sách sinh viên</h1>
+<table border="1" style="border-collapse: collapse">
+    <tr>
+        <th>STT</th>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Class room</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tbody id="content">
+    </tbody>
+</table>
+<h1>Header</h1>
+<script>
+    // sau 5s mới hiển thị
+    setTimeout(function () {
+       display();
+    },5000);
+    // hiển thị
+    function display() {
+        let content="";
+        $.ajax({
+            contentType : "application/json",
+            type: "GET",
+            dataType: "json",
+            url: "http://localhost:8080/api/student",
+            success: function (data) {
+                console.log(data)
+                for (let i = 0; i <data.length ; i++) {
+                    content +="   <tr>\n" +
+                        "        <td>"+(i+1)+"</td>\n" +
+                        "        <td>"+data[i].id+"</td>\n" +
+                        "        <td>"+data[i].name+"</td>\n" +
+                        "        <td>"+data[i].gender+"</td>\n" +
+                        "        <td>"+data[i].classRoom.name+"</td>\n" +
+                        "    </tr>";
+                }
+                $("#content").html(content);
+            }
+        })
+    }
+    // thêm mới
+    function add() {
+        let name = $("#name").val();
+        let gender = $("#gender").val();
+        let classId = $("#classId").val();
+        const student = {
+            name : name,
+            gender: gender,
+            classRoom: {
+                id: classId
+            }
+        }
+        console.log(student);
+        $.ajax({
+            contentType : "application/json",
+            type: "POST",
+            dataType: "json",
+            data: JSON.stringify(student),
+            url: "http://localhost:8080/api/student",
+            success: function () {
+
+            },
+            complete: function () {
+                display();
+            },
+            error: function () {
+                console.log("thêm ới không thành công")
+            }
+        })
+
+
+    }
+</script>
+</body>
+</html>

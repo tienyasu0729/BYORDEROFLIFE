@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>moving car's</title>
+</head>
+<body>
+<h1 style="color:darkgreen;" >Five (5) rounds</h1>
+<div class="line" ></div>
+<div  class="animation" >
+    🚙
+</div>
+<div class="line" ></div>
+<div  class="bot" >
+    🚙
+</div>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<div class="line" ></div>
+<br><br>
+<br><br>
+<br><br>
+<center>
+    <a href="animation.html" >
+        <button class="button" >
+            Restart
+        </button>
+</center>
+</body>
+</html>
+<style type="text/css">
+    .line {
+        background-color:black;
+        height:20px;
+        width:100%;
+    }
+    .button {
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:20px;
+        padding-bottom:20px;
+        font-family:fantasy;
+        font-size:30px;
+        color:white;
+        background-color:blue;
+        border:none;
+        border-radius:20px;
+    }
+    .bot  {
+        margin-left:75%;
+        top:320px;
+        left:0%;
+        font-size:150px;
+        position:absolute;
+        animation:animation;
+        animation-duration:4.5s;
+        animation-iteration-count:5;
+    }
+    @keyframes bot{
+        50%{
+            margin-left:0%;
+        }
+    }
+    .animation {
+        margin-left:75%;
+        font-size:150px;
+        position:relative;
+        animation:animation;
+        animation-duration:5s;
+        animation-iteration-count:5;
+    }
+    @keyframes animation{
+        50%{
+            margin-left:0%;
+        }
+    }
+</style>

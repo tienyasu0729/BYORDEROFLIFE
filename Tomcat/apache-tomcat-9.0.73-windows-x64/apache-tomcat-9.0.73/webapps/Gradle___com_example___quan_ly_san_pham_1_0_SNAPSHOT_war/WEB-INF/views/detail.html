@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Detail</title>
+</head>
+<body>
+<table>
+  <thead>
+  <tr>
+    <th scope="col">ID</th>
+    <th scope="col">Name</th>
+    <th scope="col">Price</th>
+    <th scope="col">Description</th>
+    <th scope="col">Producer</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <th scope="row" th:text="${product.id}"></th>
+    <td th:text="${product.name}"></td>
+    <td th:text="${product.price}"></td>
+    <td th:text="${product.desc}"></td>
+    <td th:text="${product.producer}"></td>
+  </tr>
+  </tbody>
+</table>
+</body>
+</html>

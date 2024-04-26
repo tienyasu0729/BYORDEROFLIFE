@@ -1,0 +1,3 @@
+# usb.properties
+# Location of the USB implementation to load.
+#usb.implementation.locator=com.sun.usb.libusb10.Libusb10UsbServicesLocator

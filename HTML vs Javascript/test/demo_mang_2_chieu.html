@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button type="button" onclick="part4CaseStudyBai1()">hhhh</button>
+<script>
+    function part4CaseStudyBai1() {
+        let row = +prompt("nhập số hàng");
+        let col = +prompt("nhập số cột");
+        let arr = new Array(row);
+        alert(arr);
+        for (let i = 0; i <arr.length ; i++) {
+            arr[i]= new Array(col);
+            alert(arr[i] )
+            for (let j = 0; j <arr[i].length ; j++) {
+                arr[i][j]= +prompt("nhập vào phần tử hàng : "+i + " cột :" +j);
+            }
+        }
+        for (let i = 0; i <arr.length ; i++) {
+            for (let j = 0; j <arr[i].length ; j++) {
+                document.write(arr[i][j])
+            }
+            document.write("<br>");
+        }
+        alert(arr)
+    }
+</script>
+</body>
+</html>

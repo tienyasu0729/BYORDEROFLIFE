@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CASE STUDY</title>
+    <style>
+        .tieuDe {
+            text-align: center;
+            color: red;
+            font-size: 50px;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        button {
+            width: 100px;
+            height: 50px;
+            font-size: 20px;
+            color: darkgreen;
+            border-color: red;
+            border-width: 5px;
+        }
+
+    </style>
+</head>
+<body>
+<h1 class="tieuDe">*** CASE STUDY ***</h1>
+<hr>
+<h1>PART 1: YÊU CẦU 1 ( VẼ HÌNH * )</h1>
+<h2>- Bài 1: Vẽ hình chữ nhật rỗng chiều dài n và chiều rộng m theo hình dưới đây. Ví dụ: x = 4, y = 5</h2>
+<button type="button" onclick="part1CaseStudyBai1()">Vẽ bài 1</button>
+<h2>- Bài 2: Vẽ tam giác vuông cân rỗng có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part1CaseStudyBai2()">Vẽ bài 2</button>
+<h2>- Bài 3: Vẽ tam giác cân đặc có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part1CaseStudyBai3()">Vẽ bài 3</button>
+<h2>- Bài 4: Vẽ tam giác cân rỗng có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part1CaseStudyBai4()">Vẽ bài 4</button>
+<hr>
+<h1>PART 2: YÊU CẦU 2 ( IF VÀ SWITCH CASE )</h1>
+<h2>- Bài 1: Viết một chương trình để nhập lương nhân viên, tính thuế thu nhập và lương ròng (số tiền lương thực sự mà nhân viên đó nhận được). Với các thông số giả sử như sau (không theo luật lương, chỉ là con số giả sử để dễ tính toán):</h2>
+<h2>+ 20% thuế thu nhập nếu lương là 15 triệu.</h2>
+<h2>+ 10% thuế thu nhập nếu lương từ 7 đến 15 triệu.</h2>
+<h2>+ 5% thuế thu nhập nếu lương dưới 7 triệu</h2>
+<button type="button" onclick="part2CaseStudyBai1()">Bài 1</button>
+<h2>- Bài 2: Viết chương trình kiểm tra một ký tự trong bảng chữ cái tiếng anh là nguyên âm hay phụ âm. Ký tự là bất kỳ được nhập từ bàn phím. Các ký tự nguyên âm bao gồm: 'o', 'u', 'i', 'a', 'e' hoặc 'O', 'U', 'I', 'A', 'E'</h2>
+<button type="button" onclick="part2CaseStudyBai2()">Bài 2</button>
+<hr>
+<h1>PART 3: YÊU CẦU 3 ( MẢNG VÀ LOOP )</h1>
+<h2>Bài 1: Cho mảng a chỉ chứa các số nguyên</h2>
+<h2>Xây dựng mảng b là prefix sums của mảng a cụ thể theo công thức:</h2>
+<h2>b[0] = a[0]</h2>
+<h2>b[1] = a[0] + a[1]</h2>
+<h2>b[2] = a[0] + a[1] + a[2]</h2>
+<h2>...</h2>
+<h2>b[n - 1] = a[0] + a[1] + ... + a[n - 1]</h2>
+<h2>với n là độ dài của mảng a.</h2>
+<h2>Ví dụ: Cho a = [1, 2, 3], thì kết quả prefixSums(a) = [1, 3, 6].</h2>
+<h2>Mảng b được tạo ra: [1, 1 + 2, 1 + 2 + 3] = [1, 3, 6]</h2>
+<button type="button" onclick="part3CaseStudyBai1()">Bài 1</button>
+<h2>Bài 2: Cho 2 mảng A và B chứa số nguyên. Tìm ra một mảng đã được sắp xếp chứa các phần tử xuất hiện trong mảng B nhưng lại không xuất hiện A</h2>
+<h2>Chú ý các phần tử giống nhau chỉ tính là 1 lần xuất hiện</h2>
+<h2>Ví dụ: A=[7,2,5,3,5,3] và B=[7,2,5,4,6,3,5,3] thì kết quả missingValue(A, B) = [4, 6]</h2>
+<button type="button" onclick="part3CaseStudyBai2()">Bài 2</button>
+<h2>Bài 3: Cho một danh sách các phân số, hãy tìm chỉ số của phân số lớn nhất (đếm từ 0)</h2>
+<h2>Giả định rằng không có các phân số bằng nhau trong tập đầu vào</h2>
+<h2>Ví dụ: numerators = [5, 2, 5] và denominators = [6, 3, 4], thì kết quả maxFraction(numerators, denominators) = 2. </h2>
+<h2>⇨ 5/4 là phân số lớn nhất, có chỉ số là 2.</h2>
+<button type="button" onclick="part3CaseStudyBai3()">Bài 3</button>
+<h2>Bài 4: Viết một chương trình nhập một số từ bàn phím và in ra màn hình bằng chữ.</h2>
+<h2>Ví dụ 1234, kết quả in ra màn hình là một hai ba bốn.</h2>
+<button type="button" onclick="part3CaseStudyBai4()">Bài 4</button>
+<h2>Bài 5: Giả sử menu của chúng ta có các loại thức uống như sau:</h2>
+<h2>+ Cafe</h2>
+<h2>+ Cam vắt</h2>
+<h2>+ Nước ép cà rốt</h2>
+<h2>+ Nước ép cà chua</h2>
+<h2>+ Nước lọc</h2>
+<h2>+ Nước dừa</h2>
+<h2>Viết một chương trình gọi thức uống đơn giản.</h2>
+<h2>Gợi ý: Trước tiên in ra màn hinh danh sách các loại thức uống cho người dùng chọn lựa</h2>
+<h2>Đánh dấu theo thứ tự 1 (cafe), 2 (cam vắt), 3(nước ép cà rốt), 4(nước ép cà chua), 5(nước lọc), 6(nước dừa), 7(thoát gọi món)</h2>
+<h2>Khi người dùng lựa chọn 1 trong số các thức uống, chương trình sẽ hiện đơn giá của thức uống đó và cho phép người dùng nhập số lượng. Cuối cùng hiển thị tổng số tiền người dùng cần phải trả.</h2>
+<h2>Sử dụng vòng lặp do while lặp lại cho người dùng đặt thức uống, kết thúc quá trình đặt thức uống khi người nhấn số 7</h2>
+<button type="button" onclick="part3CaseStudyBai5()">Bài 5</button>
+<hr>
+<h1>Part 4: YÊU CẦU 4 ( STRING )</h1>
+<h2>Bài 1: Viết một hàm chuẩn hóa xâu ký tự: biến đổi xâu ký tự thành xâu sao cho trong xâu không có 2 dấu cách liền nhau và bắt đầu mỗi từ phải in hoa. Ví dụ tRuong &nbsp;&nbsp;&nbsp;&nbsp; TaN &nbsp;&nbsp;&nbsp;&nbsp; HAI => Truong Tan Hai.</h2>
+<h2>Và một hàm tìm từ dài nhất trong 1 xâu ký tự. Hàm main sử dụng các hàm này để nhập xâu ký tự từ bàn phím, in ra xâu trước và sau khi chuẩn hóa, 1 từ dài nhất trong xâu đó.</h2>
+<button type="button" onclick="part4CaseStudyBai1()">Bài 1</button>
+<h2>Bài 2: Cho xâu kí tự. Hãy đếm số lượng kí tự khác nhau trong xâu đó</h2>
+<h2>Ví dụ: s = "cabca", thì kết quả differentSymbolsNaive(s) = 3.</h2>
+<h2>⇨Có 3 kí tự khác nhau là a, b và c.</h2>
+<button type="button" onclick="part4CaseStudyBai2()">Bài 2</button>
+<h2>Bài 3: Cho hai xâu kí tự, tìm số lượng kí tự chung giữa chúng.</h2>
+<h2>Ví dụ: s1 = "aabcc" và s2 = "adcaa", thì kết quả commonCharacterCount(s1, s2) = 3.</h2>
+<h2>⇨2 xâu s1 và s2 có 3 kí tự chung: 2 kí tự 'a' và 1 kí tự 'c'.</h2>
+<button type="button" onclick="part4CaseStudyBai3()">Bài 3</button>
+<h1>Part 5: Yêu cầu 5 (Mảng 2 chiều)</h1>
+<h2>Bài 1: Viết hàm tính tổng các số chẵn trong ma trận có kích thước m*n. Với m, n là các số nhập từ bàn phím</h2>
+<button type="button" onclick="part5CaseStudyBai1()">Bài 1</button>
+<h2>Bài 2: Viết hàm liệt kê các số nguyên tố trong mảng 2 chiều, đếm các số nguyên tố có trong mảng đó.</h2>
+<button type="button" onclick="part5CaseStudyBai2()">Bài 2</button>
+<h2>Bài 3: Viết hàm tìm giá trị lớn nhất, nhỏ nhất trong mảng 2 chiều</h2>
+<button type="button" onclick="part5CaseStudyBai3()">Bài 3  </button>
+<script src="part1CaseStudyBai1.js"></script>
+<script src="part1CaseStudyBai2.js"></script>
+<script src="part1CaseStudyBai3.js"></script>
+<script src="part1CaseStudyBai4.js"></script>
+<script src="part2CaseStudyBai1.js"></script>
+<script src="part2CaseStudyBai2.js"></script>
+<script src="part3CaseStudyBai1.js"></script>
+<script src="part3CaseStudyBai2.js"></script>
+<script src="part3CaseStudyBai3.js"></script>
+<script src="part3CaseStudyBai4.js"></script>
+<script src="part3CaseStudyBai5.js"></script>
+<script src="part4CaseStudyBai1.js"></script>
+<script src="part4CaseStudyBai2.js"></script>
+<script src="part4CaseStudyBai3.js"></script>
+<script src="part5CaseStudyBai1.js"></script>
+<script src="part5CaseStudyBai2.js"></script>
+<script src="part5CaseStudyBai3.js"></script>
+</body>
+</html>

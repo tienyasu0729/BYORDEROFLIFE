@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Vẽ tam giác cân rỗng có chiều cao h. </h1>
+<button type="button" onclick="practice2()">Bài 3</button>
+<script>
+    function practice2() {
+        let botton, height;
+        do {
+            height = +prompt("Nhap chieu cao: ");
+            botton = height;
+        } while (botton <= 0 || height <= 0 )
+        for (let i = 1; i <= botton; i++) {
+            for (let j = 1; j <= height; j++) {
+                if (j === 1 || j === i || i === botton) {
+                    document.write("*");
+                } else {
+                    document.write("\xa0\xa0");
+                }
+            }
+            document.write('<br>');
+        }
+    }
+</script>
+</body>
+</html>

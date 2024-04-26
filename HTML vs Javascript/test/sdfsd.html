@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body onload="startGame()">
+<canvas id="gameCanvas" width="400" height="600"></canvas>
+<script>
+    // Initialize canvas and variables
+    var canvas = document.getElementById("gameCanvas");
+    var ctx = canvas.getContext("2d");
+    var birdX = 50;
+    var birdY = 300;
+    var birdSpeed = 0;
+    var gravity = 1.5;
+    var pipeList = [];
+
+    // Initialize pipes
+    pipeList.push({
+        x: canvas.width,
+        y: 0,
+        width: 50,
+        height: Math.floor(Math.random() * 300) + 50
+    });
+
+    // Draw bird and pipes
+    function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.fillRect(birdX, birdY, 50, 50);
+        for (var i = 0; i < pipeList.length; i++) {
+            ctx.fillRect(pipeList[i].x, 0, pipeList[i].width, pipeList[i].height);
+            ctx.fillRect(pipeList[i].x, pipeList[i].height + 150, pipeList[i].width, canvas.height - pipeList[i].height - 150);
+        }
+    }
+
+    // Update bird and pipes
+    function update() {
+        birdSpeed += gravity;
+        birdY += birdSpeed;
+        for (var i = 0; i < pipeList.length; i++) {
+            pipeList[i].x -= 2;
+            if (pipeList[i].x + pipeList[i].width < 0) {
+                pipeList.splice(i, 1);
+            }
+        }
+        if (pipeList[pipeList.length - 1].x < canvas.width - 200) {
+            pipeList.push({
+                x: canvas.width,
+                y: 0,
+                width: 50,
+                height: Math.floor(Math.random() * 300) + 50
+            });
+        }
+    }
+
+    // Check for collision
+    function checkCollision() {
+        for (var i = 0; i < pipeList.length; i++) {
+            if (birdX + 50 > pipeList[i].x && birdX < pipeList[i].x + pipeList[i].width && (birdY < pipeList[i].height || birdY + 50 > pipeList[i].height + 150)) {
+                alert("Game Over");
+                location.reload();
+            }
+        }
+    }
+
+    // Start game loop
+    function startGame() {
+        setInterval(function() {
+            update();
+            draw();
+            checkCollision();
+        }, 20);
+    }
+
+    // Handle bird jump
+    document.onkeydown = function(event) {
+        if (event.code === "Space") {
+            birdSpeed = -10;
+        }
+    };
+</script>

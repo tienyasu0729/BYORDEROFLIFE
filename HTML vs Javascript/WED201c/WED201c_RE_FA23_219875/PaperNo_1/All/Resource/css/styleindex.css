@@ -1,0 +1,84 @@
+.navbar-header{
+    background-color: rgb(0, 181, 213);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.navbar-header a{
+    color:white;
+}
+.footer{
+    background-color: #5bc0de;
+    width: 100%;
+    padding: 8px;
+    color: white;
+    margin-top: 15px;
+}
+h1{
+    text-align: center;
+    color:  rgb(0, 181, 213);
+    margin: 30px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.active{
+    background-color:orange;
+    font-weight:700;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.right-Search{
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+
+.container-fluid .anh1 img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.location div {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+.colorNameLocation{
+    color: #5cb85c;
+}
+.colorPrice{
+    color: orange;
+}
+.information div {
+    width: 45%;
+    float: left;
+    margin-left: 20px;
+}
+
+.information label{
+    color: #4cae4c;
+    font-size: 20px;
+}
+.footer div{
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    background-color: #5bc0de;
+}
+
+.colorTittleInformation{
+    color: #5bc0de;
+}
+input{
+    display: block;
+}

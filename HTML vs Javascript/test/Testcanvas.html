@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hình tròn và tọa độ</title>
+    <style>
+        #canvas {
+            border:1px solid #d3d3d3;
+            cursor: crosshair;
+        }
+    </style>
+</head>
+<body>
+<canvas id="canvas" width="400" height="400"></canvas>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+        var circleX = canvas.width / 2;
+        var circleY = canvas.height / 2;
+        var radius = 50;
+        var isDrawing = false;
+
+        // Vẽ hình tròn đen
+        ctx.beginPath();
+        ctx.arc(circleX, circleY, radius, 0, 2 * Math.PI);
+        ctx.fillStyle = 'black';
+        ctx.fill();
+        ctx.closePath();
+
+        // Xử lý sự kiện mousedown
+        $('#canvas').mousedown(function(event) {
+            var rect = canvas.getBoundingClientRect();
+            var mouseX = event.clientX - rect.left;
+            var mouseY = event.clientY - rect.top;
+
+            // Vẽ đường thẳng từ tâm đến vị trí con trỏ chuột
+            ctx.beginPath();
+            ctx.moveTo(circleX, circleY);
+            ctx.lineTo(mouseX, mouseY);
+            ctx.strokeStyle = 'red';
+            ctx.lineWidth = 2;
+            ctx.stroke();
+
+            isDrawing = true;
+        });
+
+        // Xử lý sự kiện mousemove
+        $('#canvas').mousemove(function(event) {
+            if (isDrawing) {
+                var rect = canvas.getBoundingClientRect();
+                var mouseX = event.clientX - rect.left;
+                var mouseY = event.clientY - rect.top;
+
+                // Xóa nội dung canvas
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                // Vẽ lại hình tròn đen
+                ctx.beginPath();
+                ctx.arc(circleX, circleY, radius, 0, 2 * Math.PI);
+                ctx.fillStyle = 'black';
+                ctx.fill();
+                ctx.closePath();
+
+                // Vẽ đường thẳng từ tâm đến vị trí con trỏ chuột
+                ctx.beginPath();
+                ctx.moveTo(circleX, circleY);
+                ctx.lineTo(mouseX, mouseY);
+                ctx.strokeStyle = 'red';
+                ctx.lineWidth = 2;
+                ctx.stroke();
+            }
+        });
+
+        // Xử lý sự kiện mouseup
+        $('#canvas').mouseup(function(event) {
+            if (isDrawing) {
+                isDrawing = false;
+
+                // Xóa nội dung canvas
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                // Vẽ lại hình tròn đen
+                ctx.beginPath();
+                ctx.arc(circleX, circleY, radius, 0, 2 * Math.PI);
+                ctx.fillStyle = 'black';
+                ctx.fill();
+                ctx.closePath();
+            }
+        });
+
+        // Xử lý sự kiện mouseleave
+        $('#canvas').mouseleave(function(event) {
+            if (isDrawing) {
+                isDrawing = false;
+
+                // Xóa nội dung canvas
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                // Vẽ lại hình tròn đen
+                ctx.beginPath();
+                ctx.arc(circleX, circleY, radius, 0, 2 * Math.PI);
+                ctx.fillStyle = 'black';
+                ctx.fill();
+                ctx.closePath();
+            }
+        });
+    });
+</script>
+</body>
+</html>

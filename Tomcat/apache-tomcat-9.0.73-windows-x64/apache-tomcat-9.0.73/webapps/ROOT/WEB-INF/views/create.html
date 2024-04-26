@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Thêm mới</h1>
+<form th:object="${student}" th:action="@{/student/create}" method="post">
+    ID
+    <input type="text" th:field="*{id}">
+    Name
+    <input type="text" th:field="*{name}">
+    Gender
+    <input type="radio" value="1" th:field="*{gender}">Nam
+    <input type="radio" value="0" th:field="*{gender}">Nữ
+    <input type="radio" value="-1" th:field="*{gender}">LGBT
+    <button>Save</button>
+</form>
+<div th:replace="~{layout::foot}"></div>
+</body>
+</html>

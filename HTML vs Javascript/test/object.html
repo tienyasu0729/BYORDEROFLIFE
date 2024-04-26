@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // tạo 1 tượng student1
+    ​
+    // let student1 ={
+    //     id: 1,
+    //     name: 'Ty',
+    //     age: 18,
+    //     study(subject){
+    //         console.log("học viên tên "+ this.name + "đang học môn : "+ subject)
+    //     }
+    // }
+    // let student2 ={
+    //     id: 1,
+    //     name: 'Tý',
+    //     age: 18,
+    //     study(subject){
+    //         console.log("học viên tên "+ this.name + "đang học môn : "+ subject)
+    //     }
+    // }
+    // in ra tên hcoj viên
+    // console.log("tên học viên: " +student1.name);
+    // student1.study("JS");
+    // tạo lớp sd từ khoá function
+    let Student = function(id,name,age){
+        this.id = id; // thuộc tính
+        this.name =name;// tt
+        this.age =age;// tt
+        this.study = function (subject) { // hành vi/ phương thức
+            console.log("học viên tên "+ this.name + "đang học môn : "+ subject)
+        }
+    }
+​
+    // sd  từ khoá class để tạo class SinhVien
+    class SinhVien{
+        constructor(id,name,age) {
+            this.id = id; // thuộc tính
+            this.name =name;// tt
+            this.age =age;// tt
+            this.school ="codegym";
+        }
+        study(subject){
+            console.log("học viên tên "+ this.name + "đang học môn : "+ subject)
+        }
+        getName(){
+            return this.name;
+        }
+        setName(name){
+            this.name=name;
+        }
+    ​
+    }
+​
+    // let student1 = new Student(10,"Huy",20);
+    // let student2= new Student(11,"Hạnh",20);
+    // let student3 = new Student(12,"Minh",20);
+    // let student4 = new Student(10,"Tuyết",20);
+    //
+    // console.log("tên học viên: " +student1.name);
+    // // student1.name="Nobita";
+    // student1.study("HTML");
+    // student2.study("Văn");
+    ​
+    let sinhVien1 = new SinhVien(20,"chánh", 38);
+    let sinhVien2 = new SinhVien(21,"tuấn", 38);
+    let sinhVien3 = new SinhVien(22,"hải", 38);
+​
+    console.log("tên học viên : "+  sinhVien1.getName())
+    sinhVien1.setName("Nobita");
+    sinhVien1.study("Tiếng Anh");
+​
+</script>
+</body>
+</html>

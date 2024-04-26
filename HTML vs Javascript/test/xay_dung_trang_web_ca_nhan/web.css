@@ -1,0 +1,22 @@
+#vv{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color:red;
+    background: #4effbc;
+}
+footer{
+    margin-top: 40%;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color:red;
+    background: #4effbc;
+}
+#if{
+    margin-top: 100px;
+    width: 75%;
+    text-align: center;
+    float: right;
+    font-size: 30px;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #container {
+            display: flex;
+            flex-wrap: wrap;
+            width: 300px;
+            height: 300px;
+            border: 1px solid black;
+        }
+        .dot {
+            width: 30%;
+            height: 30%;
+            border-radius: 50%;
+            background-color: white;
+            border: 2px solid black;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+<input type="date" value="2003-04-03">
+<h2>Nhập mật khẩu màn hình</h2>
+<p>Vui lòng chọn các điểm để tạo mật khẩu màn hình</p>
+<div id="container">
+    <div class="dot" id="dot1" onclick="addDot(1)"></div>
+    <div class="dot" id="dot2" onclick="addDot(2)"></div>
+    <div class="dot" id="dot3" onclick="addDot(3)"></div>
+    <div class="dot" id="dot4" onclick="addDot(4)"></div>
+    <div class="dot" id="dot5" onclick="addDot(5)"></div>
+    <div class="dot" id="dot6" onclick="addDot(6)"></div>
+    <div class="dot" id="dot7" onclick="addDot(7)"></div>
+    <div class="dot" id="dot8" onclick="addDot(8)"></div>
+    <div class="dot" id="dot9" onclick="addDot(9)"></div>
+</div>
+<button onclick="submitPassword()">Xác nhận</button>
+
+<script>
+    var password = [];
+
+    function addDot(dotNumber) {
+        var dot = document.getElementById("dot" + dotNumber);
+        dot.style.backgroundColor = "black";
+        password.push(dotNumber);
+    }
+
+    function submitPassword() {
+        if (password.length > 0) {
+            alert("Mật khẩu màn hình của bạn là: " + JSON.stringify(password));
+            // Thay đổi "alert" thành code của bạn để lưu trữ mật khẩu này.
+        } else {
+            alert("Bạn chưa nhập mật khẩu màn hình!");
+        }
+    }
+</script>
+</body></html>

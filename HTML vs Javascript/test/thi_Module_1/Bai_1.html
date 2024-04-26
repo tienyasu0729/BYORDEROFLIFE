@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài_1</title>
+</head>
+<body>
+<script>
+    let a;
+    do {
+        a = +prompt("Nhập vào đây số lượng phần tử trong mảng");
+    } while (a > 20);
+    let arr = [];
+    let dem = 1;
+    let printtothescreen = "";
+    for (let i = 0; i < a; i++) {
+        arr[i] = prompt("Nhập vào đây phần tử thứ " + (i +1));
+    }
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = 0; j < arr.length; j++) {
+            if (arr[i] === arr[j] && i !== j) {
+                ++dem;
+                arr.splice(j,1);
+                j--;
+            }
+        }
+        printtothescreen += arr[i] + " :" + dem + "<br>";
+        dem = 1;
+    }
+    document.write(printtothescreen);
+</script>
+</body>
+</html>

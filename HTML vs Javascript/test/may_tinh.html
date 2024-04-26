@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        input {
+            width: 100px;
+            height: 100px;
+        }
+
+        table {
+            border: 5px solid green;
+
+        }
+        body{
+            background: aqua;
+        }
+        {
+            color: orange;
+        }
+        button{
+            width: 100px;
+            height: 100px;
+        }
+
+
+    </style>
+</head>
+<body>
+<h1 style="background: black; color: white; text-align: center; width: 420px">máy tính</h1>
+<table>
+    <tr>
+        <td colspan="4"><input style="width: 400px; height: 50px" type="text" id="window"></td>
+    </tr>
+
+    <tr>
+        <td><input type="button" onclick="bam(this.value)" value="1"></td>
+        <td><input type="button" onclick="bam(this.value)" value="2"></td>
+        <td><input type="button" onclick="bam(this.value)" value="3"></td>
+        <td><input type="button" onclick="bam(this.value)" value="+"></td>
+    </tr>
+    <tr>
+        <td><input type="button" onclick="bam(this.value)" value="4"></td>
+        <td><input type="button" onclick="bam(this.value)" value="5"></td>
+        <td><input type="button" onclick="bam(this.value)" value="6"></td>
+        <td><input type="button" onclick="bam(this.value)" value="-"></td>
+    </tr>
+    <tr>
+        <td><input type="button" onclick="bam(this.value)" value="7"></td>
+        <td><input type="button" onclick="bam(this.value)" value="8"></td>
+        <td><input type="button" onclick="bam(this.value)" value="9"></td>
+        <td><input type="button" onclick="bam(this.value)" value="*"></td>
+    </tr>
+    <tr>
+        <td><input type="button" onclick="xoa()" value="C"></td>
+        <td><input type="button" onclick="bam(this.value)" value="2"></td>
+        <td><input type="button" onclick="bang()" value="="></td>
+        <td><button onclick="bam(this.value)" value="/">/</button> </td>
+    </tr>
+
+    <script>
+        function bam(so) {
+            document.getElementById('window').value += so;
+        }
+
+        function xoa() {
+            document.getElementById('window').value = "";
+        }
+
+        function bang() {
+            let abng = document.getElementById('window').value;
+            document.getElementById('window').value= eval(abng);
+
+        }
+    </script>
+
+</table>
+</body>
+</html>

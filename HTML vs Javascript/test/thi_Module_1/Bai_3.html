@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = +prompt("Số phần tử cần kiểm tra ");
+    let array = Array();
+    for (let i = 0; i < a; i++) {
+        array[i] = +prompt("Nhập số cần kiểm tra thứ " + (i + 1));
+    }
+    bai3(array);
+
+    function bai3(check) {
+        let mang = Array();
+        let b = 0;
+        for (let i = 0; i < check.length; i++) {
+            if (check[i] === 2 && check[i] > 1 || check[i] === 3 && check[i] > 1 || check[i] > 1 && check[i] % 2 !== 0 && check[i] % 3 !== 0){
+                mang[b] = check[i];
+                ++b;
+            }
+        }
+        for(let i = 0; i < mang.length - 1; i++) {
+            for (let j = i + 1; j <= mang.length; j++) {
+                if (mang[i] > mang[j]) {
+                    let kiemtra = mang[i];
+                    mang[i] = mang[j];
+                    mang[j] = kiemtra;
+                }
+            }
+        }
+        alert(mang);
+    }
+
+</script>
+</body>
+</html>

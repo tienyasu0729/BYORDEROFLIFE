@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #form12 {
+            width: 500px;
+            border: 5px solid lightblue;
+        }
+
+        input {
+            text-align: center;
+        }
+
+        #dieuchinh {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div id="form12">
+    <form action="" method="get">
+        <h1 style="background: orange; color: white; text-align: center; width: 500px">SỞ THÍCH CỦA BẠN</h1>
+        <div id="dieuchinh">
+            <label for="hovaten">Họ và tên</label>
+            <input class="dieuchinh" type="text" id="hovaten"><br>
+            <label for="email">Email</label>
+            <input style="width: 140px" type="email" id="email"><br>
+        </div>
+        <label style="margin-left: 100px">Sở thích</label>
+        <input type="checkbox" id="thethao">
+        <label for="thethao">Thể thao </label>
+        <input type="checkbox" id="amnhac">
+        <label for="amnhac">Âm nhạc</label>
+        <input type="checkbox" id="docsach">
+        <label for="docsach">Đọc sách</label><br>
+        <input style="margin-left: 160px" type="checkbox" id="luotwed">
+        <label for="luotwed">Lướt WED</label>
+        <input type="checkbox" id="choigame">
+        <label for="choigame">Chơi GAME</label>
+        <input type="checkbox" id="dienanh">
+        <label for="dienanh">Điện ảnh</label><br>
+        <input style="margin-left: 160px" type="checkbox" id="dulich">
+        <label for="dulich">Du lịch</label><br>
+        <div id="dieuchinh">
+            <button type="submit">Gửi thông tin</button>
+            <button type="reset">Nhập lại</button>
+        </div>
+    </form>
+</div>
+<br><br><br>
+<form>
+    <h1 style="background: aquamarine; color: blue; width: 500px ">ĐĂNG KÍ HỌC VIỆN</h1>
+    <label for="hovaten2">Họ và tên</label>
+    <input type="text" id="hovaten2"><br>
+    <label for="ngaysinh">Ngày sinh</label>
+    <input type="date" id="ngaysinh"><br>
+    <label>Giới tính</label>
+    <input id="nam" type="radio" name="gioitinh">
+    <label for="nam">Nam</label>
+    <input id="nu" type="radio" name="gioitinh">
+    <label for="nu">Nữ</label><br>
+    <label for="diachi">Địa chỉ</label>
+    <textarea id="diachi" style="height: 50px">xin hãy nhập địa chỉ vào đây</textarea><br>
+    <label for="lop">Lớp</label>
+    <select id="lop" name="lop">
+        <option value="chonlop">--chọn lớp--</option>
+        <option value="maugiao">Mẫu giáo</option>
+        <option value="lop1">Lớp 1</option>
+        <option value="lop2">Lớp 2</option>
+        <option value="lop3">Lớp 3</option>
+        <option value="lop4">Lớp 4</option>
+        <option value="lop5">Lớp 5</option>
+        <option value="lop6">Lớp 6</option>
+        <option value="lop7">Lớp 7</option>
+        <option value="lop8">Lớp 8</option>
+        <option value="lop9">Lớp 9</option>
+        <option value="lop10">Lớp 10</option>
+        <option value="lop11">Lớp 11</option>
+        <option value="lop12">Lớp 12</option>
+        <option value="dai_hoc">Đại học</option>
+        <option value="khong_con_hoc">Không còn học</option>
+    </select>
+
+</form>
+
+</body>
+</html>

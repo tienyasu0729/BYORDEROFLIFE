@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Display all product</title>
+</head>
+<body>
+    <h1>Danh sách sản phẩm</h1>
+        <a href="/product/create" class="btn btn-primary">Create</a>
+        <form class="d-flex" role="search" action="/product/search" method="post">
+            <input class="form-control me-2" type="search" placeholder="Search" name="search" th:value="${search}">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+    <table>
+        <thead>
+        <tr>
+            <th scope="col">STT</th>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Description</th>
+            <th scope="col">Producer</th>
+            <th scope="col">Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="product, index : ${products}">
+            <th scope="row" th:text="${index.count}"></th>
+            <td th:text="${product.id}"></td>
+            <td th:text="${product.name}"></td>
+            <td th:text="${product.price}"></td>
+            <td th:text="${product.desc}"></td>
+            <td th:text="${product.producer}"></td>
+            <td>
+                <a th:href="@{/product/update/__${product.id}__}" class="btn btn-success">Edit</a>
+                <a th:href="@{/product/delete/{id}(id=${product.id})}" class="btn btn-danger">Delete</a>
+                <a th:href="@{/product/detail(id=${product.id})}" class="btn btn-secondary">Detail</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CASE STUDY</title>
+    <style>
+        .tieuDe {
+            text-align: center;
+            color: red;
+            font-size: 50px;
+        }
+
+        .tieuDeCuaTungPhan {
+            color: red;
+        }
+
+        button {
+            width: 100px;
+            height: 50px;
+            font-size: 20px;
+            color: darkgreen;
+            border-color: lawngreen;
+            border-width: 5px;
+        }
+
+    </style>
+</head>
+<body>
+<h1 class="tieuDe">*** CASE STUDY ***</h1>
+<hr>
+<h1 class="tieuDeCuaTungPhan">PART 1: YÊU CẦU 1 ( VẼ HÌNH * )</h1>
+<h2>- Bài 1: Vẽ hình chữ nhật rỗng chiều dài n và chiều rộng m theo hình dưới đây. Ví dụ: x = 4, y = 5</h2>
+<button type="button" onclick="part_1_Case_Study_Bai_1()">Vẽ bài 1</button>
+<h2>- Bài 2: Vẽ tam giác vuông cân rỗng có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part_1_Case_Study_Bai_2()">Vẽ bài 2</button>
+<h2>- Bài 3: Vẽ tam giác cân đặc có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part_1_Case_Study_Bai_3()">Vẽ bài 3</button>
+<h2>- Bài 4: Vẽ tam giác cân rỗng có chiều cao h. Ví dụ: h = 5</h2>
+<button type="button" onclick="part_1_Case_Study_Bai_4()">Vẽ bài 4</button>
+<hr>
+<h1 class="tieuDeCuaTungPhan">PART 2: YÊU CẦU 2 ( IF VÀ SWITCH CASE )</h1>
+<h2>- Bài 1: Viết một chương trình để nhập lương nhân viên, tính thuế thu nhập và lương ròng (số tiền lương thực sự mà
+    nhân viên đó nhận được). Với các thông số giả sử như sau (không theo luật lương, chỉ là con số giả sử để dễ tính
+    toán):</h2>
+<h2>+ 20% thuế thu nhập nếu lương là 15 triệu.</h2>
+<h2>+ 10% thuế thu nhập nếu lương từ 7 đến 15 triệu.</h2>
+<h2>+ 5% thuế thu nhập nếu lương dưới 7 triệu</h2>
+<button type="button" onclick="part_2_Case_Study_Bai_1()">Bài 1</button>
+<h2>- Bài 2: Viết chương trình kiểm tra một ký tự trong bảng chữ cái tiếng anh là nguyên âm hay phụ âm. Ký tự là bất kỳ
+    được nhập từ bàn phím. Các ký tự nguyên âm bao gồm: 'o', 'u', 'i', 'a', 'e' hoặc 'O', 'U', 'I', 'A', 'E'</h2>
+<button type="button" onclick="part_2_Case_Study_Bai_2()">Bài 2</button>
+<hr>
+<h1 class="tieuDeCuaTungPhan">PART 3: YÊU CẦU 3 ( MẢNG VÀ LOOP )</h1>
+<h2>Bài 1: Cho mảng a chỉ chứa các số nguyên</h2>
+<h2>Xây dựng mảng b là prefix sums của mảng a cụ thể theo công thức:</h2>
+<h2>b[0] = a[0]</h2>
+<h2>b[1] = a[0] + a[1]</h2>
+<h2>b[2] = a[0] + a[1] + a[2]</h2>
+<h2>...</h2>
+<h2>b[n - 1] = a[0] + a[1] + ... + a[n - 1]</h2>
+<h2>với n là độ dài của mảng a.</h2>
+<h2>Ví dụ: Cho a = [1, 2, 3], thì kết quả prefixSums(a) = [1, 3, 6].</h2>
+<h2>Mảng b được tạo ra: [1, 1 + 2, 1 + 2 + 3] = [1, 3, 6]</h2>
+<button type="button" onclick="part_3_Case_Study_Bai_1()">Bài 1</button>
+<h2>Bài 2: Cho 2 mảng A và B chứa số nguyên. Tìm ra một mảng đã được sắp xếp chứa các phần tử xuất hiện trong mảng B
+    nhưng lại không xuất hiện A</h2>
+<h2>Chú ý các phần tử giống nhau chỉ tính là 1 lần xuất hiện</h2>
+<h2>Ví dụ: A=[7,2,5,3,5,3] và B=[7,2,5,4,6,3,5,3] thì kết quả missingValue(A, B) = [4, 6]</h2>
+<button type="button" onclick="part_3_Case_Study_Bai_2()">Bài 2</button>
+<hr>
+<script>
+    function part_1_Case_Study_Bai_1() {
+        let n = +prompt("Nhập vào đây chiều dài của hình chữ nhật"); // hàng
+        let m = +prompt("Nhập vào đây chiều rộng của hình chữ nhật");// cột
+        let print_To_The_Screen = "";
+        for (let i = 0; i < m; i++) {
+            for (let j = 0; j < n; j++) {
+                if (i === 0 || j === 0 || j === n - 1 || i === m - 1) {
+                    print_To_The_Screen += "* ";
+                } else {
+                    print_To_The_Screen += "&nbsp;&nbsp;&nbsp";
+                }
+            }
+            print_To_The_Screen += "<br>";
+        }
+        document.write(print_To_The_Screen);
+    }
+
+    function part_1_Case_Study_Bai_2() {
+        let h = +prompt("Nhập vào đây chiều cao của tam giác vuông cân rỗng");
+        let print_To_The_Screen = "";
+        for (let i = 0; i < h; i++) {
+            for (let j = 0; j <= i; j++) {
+                if (j === 0 || j === i || i === h - 1) {
+                    print_To_The_Screen += "* ";
+                } else {
+                    print_To_The_Screen += "&nbsp;&nbsp;&nbsp";
+                }
+            }
+            print_To_The_Screen += "<br>";
+        }
+        document.write(print_To_The_Screen);
+    }
+
+    function part_1_Case_Study_Bai_3() {
+        let h = +prompt("Nhập vào đây chiều cao của tam giác cân đặc");
+        let x = h;
+        let a = h - 1;
+        let print_To_The_Screen = "";
+        for (let i = 0; i < h; i++) {
+            for (let j = 0; j < x; j++) {
+                if (j === x - 1 || j > a - 1) {
+                    print_To_The_Screen += "*";
+                } else {
+                    print_To_The_Screen += "&nbsp;&nbsp";
+                }
+            }
+            x++;
+            a--;
+            print_To_The_Screen += "<br>";
+        }
+        document.write(print_To_The_Screen);
+    }
+
+    function part_1_Case_Study_Bai_4() {
+        let h = +prompt("Nhập vào đây chiều cao của tam giác cân rỗng ruột");
+        let x = h;
+        let a = h - 1;
+        let print_To_The_Screen = "";
+        for (let i = 0; i < h; i++) {
+            for (let j = 0; j < x; j++) {
+                if (j === x - 1 || j === a || i === h - 1) {
+                    print_To_The_Screen += "* ";
+                } else {
+                    print_To_The_Screen += "&nbsp;&nbsp;&nbsp";
+                }
+            }
+            x++;
+            a--;
+            print_To_The_Screen += "<br>";
+        }
+        document.write(print_To_The_Screen);
+    }
+
+    function part_2_Case_Study_Bai_1() {
+        let salary;
+        do {
+            salary = +prompt("Nhập vào đây mức lương của bạn ");
+        } while (salary < 0);
+        let tax;
+        if (salary < 7000000) {
+            tax = salary / 100 * 5;
+            alert("Thuế bạn cần phải đóng là :" + tax + "vnd");
+            alert("lương của bạn sau khi trừ thuế là :" + (salary - tax) + "vnd");
+        } else {
+            if (7000 <= salary < 15000000) {
+                tax = salary / 100 * 10;
+                alert("Thuế bạn cần phải đóng là :" + tax + "vnd");
+                alert("lương của bạn sau khi trừ thuế là :" + (salary - tax) + "vnd");
+            } else {
+                if (salary >= 15000000) {
+                    tax = salary / 100 * 20;
+                    alert("Thuế bạn cần phải đóng là :" + tax + "vnd");
+                    alert("lương của bạn sau khi trừ thuế là :" + (salary - tax) + "vnd");
+                }
+            }
+        }
+    }
+
+    function part_2_Case_Study_Bai_2() {
+        let alphabet = prompt("Nhập vào đây chữ cái cần kiểm tra là nguyên âm hay phụ âm");
+        switch (alphabet) {
+            case "u":
+            case "e":
+            case "o":
+            case "a":
+            case "i":
+            case "U":
+            case "E":
+            case "O":
+            case "A":
+            case "I":
+                alert("Chữ cái " + alphabet + " là một nguyên âm");
+                break;
+            case "b":
+            case "c":
+            case "d":
+            case "f":
+            case "g":
+            case "h":
+            case "j":
+            case "k":
+            case "l":
+            case "m":
+            case "n":
+            case "p":
+            case "q":
+            case "r":
+            case "s":
+            case "t":
+            case "v":
+            case "w":
+            case "x":
+            case "y":
+            case "z":
+            case "B":
+            case "C":
+            case "D":
+            case "F":
+            case "G":
+            case "H":
+            case "J":
+            case "K":
+            case "L":
+            case "M":
+            case "N":
+            case "P":
+            case "Q":
+            case "R":
+            case "S":
+            case "T":
+            case "V":
+            case "W":
+            case "X":
+            case "Y":
+            case "Z":
+                alert("Chữ cái " + alphabet + " là một phụ âm");
+                break;
+            default :
+                alert("Không tìm thấy hoặc bạn nhập vào không đúng");
+        }
+    }
+
+    function part_3_Case_Study_Bai_1() {
+        let n = +prompt("Nhập vào đây số phần tử có trong mảng ");
+        let arr_a = [];
+        let arr_b = [];
+        let push = 0;
+        for (let i = 0; i < n; i++) {
+            arr_a[i] = +prompt("Nhập vào đây phần tử thứ " + (i + 1) + "của mảng a");
+        }
+        for (let i = 0; i < n; i++) {
+            push += arr_a [i]
+            arr_b[i] = push;
+        }
+        alert("Prefix sums của mảng a là : " + arr_b);
+    }
+
+    function part_3_Case_Study_Bai_2() {
+        let n_a = +prompt("Nhập vào đây số phần tử của mảng a");
+        let arr_a = [];
+        let n_b = +prompt("Nhập vào đây số phần tử của mảng b");
+        let arr_b = [];
+        for (let i = 0; i < n_a; i++) {
+            arr_a[i] = +prompt("Nhập vào đây giá trị của phần tử thứ " + (i + 1) + "của mảng a :");
+        }
+        for (let i = 0; i < n_b; i++) {
+            arr_b[i] = +prompt("Nhập vào đây giá trị của phần tử thứ " + (i + 1) + "của mảng b :");
+        }
+        let missing_Value = "";
+        let a = [];
+        let c = 1;
+        for (let i = 0; i < n_a; i++) {
+            for (let j = 0; j < n_b; j++) {
+                if (arr_a[i] === arr_b[j]) {
+                    for (let k = 0; k < c; k++) {
+                        a[k] = arr_a[i];
+                    }
+                }
+            }
+            if (a.length === 0) {
+                missing_Value += arr_a[i] + ", ";
+            } else {
+                a = [];
+            }
+        }
+        for (let i = 0; i < n_b; i++) {
+            for (let j = 0; j < n_a; j++) {
+                if (arr_b[i] === arr_a[j]) {
+                    for (let k = 0; k < c; k++) {
+                        a[k] = arr_b[i];
+                    }
+                }
+            }
+            if (a.length === 0) {
+                missing_Value += arr_b[i] + ", ";
+            } else {
+                a = [];
+            }
+        }
+        alert("Prefix Sums [ A , B ] = " + missing_Value);
+    }
+
+
+</script>
+</body>
+</html>
