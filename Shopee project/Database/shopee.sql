@@ -122,56 +122,61 @@ CREATE TABLE product_shipping_method (
 
 CREATE TABLE user (
     id_user INT PRIMARY KEY auto_increment,
-    phone_number  VARCHAR(15) NOT NULL,
+    phone_number VARCHAR(15) NOT NULL,
     password  VARCHAR(99) NOT NULL,
-    account_name varchar(500) not null,
-    real_name  VARCHAR(500),
-    email varchar(500),
-    sex char,
-    date_of_birth date,
-    avatar_image varchar(500),
+    account_name varchar(500) null,
+    real_name  VARCHAR(500) null,
+    email varchar(500) null,
+    sex char null,
+    date_of_birth date null,
+    avatar_image varchar(500) null,
     joining_date DATE DEFAULT (current_date())
 );
 
 CREATE TABLE user_wallet (
-    id_wallet INT PRIMARY KEY auto_increment,
-	user_wallet int
+    id_user INT PRIMARY KEY,
+	user_wallet int default 0,
+	FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
-CREATE TABLE identification_information (
-    id INT PRIMARY KEY auto_increment,
-    cccd VARCHAR(12) NOT NULL,
-    image_selfie VARCHAR(500),
-    image_cccd_front  VARCHAR(500),
-    image_cccd_back VARCHAR(500)
+CREATE TABLE user_identification_information (
+    id_user INT PRIMARY KEY,
+    cccd VARCHAR(12) NULL,
+    image_selfie VARCHAR(500) null,
+    image_cccd_front VARCHAR(500) null,
+    image_cccd_back VARCHAR(500) null,
+	FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
 CREATE TABLE user_orders (
-    id INT PRIMARY KEY auto_increment,
-	order_number int,
-    spending long
+    id_user INT PRIMARY KEY,
+	order_number int default 0,
+    spending long default 0,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
 CREATE TABLE user_notifications (
-    id INT PRIMARY KEY auto_increment,
-	email_notification_switch boolean,
-	order_update_via_email boolean,
-	promotional_email_notification boolean,
-	survey_notification_via_email boolean,
-	SMS_notification_switch boolean,
-	promotional_SMS_notification boolean
+    id_user INT PRIMARY KEY,
+	email_notification_switch boolean default 0,
+	order_update_via_email boolean default 0,
+	promotional_email_notification boolean default 0,
+	survey_notification_via_email boolean default 0,
+	SMS_notification_switch boolean default 0,
+	promotional_SMS_notification boolean default 0,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
-CREATE TABLE address (
-    id INT PRIMARY KEY,
-    name_address VARCHAR(255),
-	phone_number  VARCHAR(15) NOT NULL,
-    apartment_number VARCHAR(255),
-    street_name VARCHAR(255),
-    District VARCHAR(255),
-    Ward VARCHAR(255),
-    city VARCHAR(255),
-    is_default BOOLEAN
+CREATE TABLE user_address(
+    id_user INT PRIMARY KEY,
+    name_address VARCHAR(255) not null,
+	phone_number  VARCHAR(15) not null,
+    apartment_number VARCHAR(255) not null,
+    street_name VARCHAR(255) not null,
+    District VARCHAR(255) not null,
+    Ward VARCHAR(255) not null,
+    city VARCHAR(255) not null,
+    is_default BOOLEAN default 0,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
 CREATE TABLE coin_history (
