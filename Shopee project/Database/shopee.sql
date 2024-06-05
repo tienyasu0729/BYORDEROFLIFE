@@ -112,14 +112,6 @@ CREATE TABLE product_group (
     FOREIGN KEY (shop_id) REFERENCES shop(shop_id)
 );
 
-CREATE TABLE product_shipping_method (
-    product_shipping_method_id INT AUTO_INCREMENT PRIMARY KEY,
-    id_classification INT,
-    shop_shipping_method_id INT,
-    FOREIGN KEY (id_classification) REFERENCES product(product_id),
-    FOREIGN KEY (shop_shipping_method_id) REFERENCES shop_shipping_method(shop_shipping_method_id)
-);
-
 CREATE TABLE user (
     id_user INT PRIMARY KEY auto_increment,
     phone_number VARCHAR(15) NOT NULL,
@@ -148,7 +140,7 @@ CREATE TABLE user_identification_information (
 	FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
-CREATE TABLE user_orders (
+CREATE TABLE user_spending (
     id_user INT PRIMARY KEY,
 	order_number int default 0,
     spending long default 0,
@@ -180,48 +172,48 @@ CREATE TABLE user_address(
 );
 
 CREATE TABLE coin_history (
-    id INT PRIMARY KEY,
-    number_coin INT,
-    notification_subject VARCHAR(255),
-    notification_receipt_date DATE
+    id_coin_history INT PRIMARY KEY,
+    number_coin INT default 0,
+    notification_subject VARCHAR(255) not null,
+    notification_receipt_date DATE DEFAULT (current_date())
 );
 
 CREATE TABLE payment_method (
     id_payment_metod INT PRIMARY KEY,
-    payment_method_name VARCHAR(255)
+    payment_method_name VARCHAR(255) not null
 );
 
 CREATE TABLE shop_voucher (
-    id_shop_voucher INT PRIMARY KEY,
-    discount_percentage FLOAT,
-    maximum_discount_amount int,
-    discount_start_date DATE,
-    discount_end_date DATE,
-    offer_description TEXT,
-    đơn_vị_vận_chuyển VARCHAR(255),
-    thiết_bị VARCHAR(255)
+    id_shop_voucher INT PRIMARY KEY auto_increment,
+    discount_percentage FLOAT not null,
+    maximum_discount_amount int not null,
+    discount_start_date DATE not null,
+    discount_end_date DATE not null,
+    offer_description TEXT not null,
+    đơn_vị_vận_chuyển VARCHAR(255) not null,
+    thiết_bị VARCHAR(255) not null
 );
 
 CREATE TABLE web_voucher (
-    id_shop_voucher INT PRIMARY KEY,
-    discount_percentage FLOAT,
-    maximum_discount_amount int,
-    discount_start_date DATE,
-    discount_end_date DATE,
-    offer_description TEXT,
-    đơn_vị_vận_chuyển VARCHAR(255),
-    thiết_bị VARCHAR(255)
+    id_web_voucher INT PRIMARY KEY auto_increment,
+    discount_percentage FLOAT not null,
+    maximum_discount_amount int not null,
+    discount_start_date DATE not null,
+    discount_end_date DATE not null,
+    offer_description TEXT not null,
+    đơn_vị_vận_chuyển VARCHAR(255) not null,
+    thiết_bị VARCHAR(255) not null
 );
 
 CREATE TABLE delivery_voucher (
-    id_shop_voucher INT PRIMARY KEY,
-    discount_percentage FLOAT,
-    maximum_discount_amount int,
-    discount_start_date DATE,
-    discount_end_date DATE,
-    offer_description TEXT,
-    đơn_vị_vận_chuyển VARCHAR(255),
-    thiết_bị VARCHAR(255)
+    id_delivery_voucher INT PRIMARY KEY auto_increment,
+    discount_percentage FLOAT not null,
+    maximum_discount_amount int not null,
+    discount_start_date DATE not null,
+    discount_end_date DATE not null,
+    offer_description TEXT not null,
+    đơn_vị_vận_chuyển VARCHAR(255) not null,
+    thiết_bị VARCHAR(255) not null
 );
 
 CREATE TABLE user_order (
@@ -241,12 +233,14 @@ CREATE TABLE image_and_short_video_product (
 );
 
 CREATE TABLE product (
-    id INT PRIMARY KEY,
-    name_product VARCHAR(255),
-    product_description TEXT,
-    pre_order BOOLEAN,
-    condition_product VARCHAR(255),
-    SKU_product VARCHAR(255)
+    id_product INT PRIMARY KEY auto_increment,
+    name_product VARCHAR(255) not null,
+    product_description TEXT not null,
+    pre_order int default 0, -- đây để đánh dấu có phải hàng đặt trước không , nếu này lớn hơn 0 nghĩa là số ngày cần để có hàng
+    condition_product VARCHAR(255) not null,
+    SKU_product VARCHAR(255) null,
+    id_category int default null,
+    FOREIGN KEY (id_product) REFERENCES product(id_product)
 );
 
 CREATE TABLE list_item_in_order (
@@ -255,38 +249,57 @@ CREATE TABLE list_item_in_order (
     note_to_seller varchar(500)
 );
 
-CREATE TABLE classification_value (
-    id INT PRIMARY KEY,
-    classification VARCHAR(255),
-    price DECIMAL(10, 2),
-    inventory_quantity INT,
-    SKU_classification VARCHAR(255),
-    packaged_length DECIMAL(10, 2),
-    packaged_width DECIMAL(10, 2),
-    packaged_weight DECIMAL(10, 2),
-    packaged_height DECIMAL(10, 2),
-    allowed_package_inspection BOOLEAN
+CREATE TABLE classification (
+    id_classification INT PRIMARY KEY,
+    classification_name varchar(500) not null,
+    id_product int not null,
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
 );
 
-CREATE TABLE classification (
-    id_classification  INT PRIMARY KEY,
-    classification_name varchar(500)
+CREATE TABLE classification_value (
+    id_classification_value INT PRIMARY KEY,
+    classification_value VARCHAR(255),
+    price int not null,
+    inventory_quantity INT default 0, -- này là số lượng hàng tồn kho
+    SKU_classification VARCHAR(255) null,
+    packaged_length DECIMAL(10, 2) not null,
+    packaged_width DECIMAL(10, 2) not null,
+    packaged_weight DECIMAL(10, 2) not null,
+    packaged_height DECIMAL(10, 2) not null,
+    allowed_package_inspection BOOLEAN default 0, -- này để xem có cho phép kiểm tra hàng trước khi nhận không
+    id_classification int not null,
+    FOREIGN KEY (id_classification) REFERENCES classification(id_classification) ON DELETE CASCADE
+);
+
+CREATE TABLE product_shipping_method (
+    id_product_shipping_method INT PRIMARY KEY AUTO_INCREMENT,
+    id_classification_value INT not null,
+    id_shop_shipping_method INT not null,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
+    FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
 );
 
 CREATE TABLE category (
-    id_category INT PRIMARY KEY,
-    name_category varchar(500)
-    
+    id_category INT PRIMARY KEY AUTO_INCREMENT,
+    name_category VARCHAR(255) NOT NULL,
+    id_parent INT null UNIQUE,
+    FOREIGN KEY (parentID) REFERENCES category(id_category) ON DELETE CASCADE
 );
 
 CREATE TABLE category_attribute (
-    id_category_attribute INT PRIMARY KEY,
-    attribute_name varchar(500)
+    id_category_attribute INT PRIMARY KEY auto_increment,
+    name_attribute varchar(500) not null,
+    id_category int not null,
+    FOREIGN KEY (id_category) REFERENCES category(id_category) ON DELETE CASCADE
 );
 
 CREATE TABLE category_value (
-    id_category_value INT PRIMARY KEY,
-    attribute_value  varchar(500)
+    id_product int not null,
+    id_category_attribute int not null,
+    attribute_value varchar(100),
+    PRIMARY KEY (id_product, id_category_attribute),
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE,
+    FOREIGN KEY (id_category_attribute) REFERENCES category_attribute(id_category_attribute) ON DELETE CASCADE
 );
 
 CREATE TABLE product_review (
