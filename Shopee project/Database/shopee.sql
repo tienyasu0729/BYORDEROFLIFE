@@ -106,10 +106,12 @@ CREATE TABLE shop_shipping_method (
 );
 
 CREATE TABLE product_group (
-    product_group_id INT AUTO_INCREMENT PRIMARY KEY,
+    id_shop INT not null,
+    id_product INT not null,
     name_group VARCHAR(100),
-    shop_id INT,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id)
+    PRIMARY KEY (id_shop, id_product),
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
 );
 
 CREATE TABLE user (
@@ -217,19 +219,34 @@ CREATE TABLE delivery_voucher (
 );
 
 CREATE TABLE user_order (
-    id_order INT PRIMARY KEY,
-    total_price int
+    id_order INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    id_shop_voucher int not null,
+    id_web_voucher int not null,
+    id_delivery_voucher int not null,
+    note_to_seller varchar(500),
+    FOREIGN KEY (id_user) REFERENCES user(id_user),
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (id_shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (id_web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (id_delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
 );
 
 CREATE TABLE blocked_user (
-    id_blocked_user INT PRIMARY KEY,
-    block_dateTime datetime
+    id_shop INT not null,
+    id_user INT not null,
+    block_dateTime datetime default (current_timestamp()),
+    PRIMARY KEY (id_shop, id_user),
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
 CREATE TABLE image_and_short_video_product (
-    id_blocked_user INT PRIMARY KEY,
-    video varchar(500),
-    folder_image varchar(500)
+    id_product INT PRIMARY KEY,
+    video varchar(500) null,
+    folder_image varchar(500) not null,
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
 );
 
 CREATE TABLE product (
@@ -240,13 +257,17 @@ CREATE TABLE product (
     condition_product VARCHAR(255) not null,
     SKU_product VARCHAR(255) null,
     id_category int default null,
-    FOREIGN KEY (id_product) REFERENCES product(id_product)
+    FOREIGN KEY (id_category) REFERENCES category(id_category)
 );
 
 CREATE TABLE list_item_in_order (
-    id_list INT PRIMARY KEY,
+    id_order int not null,
+    id_classification  int not null,
     product_quantity int,
-    note_to_seller varchar(500)
+    note_to_seller varchar(500),
+    PRIMARY KEY (id_order, id_classification),
+    FOREIGN KEY (id_order) REFERENCES user_order(id_order) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification) REFERENCES classification_value(id_classification)
 );
 
 CREATE TABLE classification (
@@ -303,10 +324,14 @@ CREATE TABLE category_value (
 );
 
 CREATE TABLE product_review (
-    id_review INT PRIMARY KEY,
-    user_comment varchar(500),
-    shop_answer varchar(500),
-    star int
+    id_user int not null,
+    id_product int not null,
+    user_comment varchar(500) not null,
+    shop_answer varchar(500) null,
+    star int not null,
+	PRIMARY KEY (id_product, id_category_attribute),
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE,
+    FOREIGN KEY (id_category_attribute) REFERENCES category_attribute(id_category_attribute) ON DELETE CASCADE
 );
 
 
