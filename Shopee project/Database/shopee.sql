@@ -28,6 +28,19 @@ CREATE TABLE shop (
     FOREIGN KEY (id_main_account) REFERENCES main_account(id_main_account) ON DELETE SET NULL
 );
 
+CREATE TABLE user (
+    id_user INT PRIMARY KEY auto_increment,
+    phone_number VARCHAR(15) NOT NULL,
+    password  VARCHAR(99) NOT NULL,
+    account_name varchar(500) null,
+    real_name  VARCHAR(500) null,
+    email varchar(500) null,
+    sex char null,
+    date_of_birth date null,
+    avatar_image varchar(500) null,
+    joining_date DATE DEFAULT (current_date())
+);
+
 CREATE TABLE list_email_to_receive_electronic_invoices (
     id_email_receive_electronic INT PRIMARY KEY AUTO_INCREMENT,
     email_address VARCHAR(500) NOT NULL unique,
@@ -99,12 +112,75 @@ CREATE TABLE shipping_method (
 
 CREATE TABLE shop_shipping_method (
     id_shop_shipping_method INT AUTO_INCREMENT PRIMARY KEY,
-    id_shop INT,
-    id_shipping_method INT,
+    id_shop INT not null,
+    id_shipping_method INT not null,
     FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
     FOREIGN KEY (id_shipping_method) REFERENCES shipping_method(id_shipping_method) ON DELETE CASCADE
 );
 
+CREATE TABLE category (
+    id_category INT PRIMARY KEY AUTO_INCREMENT,
+    name_category VARCHAR(255) NOT NULL,
+    id_parent INT null UNIQUE,
+    FOREIGN KEY (parentID) REFERENCES category(id_category) ON DELETE CASCADE
+);
+
+CREATE TABLE category_attribute (
+    id_category_attribute INT PRIMARY KEY auto_increment,
+    name_attribute varchar(500) not null,
+    id_category int not null,
+    FOREIGN KEY (id_category) REFERENCES category(id_category) ON DELETE CASCADE
+);
+
+CREATE TABLE product (
+    id_product INT PRIMARY KEY auto_increment,
+    name_product VARCHAR(255) not null,
+    product_description TEXT not null,
+    pre_order int default 0, -- đây để đánh dấu có phải hàng đặt trước không , nếu này lớn hơn 0 nghĩa là số ngày cần để có hàng
+    condition_product VARCHAR(255) not null,
+    SKU_product VARCHAR(255) null,
+    id_category int default null,
+    FOREIGN KEY (id_category) REFERENCES category(id_category)
+);
+
+CREATE TABLE image_and_short_video_product (
+    id_product INT PRIMARY KEY,
+    video varchar(500) null,
+    folder_image varchar(500) not null,
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
+);
+
+CREATE TABLE category_value (
+    id_product int not null,
+    id_category_attribute int not null,
+    attribute_value varchar(100),
+    PRIMARY KEY (id_product, id_category_attribute),
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE,
+    FOREIGN KEY (id_category_attribute) REFERENCES category_attribute(id_category_attribute) ON DELETE CASCADE
+);
+
+CREATE TABLE classification (
+    id_classification INT PRIMARY KEY,
+    classification_name varchar(500) not null,
+    id_product int not null,
+    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
+);
+
+CREATE TABLE classification_value (
+    id_classification_value INT PRIMARY KEY,
+    classification_value VARCHAR(255),
+    price int not null,
+    inventory_quantity INT default 0, -- này là số lượng hàng tồn kho
+    SKU_classification VARCHAR(255) null,
+    packaged_length DECIMAL(10, 2) not null,
+    packaged_width DECIMAL(10, 2) not null,
+    packaged_weight DECIMAL(10, 2) not null,
+    packaged_height DECIMAL(10, 2) not null,
+    allowed_package_inspection BOOLEAN default 0, -- này để xem có cho phép kiểm tra hàng trước khi nhận không
+    id_classification int not null,
+    FOREIGN KEY (id_classification) REFERENCES classification(id_classification) ON DELETE CASCADE
+);
+--
 CREATE TABLE product_group (
     id_shop INT not null,
     id_product INT not null,
@@ -112,19 +188,6 @@ CREATE TABLE product_group (
     PRIMARY KEY (id_shop, id_product),
     FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
     FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
-);
-
-CREATE TABLE user (
-    id_user INT PRIMARY KEY auto_increment,
-    phone_number VARCHAR(15) NOT NULL,
-    password  VARCHAR(99) NOT NULL,
-    account_name varchar(500) null,
-    real_name  VARCHAR(500) null,
-    email varchar(500) null,
-    sex char null,
-    date_of_birth date null,
-    avatar_image varchar(500) null,
-    joining_date DATE DEFAULT (current_date())
 );
 
 CREATE TABLE user_wallet (
@@ -242,24 +305,6 @@ CREATE TABLE blocked_user (
     FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
-CREATE TABLE image_and_short_video_product (
-    id_product INT PRIMARY KEY,
-    video varchar(500) null,
-    folder_image varchar(500) not null,
-    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
-);
-
-CREATE TABLE product (
-    id_product INT PRIMARY KEY auto_increment,
-    name_product VARCHAR(255) not null,
-    product_description TEXT not null,
-    pre_order int default 0, -- đây để đánh dấu có phải hàng đặt trước không , nếu này lớn hơn 0 nghĩa là số ngày cần để có hàng
-    condition_product VARCHAR(255) not null,
-    SKU_product VARCHAR(255) null,
-    id_category int default null,
-    FOREIGN KEY (id_category) REFERENCES category(id_category)
-);
-
 CREATE TABLE list_item_in_order (
     id_order int not null,
     id_classification  int not null,
@@ -270,57 +315,12 @@ CREATE TABLE list_item_in_order (
     FOREIGN KEY (id_classification) REFERENCES classification_value(id_classification)
 );
 
-CREATE TABLE classification (
-    id_classification INT PRIMARY KEY,
-    classification_name varchar(500) not null,
-    id_product int not null,
-    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
-);
-
-CREATE TABLE classification_value (
-    id_classification_value INT PRIMARY KEY,
-    classification_value VARCHAR(255),
-    price int not null,
-    inventory_quantity INT default 0, -- này là số lượng hàng tồn kho
-    SKU_classification VARCHAR(255) null,
-    packaged_length DECIMAL(10, 2) not null,
-    packaged_width DECIMAL(10, 2) not null,
-    packaged_weight DECIMAL(10, 2) not null,
-    packaged_height DECIMAL(10, 2) not null,
-    allowed_package_inspection BOOLEAN default 0, -- này để xem có cho phép kiểm tra hàng trước khi nhận không
-    id_classification int not null,
-    FOREIGN KEY (id_classification) REFERENCES classification(id_classification) ON DELETE CASCADE
-);
-
 CREATE TABLE product_shipping_method (
     id_product_shipping_method INT PRIMARY KEY AUTO_INCREMENT,
     id_classification_value INT not null,
     id_shop_shipping_method INT not null,
     FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
     FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
-);
-
-CREATE TABLE category (
-    id_category INT PRIMARY KEY AUTO_INCREMENT,
-    name_category VARCHAR(255) NOT NULL,
-    id_parent INT null UNIQUE,
-    FOREIGN KEY (parentID) REFERENCES category(id_category) ON DELETE CASCADE
-);
-
-CREATE TABLE category_attribute (
-    id_category_attribute INT PRIMARY KEY auto_increment,
-    name_attribute varchar(500) not null,
-    id_category int not null,
-    FOREIGN KEY (id_category) REFERENCES category(id_category) ON DELETE CASCADE
-);
-
-CREATE TABLE category_value (
-    id_product int not null,
-    id_category_attribute int not null,
-    attribute_value varchar(100),
-    PRIMARY KEY (id_product, id_category_attribute),
-    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE,
-    FOREIGN KEY (id_category_attribute) REFERENCES category_attribute(id_category_attribute) ON DELETE CASCADE
 );
 
 CREATE TABLE product_review (

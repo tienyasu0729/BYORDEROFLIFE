@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T19:16:10.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YALvz7lPtuIdwlz-pViC" version="24.4.14" type="device" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:08:40.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1Yga30sa5X7MEBZUwtut" version="24.4.13" type="device" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="database shopee">
-    <mxGraphModel dx="2039" dy="4072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3334" dy="4220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -669,7 +669,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NG_Q38vk7vvl0W-BLAsC-46" value="shop_shipping_method_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="NG_Q38vk7vvl0W-BLAsC-44" vertex="1">
+        <mxCell id="NG_Q38vk7vvl0W-BLAsC-46" value="id_shop_shipping_method" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="NG_Q38vk7vvl0W-BLAsC-44" vertex="1">
           <mxGeometry x="30" width="180.00000000000045" height="30" as="geometry">
             <mxRectangle width="180.00000000000045" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1767,7 +1767,7 @@
         <mxCell id="SJPS5pYHS0jVjnFKLU6m-2" value="- xem lại các loại voucher vì thấy chưa ổn lắm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="SJPS5pYHS0jVjnFKLU6m-0" vertex="1">
           <mxGeometry y="90" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pY6sPn6P-VkWN3utvDID-0" value="- suy nghĩ nếu người dùng tự bấm xoá tài khoản thì những đơn hàng đang được giao thì xử lý như nào" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SJPS5pYHS0jVjnFKLU6m-0">
+        <mxCell id="pY6sPn6P-VkWN3utvDID-0" value="- suy nghĩ nếu người dùng tự bấm xoá tài khoản thì những đơn hàng đang được giao thì xử lý như nào" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="SJPS5pYHS0jVjnFKLU6m-0" vertex="1">
           <mxGeometry y="120" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tmSWhzCx54708QwdAXpe-0" value="shop" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -2405,7 +2405,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6KUtZtsDkg2m-0pTyZa-3" value="shipping_method_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="u6KUtZtsDkg2m-0pTyZa-1" vertex="1">
+        <mxCell id="u6KUtZtsDkg2m-0pTyZa-3" value="id_shipping_method" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="u6KUtZtsDkg2m-0pTyZa-1" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -11643,7 +11643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iE_3bgC1ODvAKeFEj54w" name="Trang-9">
-    <mxGraphModel dx="2598" dy="4997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2774" dy="3982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12312,7 +12312,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uq6N7ngEJ4VqNENjao9N-155" value="shop_shipping_method_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="uq6N7ngEJ4VqNENjao9N-153" vertex="1">
+        <mxCell id="uq6N7ngEJ4VqNENjao9N-155" value="id_shop_shipping_method" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="uq6N7ngEJ4VqNENjao9N-153" vertex="1">
           <mxGeometry x="30" width="180.00000000000045" height="30" as="geometry">
             <mxRectangle width="180.00000000000045" height="30" as="alternateBounds" />
           </mxGeometry>
