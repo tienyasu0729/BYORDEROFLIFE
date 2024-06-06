@@ -41,6 +41,15 @@ CREATE TABLE user (
     joining_date DATE DEFAULT (current_date())
 );
 
+CREATE TABLE blocked_user (
+    id_shop INT not null,
+    id_user INT not null,
+    block_dateTime datetime default (current_timestamp()),
+    PRIMARY KEY (id_shop, id_user),
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
+);
+
 CREATE TABLE list_email_to_receive_electronic_invoices (
     id_email_receive_electronic INT PRIMARY KEY AUTO_INCREMENT,
     email_address VARCHAR(500) NOT NULL unique,
@@ -180,7 +189,15 @@ CREATE TABLE classification_value (
     id_classification int not null,
     FOREIGN KEY (id_classification) REFERENCES classification(id_classification) ON DELETE CASCADE
 );
---
+
+CREATE TABLE product_shipping_method (
+    id_product_shipping_method INT PRIMARY KEY AUTO_INCREMENT,
+    id_classification_value INT not null,
+    id_shop_shipping_method INT not null,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
+    FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
+);
+
 CREATE TABLE product_group (
     id_shop INT not null,
     id_product INT not null,
@@ -296,15 +313,6 @@ CREATE TABLE user_order (
     FOREIGN KEY (id_delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
 );
 
-CREATE TABLE blocked_user (
-    id_shop INT not null,
-    id_user INT not null,
-    block_dateTime datetime default (current_timestamp()),
-    PRIMARY KEY (id_shop, id_user),
-    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
-    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
-);
-
 CREATE TABLE list_item_in_order (
     id_order int not null,
     id_classification  int not null,
@@ -315,23 +323,17 @@ CREATE TABLE list_item_in_order (
     FOREIGN KEY (id_classification) REFERENCES classification_value(id_classification)
 );
 
-CREATE TABLE product_shipping_method (
-    id_product_shipping_method INT PRIMARY KEY AUTO_INCREMENT,
-    id_classification_value INT not null,
-    id_shop_shipping_method INT not null,
-    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
-    FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
-);
-
 CREATE TABLE product_review (
     id_user int not null,
-    id_product int not null,
+    id_shop int not null,
+    id_classification_value int not null,
     user_comment varchar(500) not null,
     shop_answer varchar(500) null,
     star int not null,
-	PRIMARY KEY (id_product, id_category_attribute),
-    FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE,
-    FOREIGN KEY (id_category_attribute) REFERENCES category_attribute(id_category_attribute) ON DELETE CASCADE
+	PRIMARY KEY (id_user, id_shop, id_classification_value),
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE,
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE
 );
 
 
