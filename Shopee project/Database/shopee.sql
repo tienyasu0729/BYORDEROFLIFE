@@ -306,6 +306,7 @@ CREATE TABLE user_order (
     id_web_voucher int not null,
     id_delivery_voucher int not null,
     note_to_seller varchar(500),
+    order_datetime datetime default current_timestamp,
     FOREIGN KEY (id_user) REFERENCES user(id_user),
     FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
     FOREIGN KEY (id_shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
