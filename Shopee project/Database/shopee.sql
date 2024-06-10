@@ -298,7 +298,7 @@ CREATE TABLE delivery_voucher (
     thiết_bị VARCHAR(255) not null
 );
 
-CREATE TABLE user_order (
+CREATE TABLE user_order_pending_payment (
     id_order INT PRIMARY KEY auto_increment,
     id_user int not null,
     id_payment_metod int not null,
