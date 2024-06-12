@@ -1,18 +1,18 @@
-CREATE DATABASE IF NOT EXISTS Fake_shopee;
-USE Fake_shopee;
+CREATE DATABASE IF NOT EXISTS shopee;
+USE shopee;
 
 create table area (
-	area_id int primary key,
-    name_area varchar(200) not null	
+	area_id int primary key auto_increment,
+    name_area varchar(200) not null	CHECK (name_area REGEXP '^[a-zA-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸỳỵỷỹ ]+$')
 );    
 
 CREATE TABLE main_account (
     id_main_account INT AUTO_INCREMENT PRIMARY KEY,
-	business_ID varchar(500) not null, -- đại diện cho tên đăng nhập và khi đăng nhập sẽ kèm theo :main gì đó phía sau có lẽ để phân biệt quyền gì đó
-    password varchar(99) not null,
+	business_ID varchar(500) not null CHECK (business_ID REGEXP '^[a-zA-Z0-9]+$'), -- đại diện cho tên đăng nhập và khi đăng nhập sẽ kèm theo :main gì đó phía sau có lẽ để phân biệt quyền gì đó
+    password VARCHAR(99) NOT NULL CHECK (LENGTH(password) >= 8 AND password NOT REGEXP '[[:space:]]'),
     account_area int not null, -- đại diện cho đất nước người này quản lý chính
-    phone_number varchar(14) not null,
-    email varchar(500) not null,
+    phone_number varchar(14) not null CHECK (phone_number REGEXP '^[0-9]{10,11}$') ,
+    email varchar(500) CHECK (email REGEXP '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$') not null unique,
 	FOREIGN KEY (account_area) REFERENCES area(area_id) 
 );
 
@@ -59,59 +59,59 @@ CREATE TABLE list_email_to_receive_electronic_invoices (
 
 CREATE TABLE partner_platform (
     id_platform INT AUTO_INCREMENT PRIMARY KEY,
-    shop_id INT not null,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    id_shop INT not null,
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 CREATE TABLE payment_settings (
-    shop_id INT PRIMARY KEY,
+    id_shop INT PRIMARY KEY,
     automatic_withdrawal boolean default 0 not null,
     pin_code VARCHAR(255) null,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 CREATE TABLE chat_settings (
-    shop_id INT PRIMARY KEY,
+    id_shop INT PRIMARY KEY,
     Receive_messages_from_Shopee_Rewards BOOLEAN default 0 not null,
     Receive_messages_from_Personal_Page BOOLEAN default 0 not null,
     Play_sound_notification_for_new_messages BOOLEAN default 0 not null,
     Push_new_popup_message BOOLEAN default 0 not null,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 CREATE TABLE notification_settings (
-    shop_id INT PRIMARY KEY,
+    id_shop INT PRIMARY KEY,
     order_update_notification boolean default 0 not null,
     Newsletter_notification boolean default 0 not null,
     Product_Update_Notification boolean default 0 not null,
     Personal_Content_Notification boolean default 0 not null,
     Chat_Messages_Reminder boolean default 0 not null,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 CREATE TABLE business_information (
-    shop_id INT PRIMARY KEY,
+    id_shop INT PRIMARY KEY,
     business_type VARCHAR(100) NOT NULL,
     address_to_take_product VARCHAR(100) NOT NULL,
     registered_business_address  VARCHAR(100) NOT NULL,
     tax_identìication_number VARCHAR(50) null,
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 create table form_of_identification (
 	form_id int auto_increment primary key,
-    name_form varchar(500)
+    name_form varchar(500) not null CHECK (name_form REGEXP '^[a-zA-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸỳỵỷỹ ]+$')
 );
 
 CREATE TABLE identification_shop (
-    shgop_id INT PRIMARY KEY,
+    id_shop INT PRIMARY KEY,
     form_of_identification int not null,
     identification_number varchar(500) not null,
     identification_name varchar(500) not null,
     image_identification_front varchar(500) not null,
     image_identification_back varchar(500) not null,
     FOREIGN KEY (form_of_identification) REFERENCES form_of_identification(form_id),
-    FOREIGN KEY (shop_id) REFERENCES shop(shop_id) ON DELETE CASCADE
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE
 );
 
 CREATE TABLE shipping_method (
@@ -131,7 +131,7 @@ CREATE TABLE category (
     id_category INT PRIMARY KEY AUTO_INCREMENT,
     name_category VARCHAR(255) NOT NULL,
     id_parent INT null UNIQUE,
-    FOREIGN KEY (parentID) REFERENCES category(id_category) ON DELETE CASCADE
+    FOREIGN KEY (id_parent) REFERENCES category(id_category) ON DELETE CASCADE
 );
 
 CREATE TABLE category_attribute (
@@ -226,7 +226,7 @@ CREATE TABLE user_identification_information (
 CREATE TABLE user_spending (
     id_user INT PRIMARY KEY,
 	order_number int default 0,
-    spending long default 0,
+    spending bigint default 0,
     FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE
 );
 
@@ -300,7 +300,7 @@ CREATE TABLE delivery_voucher (
 );
 
 CREATE TABLE user_order_pending_payment (
-    id_order INT PRIMARY KEY auto_increment,
+    id_order_pending_payment INT PRIMARY KEY auto_increment,
     id_user int not null,
     id_payment_metod int not null,
     id_shop_voucher int not null,
@@ -308,7 +308,7 @@ CREATE TABLE user_order_pending_payment (
     id_delivery_voucher int not null,
     note_to_seller varchar(500) null,
     order_datetime datetime default current_timestamp,
-    FOREIGN KEY (id_user) REFERENCES user(id_user),
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
     FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
     FOREIGN KEY (id_shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
     FOREIGN KEY (id_web_voucher) REFERENCES web_voucher(id_web_voucher),
@@ -316,12 +316,141 @@ CREATE TABLE user_order_pending_payment (
 );
 
 CREATE TABLE list_item_in_order_pending_payment (
-    id_order int not null,
-    id_classification  int not null,
-    product_quantity int,
-    PRIMARY KEY (id_order, id_classification),
-    FOREIGN KEY (id_order) REFERENCES user_order_pending_payment(id_order) ON DELETE CASCADE,
-    FOREIGN KEY (id_classification) REFERENCES classification_value(id_classification)
+    id_order_pending_payment int not null,
+    id_classification_value  int not null,
+    product_quantity int not null,
+    PRIMARY KEY (id_order_pending_payment, id_classification_value),
+    FOREIGN KEY (id_order_pending_payment) REFERENCES user_order_pending_payment(id_order_pending_payment) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
+);
+
+CREATE TABLE user_order_in_transit (
+    id_order_in_transit INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    shop_voucher int not null,
+    web_voucher int not null,
+    delivery_voucher int not null,
+    note_to_seller varchar(500) null,
+    order_datetime datetime default current_timestamp,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
+);
+
+CREATE TABLE list_item_in_order_in_transit (
+    id_order_in_transit int not null,
+    id_classification_value  int not null,
+    product_quantity int not null,
+    PRIMARY KEY (id_order_in_transit, id_classification_value),
+    FOREIGN KEY (id_order_in_transit) REFERENCES user_order_in_transit(id_order_in_transit) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
+);
+
+CREATE TABLE user_order_pending_shipment (
+    id_order_pending_shipment INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    shop_voucher int not null,
+    web_voucher int not null,
+    delivery_voucher int not null,
+    note_to_seller varchar(500) null,
+    order_datetime datetime default current_timestamp,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
+);
+
+CREATE TABLE list_item_in_order_pending_shipment (
+	id_list_pending_shipment int primary key auto_increment,
+    id_order_pending_shipment int not null,
+    id_classification_value  int null,
+    product_quantity int not null,
+    product_details_deleted json null,
+    FOREIGN KEY (id_order_pending_shipment) REFERENCES user_order_pending_shipment(id_order_pending_shipment) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
+);
+
+CREATE TABLE user_order_completed (
+    id_order_completed INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    shop_voucher int not null,
+    web_voucher int not null,
+    delivery_voucher int not null,
+    note_to_seller varchar(500) null,
+    order_datetime datetime default current_timestamp,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
+);
+
+CREATE TABLE list_item_in_order_completed (
+	id_list_order_completed int primary key auto_increment,
+    id_order_completed int not null,
+    id_classification_value  int null,
+    product_quantity int not null,
+    product_details_deleted json null,
+    FOREIGN KEY (id_order_completed) REFERENCES user_order_completed(id_order_completed) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
+);
+
+CREATE TABLE user_order_cancelled (
+    id_order_cancelled INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    shop_voucher int not null,
+    web_voucher int not null	,
+    delivery_voucher int not null,
+    note_to_seller varchar(500) null,
+    order_datetime datetime default current_timestamp,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
+);
+
+CREATE TABLE list_item_in_order_cancelled (
+	id_list_order_cancelled int primary key auto_increment,
+    id_order_cancelled int not null,
+    id_classification_value  int null,
+    product_quantity int not null,
+    product_details_deleted json null,
+    FOREIGN KEY (id_order_cancelled) REFERENCES user_order_cancelled(id_order_cancelled) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
+);
+
+CREATE TABLE user_order_returned (
+    id_order_returned INT PRIMARY KEY auto_increment,
+    id_user int not null,
+    id_payment_metod int not null,
+    shop_voucher int not null,
+    web_voucher int not null,
+    delivery_voucher int not null,
+    note_to_seller varchar(500) null,
+    order_datetime datetime default current_timestamp,
+    FOREIGN KEY (id_user) REFERENCES user(id_user) ON DELETE CASCADE, 
+    FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
+    FOREIGN KEY (shop_voucher) REFERENCES shop_voucher(id_shop_voucher),
+    FOREIGN KEY (web_voucher) REFERENCES web_voucher(id_web_voucher),
+    FOREIGN KEY (delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
+);
+
+CREATE TABLE list_item_in_order_returned (
+	id_list_order_returned int primary key auto_increment,
+    id_order_returned int not null,
+    id_classification_value  int null,
+    product_quantity int not null,
+    product_details_deleted json null,
+    FOREIGN KEY (id_order_returned) REFERENCES user_order_returned(id_order_returned) ON DELETE CASCADE,
+    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value)
 );
 
 CREATE TABLE product_review (
