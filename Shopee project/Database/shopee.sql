@@ -186,6 +186,7 @@ CREATE TABLE classification_value (
     packaged_weight DECIMAL(10, 2) not null,
     packaged_height DECIMAL(10, 2) not null,
     allowed_package_inspection BOOLEAN default 0, -- này để xem có cho phép kiểm tra hàng trước khi nhận không
+    status boolean,
     id_classification int not null,
     FOREIGN KEY (id_classification) REFERENCES classification(id_classification) ON DELETE CASCADE
 );
@@ -305,7 +306,7 @@ CREATE TABLE user_order_pending_payment (
     id_shop_voucher int not null,
     id_web_voucher int not null,
     id_delivery_voucher int not null,
-    note_to_seller varchar(500),
+    note_to_seller varchar(500) null,
     order_datetime datetime default current_timestamp,
     FOREIGN KEY (id_user) REFERENCES user(id_user),
     FOREIGN KEY (id_payment_metod) REFERENCES payment_method(id_payment_metod),
@@ -314,13 +315,12 @@ CREATE TABLE user_order_pending_payment (
     FOREIGN KEY (id_delivery_voucher) REFERENCES delivery_voucher(id_delivery_voucher)
 );
 
-CREATE TABLE list_item_in_order (
+CREATE TABLE list_item_in_order_pending_payment (
     id_order int not null,
     id_classification  int not null,
     product_quantity int,
-    note_to_seller varchar(500),
     PRIMARY KEY (id_order, id_classification),
-    FOREIGN KEY (id_order) REFERENCES user_order(id_order) ON DELETE CASCADE,
+    FOREIGN KEY (id_order) REFERENCES user_order_pending_payment(id_order) ON DELETE CASCADE,
     FOREIGN KEY (id_classification) REFERENCES classification_value(id_classification)
 );
 
