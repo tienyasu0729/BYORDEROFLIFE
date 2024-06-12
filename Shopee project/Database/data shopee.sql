@@ -25,4 +25,16 @@ INSERT INTO `shopee`.`form_of_identification` (`name_form`) VALUES ('Căn cướ
 INSERT INTO `shopee`.`form_of_identification` (`name_form`) VALUES ('Chứng minh nhân dân');
 INSERT INTO `shopee`.`form_of_identification` (`name_form`) VALUES ('Hộ chiếu');
 
---
+-- shipping_method
+INSERT INTO `shopee`.`shipping_method` (`method_name`) VALUES ('Hoả Tốc');
+INSERT INTO `shopee`.`shipping_method` (`method_name`) VALUES ('Nhanh');
+INSERT INTO `shopee`.`shipping_method` (`method_name`) VALUES ('Tiết Kiệm');
+INSERT INTO `shopee`.`shipping_method` (`method_name`) VALUES ('Hàng Cồng Kềnh');
+
+-- payment_method
+INSERT INTO `shopee`.`payment_method` (`payment_method_name`) VALUES ('Chuyển khoản');
+INSERT INTO `shopee`.`payment_method` (`payment_method_name`) VALUES ('Ví Shopee Pay');
+INSERT INTO `shopee`.`payment_method` (`payment_method_name`) VALUES ('ví Shopee Trả Sau');
+INSERT INTO `shopee`.`payment_method` (`payment_method_name`) VALUES ('Thanh Toán Khi Nhận Hàng');
+
+-- 

@@ -242,7 +242,7 @@ CREATE TABLE user_notifications (
 );
 
 CREATE TABLE user_address(
-    id_user INT PRIMARY KEY,
+    id_user INT PRIMARY KEY auto_increment,
     name_address VARCHAR(255) not null,
 	phone_number  VARCHAR(15) not null,
     apartment_number VARCHAR(255) not null,
@@ -255,14 +255,14 @@ CREATE TABLE user_address(
 );
 
 CREATE TABLE coin_history (
-    id_coin_history INT PRIMARY KEY,
+    id_coin_history INT PRIMARY KEY auto_increment,
     number_coin INT default 0,
     notification_subject VARCHAR(255) not null,
     notification_receipt_date DATE DEFAULT (current_date())
 );
 
 CREATE TABLE payment_method (
-    id_payment_metod INT PRIMARY KEY,
+    id_payment_metod INT PRIMARY KEY auto_increment,
     payment_method_name VARCHAR(255) not null
 );
 
