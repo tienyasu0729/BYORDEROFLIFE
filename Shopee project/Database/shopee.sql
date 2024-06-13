@@ -3,27 +3,27 @@ USE shopee;
 
 create table area (
 	area_id int primary key auto_increment,
-    name_area varchar(200) not null	CHECK (name_area REGEXP '^[a-zA-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸỳỵỷỹ ]+$')
+    name_area varchar(200) not null unique CHECK (name_area REGEXP '^[a-zA-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸỳỵỷỹ ]+$') 
 );    
 
 CREATE TABLE main_account (
     id_main_account INT AUTO_INCREMENT PRIMARY KEY,
-	business_ID varchar(500) not null CHECK (business_ID REGEXP '^[a-zA-Z0-9]+$'), -- đại diện cho tên đăng nhập và khi đăng nhập sẽ kèm theo :main gì đó phía sau có lẽ để phân biệt quyền gì đó
+	business_ID varchar(500) not null CHECK (business_ID REGEXP '^[a-zA-Z0-9]{8,}$') unique, -- đại diện cho tên đăng nhập và khi đăng nhập sẽ kèm theo :main gì đó phía sau có lẽ để phân biệt quyền gì đó
     password VARCHAR(99) NOT NULL CHECK (LENGTH(password) >= 8 AND password NOT REGEXP '[[:space:]]'),
     account_area int not null, -- đại diện cho đất nước người này quản lý chính
-    phone_number varchar(14) not null CHECK (phone_number REGEXP '^[0-9]{10,11}$') ,
+    phone_number varchar(14) CHECK (phone_number REGEXP '^[0-9]{10,}$') not null unique,
     email varchar(500) CHECK (email REGEXP '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$') not null unique,
 	FOREIGN KEY (account_area) REFERENCES area(area_id) 
 );
 
 CREATE TABLE shop (
     id_shop INT AUTO_INCREMENT PRIMARY KEY,
-    phone_number VARCHAR(15) NOT NULL,
-	password VARCHAR(99) NOT NULL,
-    email VARCHAR(500) NOT NULL,
-    shop_name VARCHAR(20) NOT NULL,
-	shop_avatar_image VARCHAR(500) null,
-	status boolean default 0 not null,
+    phone_number VARCHAR(14) CHECK (phone_number REGEXP '^[0-9]{10,}$') not null unique,
+	password VARCHAR(99) NOT NULL CHECK (LENGTH(password) >= 8 AND password NOT REGEXP '[[:space:]]'),
+    email VARCHAR(500) CHECK (email REGEXP '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$') not null unique,
+    shop_name VARCHAR(20) NOT NULL unique CHECK (shop_name REGEXP '^[a-zA-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸỳỵỷỹ -]+$'),
+	shop_avatar_image VARCHAR(500) null, -- cho địa chỉ mặc định ngay bên trong be
+	status boolean default 0 not null, -- này để biết shop có nghỉ hay không
     id_main_account INT null,
     FOREIGN KEY (id_main_account) REFERENCES main_account(id_main_account) ON DELETE SET NULL
 );
@@ -130,7 +130,7 @@ CREATE TABLE shop_shipping_method (
 CREATE TABLE category (
     id_category INT PRIMARY KEY AUTO_INCREMENT,
     name_category VARCHAR(255) NOT NULL,
-    id_parent INT null UNIQUE,
+    id_parent INT null,
     FOREIGN KEY (id_parent) REFERENCES category(id_category) ON DELETE CASCADE
 );
 
@@ -149,6 +149,8 @@ CREATE TABLE product (
     condition_product VARCHAR(255) not null,
     SKU_product VARCHAR(255) null,
     id_category int default null,
+    id_shop int not null,
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
     FOREIGN KEY (id_category) REFERENCES category(id_category)
 );
 
