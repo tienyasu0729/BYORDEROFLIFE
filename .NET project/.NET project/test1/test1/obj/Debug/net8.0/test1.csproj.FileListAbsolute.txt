@@ -1,0 +1,15 @@
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\bin\Debug\net8.0\test1.exe
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\bin\Debug\net8.0\test1.deps.json
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\bin\Debug\net8.0\test1.runtimeconfig.json
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\bin\Debug\net8.0\test1.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\bin\Debug\net8.0\test1.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.AssemblyInfoInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.AssemblyInfo.cs
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.csproj.CoreCompileInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.sourcelink.json
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\refint\test1.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\test1.genruntimeconfig.cache
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\test1\test1\obj\Debug\net8.0\ref\test1.dll

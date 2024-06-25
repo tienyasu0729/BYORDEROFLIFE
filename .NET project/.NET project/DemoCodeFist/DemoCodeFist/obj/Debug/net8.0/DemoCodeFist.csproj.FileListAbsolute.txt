@@ -1,0 +1,12 @@
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\bin\Debug\net8.0\DemoCodeFist.deps.json
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\bin\Debug\net8.0\DemoCodeFist.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\bin\Debug\net8.0\DemoCodeFist.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.AssemblyInfoInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.AssemblyInfo.cs
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.csproj.CoreCompileInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.sourcelink.json
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\refint\DemoCodeFist.dll
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\DemoCodeFist.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\.NET project\.NET project\DemoCodeFist\DemoCodeFist\obj\Debug\net8.0\ref\DemoCodeFist.dll
