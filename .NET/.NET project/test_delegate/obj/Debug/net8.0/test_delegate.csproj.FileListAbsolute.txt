@@ -1,0 +1,15 @@
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\bin\Debug\net8.0\test_delegate.exe
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\bin\Debug\net8.0\test_delegate.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\bin\Debug\net8.0\test_delegate.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\bin\Debug\net8.0\test_delegate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\bin\Debug\net8.0\test_delegate.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\refint\test_delegate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\test_delegate.genruntimeconfig.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\test_delegate\obj\Debug\net8.0\ref\test_delegate.dll
