@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\",
+  "WorkspaceRootPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD200E3C-E630-4A17-B730-1040192D0150}|test_delegate.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\test_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD200E3C-E630-4A17-B730-1040192D0150}|test_delegate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\test_delegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_delegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test_delegate.csproj",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\test_delegate.csproj",
+              "RelativeDocumentMoniker": "test_delegate.csproj",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\test_delegate.csproj",
+              "RelativeToolTip": "test_delegate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T13:39:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\Program.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\Program.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\test_delegate\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T16:33:59.431Z",
               "EditorCaption": ""
