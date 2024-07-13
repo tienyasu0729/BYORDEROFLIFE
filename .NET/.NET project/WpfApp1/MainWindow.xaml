@@ -4,16 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="242" Width="476">
+       mc:Ignorable="d" Title="Main Window" Height="456" Width="800">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="397*"/>
-            <ColumnDefinition Width="79*"/>
-        </Grid.ColumnDefinitions>
-        <TextBox Name="TextBox1" Margin="62,49,62,118" Text="Hello World" Grid.ColumnSpan="2" />
-        <Button Name="Button1" Margin="173,122,122,57" >
-            Click here
-        </Button>
+        <Frame x:Name="frMain" VerticalAlignment="Stretch" NavigationUIVisibility="Visible"/> 
+        <Button Content="To page 1" Name="btnToPage01" Click="btnToPage01_Click" HorizontalAlignment="Left" Margin="316,383,0,0" Height="28" Width="79"/>
+        <Button Content="To page 2" Name="btnToPage02" Click="btnToPage02_Click" HorizontalAlignment="Left" Margin="400,383,0,0" Height="28" Width="79"/>
     </Grid>
 </Window>

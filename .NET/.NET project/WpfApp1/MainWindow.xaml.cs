@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.DirectoryServices.ActiveDirectory;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,14 +17,16 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
-        {
-            InitializeComponent();
+        public MainWindow() { }
+//Show Page_01
+        private void btnToPage01_Click(object sender, RoutedEventArgs e){
+            frMain.Content = new Page1();
         }
-
-        private void TextBox1_TextChanged(object sender, TextChangedEventArgs e)
+        
+        //Show Page_02
+        private void btnToPage02_Click(object sender, RoutedEventArgs e)
         {
-
+            frMain.Content = new Page2();
         }
     }
 }
