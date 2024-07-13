@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\",
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1EF7BC-21F9-4266-9252-144ECD0765B8}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,57 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DemoCanvasPanel.xaml.cs",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml.cs",
-              "RelativeDocumentMoniker": "DemoCanvasPanel.xaml.cs",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml.cs",
-              "RelativeToolTip": "DemoCanvasPanel.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:18:02.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DemoCanvasPanel.xaml",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml",
-              "RelativeDocumentMoniker": "DemoCanvasPanel.xaml",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml",
-              "RelativeToolTip": "DemoCanvasPanel.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T04:17:59.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\Page1.xaml",
-              "RelativeDocumentMoniker": "Page1.xaml",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\Page1.xaml",
-              "RelativeToolTip": "Page1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T04:17:35.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T04:02:29.653Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -111,19 +62,38 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoCanvasPanel.xaml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml",
+              "RelativeDocumentMoniker": "DemoCanvasPanel.xaml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml",
+              "RelativeToolTip": "DemoCanvasPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:17:59.728Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\Page1.xaml",
+              "RelativeDocumentMoniker": "Page1.xaml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\Page1.xaml",
+              "RelativeToolTip": "Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:17:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\App.xaml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-13T03:32:22.489Z",
@@ -131,16 +101,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:02:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoCanvasPanel.xaml.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCanvasPanel.xaml.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\DemoCanvasPanel.xaml.cs",
+              "RelativeToolTip": "DemoCanvasPanel.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:02.119Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:02:26.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T04:02:26.749Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }
