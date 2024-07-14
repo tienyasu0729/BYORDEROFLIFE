@@ -1,0 +1,7 @@
+{
+  {
+    "ConnectionStrings": {
+      "MyStoreConnection": "Server=DESKTOP-GEUNOKJ\\SQLEXPRESS;uid=root;pwd=12345;database=MyStore;TrustServerCertificate=True;"
+    }
+  }
+}

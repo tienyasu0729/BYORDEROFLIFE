@@ -1,0 +1,15 @@
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\bin\Debug\net8.0\DBFirstTest.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\bin\Debug\net8.0\DBFirstTest.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\bin\Debug\net8.0\DBFirstTest.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\refint\DBFirstTest.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\ref\DBFirstTest.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\bin\Debug\net8.0\DBFirstTest.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.genruntimeconfig.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\DBFirstTest\obj\Debug\net8.0\DBFirstTest.csproj.AssemblyReference.cache

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CA279A-BCD5-434A-9CB4-E16E54B3E42D}|..\\PartOne\\PartOne.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\partone\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CA279A-BCD5-434A-9CB4-E16E54B3E42D}|..\\PartOne\\PartOne.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\partone\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CA279A-BCD5-434A-9CB4-E16E54B3E42D}|..\\PartOne\\PartOne.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\partone\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCECB25-75F8-4A99-AD16-07CB400270F6}|..\\PartTwo\\PartTwo.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\parttwo\\parttwo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\codefirsttest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:codefirsttest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CA279A-BCD5-434A-9CB4-E16E54B3E42D}|..\\PartOne\\PartOne.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\partone\\enrollmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\codefirsttest\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D83E493-BC8C-4C67-B2B7-84AE308C5935}|CodeFirstTest.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\EnrollmentRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\EnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:44:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\CourseRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\CourseRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:43:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\IEnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:40:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\ICourseRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\ICourseRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:40:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PartTwo",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\PartTwo.csproj",
+              "RelativeDocumentMoniker": "..\\PartTwo\\PartTwo.csproj",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\PartTwo.csproj",
+              "RelativeToolTip": "..\\PartTwo\\PartTwo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T06:29:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\IStudentRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:30:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\PartTwo\\StudentRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartTwo\\StudentRepository.cs",
+              "RelativeToolTip": "..\\PartTwo\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:29:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentDAO.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\EnrollmentDAO.cs",
+              "RelativeDocumentMoniker": "..\\PartOne\\EnrollmentDAO.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\EnrollmentDAO.cs",
+              "RelativeToolTip": "..\\PartOne\\EnrollmentDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:23:51.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseDAO.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\CourseDAO.cs",
+              "RelativeDocumentMoniker": "..\\PartOne\\CourseDAO.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\CourseDAO.cs",
+              "RelativeToolTip": "..\\PartOne\\CourseDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:20:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonBase.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\SingletonBase.cs",
+              "RelativeDocumentMoniker": "..\\PartOne\\SingletonBase.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\SingletonBase.cs",
+              "RelativeToolTip": "..\\PartOne\\SingletonBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:14:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "..\\PartOne\\StudentDAO.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\PartOne\\StudentDAO.cs",
+              "RelativeToolTip": "..\\PartOne\\StudentDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:12:54.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T06:02:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "UniversityContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\UniversityContext.cs",
+              "RelativeToolTip": "UniversityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:59:28.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CodeFirstTest",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\CodeFirstTest.csproj",
+              "RelativeDocumentMoniker": "CodeFirstTest.csproj",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\CodeFirstTest.csproj",
+              "RelativeToolTip": "CodeFirstTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T05:52:12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Enrollment.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Enrollment.cs",
+              "RelativeToolTip": "Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:53:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:52:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\CodeFirstTest\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:50:16.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

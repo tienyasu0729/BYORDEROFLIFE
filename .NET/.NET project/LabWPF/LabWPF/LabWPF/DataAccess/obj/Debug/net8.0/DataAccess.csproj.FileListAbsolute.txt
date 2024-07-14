@@ -1,0 +1,49 @@
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\appsettings.json
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+D:\source vs\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\source vs\LabWPF\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\appsettings.json
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Tienn\Downloads\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\appsettings.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\LabWPF\LabWPF\LabWPF\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

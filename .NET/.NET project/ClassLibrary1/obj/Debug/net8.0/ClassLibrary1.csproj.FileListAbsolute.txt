@@ -13,3 +13,4 @@ C:\Codegym\BYORDEROFLIFE\.NET\.NET project\ClassLibrary1\obj\Debug\net8.0\refint
 C:\Codegym\BYORDEROFLIFE\.NET\.NET project\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
 C:\Codegym\BYORDEROFLIFE\.NET\.NET project\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
 C:\Codegym\BYORDEROFLIFE\.NET\.NET project\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\ClassLibrary1\bin\Debug\net8.0\appsettings.json

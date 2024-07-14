@@ -1,0 +1,4 @@
+D:\source vs\LabWPF\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\source vs\LabWPF\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+D:\source vs\LabWPF\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+D:\source vs\LabWPF\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
