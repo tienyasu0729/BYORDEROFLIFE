@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DC7D45-4643-42DD-9B51-FED81BFF7376}|Repository\\Repository.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C373E8-6C8E-44B7-952E-5AC36B64447A}|Model\\Model.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9B69AA-A9E1-4133-A880-0783D5C99449}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\fuminihotelsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C9B69AA-A9E1-4133-A880-0783D5C99449}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9B69AA-A9E1-4133-A880-0783D5C99449}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|c:\\learn\\codegym\\byorderoflife\\assignment_01\\fuminihotelsystem\\fuminihotelsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9B69AA-A9E1-4133-A880-0783D5C99449}|FUMiniHotelSystem\\FUMiniHotelSystem.csproj|solutionrelative:fuminihotelsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:19:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:15:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:14:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\appsettings.json",
+              "RelativeDocumentMoniker": "Model\\appsettings.json",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\appsettings.json",
+              "RelativeToolTip": "Model\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T07:05:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T07:01:31.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\HotelDbContext.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\HotelDbContext.cs",
+              "RelativeToolTip": "Model\\HotelDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:00:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\RoomType.cs",
+              "RelativeDocumentMoniker": "Model\\RoomType.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\RoomType.cs",
+              "RelativeToolTip": "Model\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:55:13.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Room.cs",
+              "RelativeDocumentMoniker": "Model\\Room.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Room.cs",
+              "RelativeToolTip": "Model\\Room.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:54:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:54:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml",
+              "RelativeToolTip": "FUMiniHotelSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T06:47:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\Assignment_01\\FUMiniHotelSystem\\FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FUMiniHotelSystem\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:47:50.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

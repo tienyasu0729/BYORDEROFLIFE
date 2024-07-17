@@ -1,0 +1,12 @@
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\bin\Debug\net7.0\FPTBusiness.deps.json
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\bin\Debug\net7.0\FPTBusiness.dll
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\bin\Debug\net7.0\FPTBusiness.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.AssemblyInfoInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.AssemblyInfo.cs
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.csproj.CoreCompileInputs.cache
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.sourcelink.json
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.dll
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\refint\FPTBusiness.dll
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\FPTBusiness.pdb
+C:\LEARN\codegym\BYORDEROFLIFE\PRN212 - PE\FPTBusiness\FPTBusiness\obj\Debug\net7.0\ref\FPTBusiness.dll

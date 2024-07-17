@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yt/WwqM4i48=",
+  "success": true,
+  "projectFilePath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\PRN212 - PE\\FPTBusiness\\FPTBusiness\\FPTBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
