@@ -1,0 +1,30 @@
+﻿<Window x:Class="HotelManagement.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelManagement"
+        mc:Ignorable="d"
+        Title="login" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Email TextBlock -->
+        <TextBlock Text="Email:" Margin="10"/>
+        <!-- Email TextBox -->
+        <TextBox Grid.Row="0" Margin="10" Width="200" Text="{Binding Email}"/>
+
+        <!-- Password TextBlock -->
+        <TextBlock Text="Password:" Grid.Row="1" Margin="10"/>
+        <!-- PasswordBox for secure entry -->
+        <PasswordBox Grid.Row="1" Margin="10" Width="200" Password="{Binding Password}"/>
+
+        <!-- Login Button -->
+        <Button Grid.Row="2" Content="Login" Width="100" Height="30" Command="{Binding LoginCommand}" Margin="10"/>
+    </Grid>
+</Window>
