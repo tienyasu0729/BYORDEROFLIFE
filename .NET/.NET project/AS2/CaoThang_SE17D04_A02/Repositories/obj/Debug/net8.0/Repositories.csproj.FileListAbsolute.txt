@@ -1,0 +1,17 @@
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.dll
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\Repositories\obj\Debug\net8.0\ref\Repositories.dll

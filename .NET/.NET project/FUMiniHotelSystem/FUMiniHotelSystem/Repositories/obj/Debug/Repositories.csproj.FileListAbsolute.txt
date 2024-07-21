@@ -1,0 +1,11 @@
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\Repositories.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\Repositories.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\BusinessObject.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\DataAccessObjects.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\BusinessObject.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\bin\Debug\DataAccessObjects.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\obj\Debug\Reposito.787EC4B2.Up2Date
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\obj\Debug\Repositories.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\Repositories\obj\Debug\Repositories.pdb

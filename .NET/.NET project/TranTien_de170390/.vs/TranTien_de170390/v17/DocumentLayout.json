@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\dataacess\\fuminihotelsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\fuminihotelsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\tienwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\tienwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\myprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\myprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\myprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\myprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\roomrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\roomrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86703A84-E24C-4884-B68C-064D1F7F70F1}|Repository\\Repository.csproj|solutionrelative:repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|solutionrelative:model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\model\\roominfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|solutionrelative:model\\roominfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|solutionrelative:model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\model\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C80621A-A58B-4A97-8124-E928B22BEEE6}|Model\\Model.csproj|solutionrelative:model\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\dataacess\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\dataacess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\dataacess\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA0F7A-1C02-4713-98BE-F7C9727935F3}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|c:\\users\\tienn\\downloads\\trantien_de170390\\tienwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF220B3-07BC-4ABE-8C96-B604D6DBC2B6}|TienWPF\\TienWPF.csproj|solutionrelative:tienwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyProfile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\MyProfile.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\MyProfile.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\MyProfile.xaml.cs",
+              "RelativeToolTip": "TienWPF\\MyProfile.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:24:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\MyProfile.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\MyProfile.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\MyProfile.xaml",
+              "RelativeToolTip": "TienWPF\\MyProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:23:22.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TienWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAIBJwDUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:22:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "TienWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:21:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\RoomRepository .cs",
+              "RelativeDocumentMoniker": "Repository\\RoomRepository .cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\RoomRepository .cs",
+              "RelativeToolTip": "Repository\\RoomRepository .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:19:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:18:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "Repository\\BookingRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wA4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:18:12.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\BookingManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\BookingManagementPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\BookingManagementPage.xaml.cs",
+              "RelativeToolTip": "TienWPF\\BookingManagementPage.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAIBJwD8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:06:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuminiHotelSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\FuminiHotelSystemContext.cs",
+              "RelativeDocumentMoniker": "DataAcess\\FuminiHotelSystemContext.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\FuminiHotelSystemContext.cs",
+              "RelativeToolTip": "DataAcess\\FuminiHotelSystemContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:14:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\RoomManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\RoomManagementPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\RoomManagementPage.xaml.cs",
+              "RelativeToolTip": "TienWPF\\RoomManagementPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:25:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\RoomManagementPage.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\RoomManagementPage.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\RoomManagementPage.xaml",
+              "RelativeToolTip": "TienWPF\\RoomManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:24:46.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TienWPF.csproj",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\TienWPF.csproj",
+              "RelativeDocumentMoniker": "TienWPF\\TienWPF.csproj",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\TienWPF.csproj",
+              "RelativeToolTip": "TienWPF\\TienWPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T11:03:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\IRoomRepository.cs",
+              "RelativeToolTip": "Repository\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:18:55.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\BookingManagementPage.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\BookingManagementPage.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\BookingManagementPage.xaml",
+              "RelativeToolTip": "TienWPF\\BookingManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:05:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\CustomerManagementPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeToolTip": "TienWPF\\CustomerManagementPage.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAQwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:11:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:18:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Repository\\IBookingRepository.cs",
+              "RelativeToolTip": "Repository\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:12:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\RoomType.cs",
+              "RelativeDocumentMoniker": "Model\\RoomType.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\RoomType.cs",
+              "RelativeToolTip": "Model\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:15:29.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomInfomation.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\RoomInfomation.cs",
+              "RelativeDocumentMoniker": "Model\\RoomInfomation.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\RoomInfomation.cs",
+              "RelativeToolTip": "Model\\RoomInfomation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:15:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAcess\\RoomDAO.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\RoomDAO.cs",
+              "RelativeToolTip": "DataAcess\\RoomDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:17:24.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "Model\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\BookingReservation.cs",
+              "RelativeToolTip": "Model\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:13:51.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAcess\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAcess\\CustomerDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:16:57.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAcess\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\DataAcess\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAcess\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:13:09.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:12:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "Model\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\Model\\BookingDetail.cs",
+              "RelativeToolTip": "Model\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:12:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\CustomerManagementPage.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\CustomerManagementPage.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\CustomerManagementPage.xaml",
+              "RelativeToolTip": "TienWPF\\CustomerManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:10:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "TienWPF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\appsettings.json",
+              "RelativeToolTip": "TienWPF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T11:04:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TienWPF\\AdminDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "TienWPF\\AdminDashboard.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:02:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "TienWPF\\AdminDashboard.xaml",
+              "ToolTip": "C:\\Users\\Tienn\\Downloads\\TranTien_de170390\\TienWPF\\AdminDashboard.xaml",
+              "RelativeToolTip": "TienWPF\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T11:01:53.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

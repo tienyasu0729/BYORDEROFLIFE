@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\WPFApp\\WPFApp.csproj": {}
+  },
+  "projects": {
+    "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "projectName": "BusinessObject",
+        "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectName": "DataAccessObjects",
+        "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\Repositories\\Repositories.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\Repositories\\Repositories.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+              },
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\WPFApp\\WPFApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\WPFApp\\WPFApp.csproj",
+        "projectName": "WPFApp",
+        "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\WPFApp\\WPFApp.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\WPFApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+              },
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\DataAccessObjects\\DataAccessObjects.csproj"
+              },
+              "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\FPTU\\SU24\\PRN211\\WPF\\Assignment1\\FUMiniHotelSystem\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

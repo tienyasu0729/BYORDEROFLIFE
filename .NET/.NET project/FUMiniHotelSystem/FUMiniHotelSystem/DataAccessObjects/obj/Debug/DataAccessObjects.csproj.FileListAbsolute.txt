@@ -1,0 +1,9 @@
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\bin\Debug\DataAccessObjects.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\bin\Debug\DataAccessObjects.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\bin\Debug\BusinessObject.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\bin\Debug\BusinessObject.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\obj\Debug\DataAccessObjects.csproj.AssemblyReference.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\obj\Debug\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\obj\Debug\DataAcce.79975846.Up2Date
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\obj\Debug\DataAccessObjects.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\DataAccessObjects\obj\Debug\DataAccessObjects.pdb

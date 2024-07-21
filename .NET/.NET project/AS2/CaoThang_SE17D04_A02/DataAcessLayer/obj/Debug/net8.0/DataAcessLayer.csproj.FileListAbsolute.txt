@@ -1,0 +1,15 @@
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAces.3D70AC44.Up2Date
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll

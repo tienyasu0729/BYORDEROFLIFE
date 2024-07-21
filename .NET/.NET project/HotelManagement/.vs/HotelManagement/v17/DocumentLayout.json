@@ -75,47 +75,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:53:34.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:42:28.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:39:34.791Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -141,25 +102,52 @@
               "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:53:34.751Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:42:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:39:34.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "HotelManagement",
+              "Title": "HotelManagement.csproj",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\HotelManagement.csproj",
               "RelativeDocumentMoniker": "HotelManagement.csproj",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\HotelManagement.csproj",
               "RelativeToolTip": "HotelManagement.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T04:45:58.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:45:58.387Z"
             },
             {
               "$type": "Document",
@@ -171,8 +159,7 @@
               "RelativeToolTip": "login.xaml.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:49:07.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:49:07.268Z"
             },
             {
               "$type": "Document",
@@ -208,8 +195,7 @@
               "RelativeToolTip": "..\\Model\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T03:48:47.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T03:48:47.151Z"
             },
             {
               "$type": "Document",
@@ -221,8 +207,7 @@
               "RelativeToolTip": "..\\Service\\CustomerService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:30:17.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:30:17.56Z"
             },
             {
               "$type": "Document",
@@ -233,20 +218,7 @@
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\HotelManagement\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-18T04:42:39.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "WhenOpened": "2024-07-18T04:42:39.601Z"
             },
             {
               "$type": "Document",
@@ -258,8 +230,7 @@
               "RelativeToolTip": "..\\Service\\RoomService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:27:45.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:27:45.469Z"
             },
             {
               "$type": "Document",
@@ -271,8 +242,7 @@
               "RelativeToolTip": "..\\Service\\RoomTypeService.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:35:36.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:35:36.342Z"
             },
             {
               "$type": "Document",
@@ -284,8 +254,7 @@
               "RelativeToolTip": "..\\Model\\HotelDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T03:47:12.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T03:47:12.384Z"
             },
             {
               "$type": "Document",
@@ -297,21 +266,19 @@
               "RelativeToolTip": "..\\Repository\\CustomerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:24:57.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:24:57.349Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Repository",
+              "Title": "Repository.csproj",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\Repository\\Repository.csproj",
               "RelativeDocumentMoniker": "..\\Repository\\Repository.csproj",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\Repository\\Repository.csproj",
               "RelativeToolTip": "..\\Repository\\Repository.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T04:20:55.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:20:55.603Z"
             },
             {
               "$type": "Document",
@@ -323,8 +290,7 @@
               "RelativeToolTip": "..\\Repository\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:23:01.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:23:01.391Z"
             },
             {
               "$type": "Document",
@@ -336,8 +302,7 @@
               "RelativeToolTip": "..\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:22:37.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:22:37.839Z"
             },
             {
               "$type": "Document",
@@ -349,8 +314,7 @@
               "RelativeToolTip": "..\\Model\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:12:39.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:12:39.696Z"
             },
             {
               "$type": "Document",
@@ -362,8 +326,7 @@
               "RelativeToolTip": "..\\Model\\RoomType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T03:49:25.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T03:49:25.431Z"
             }
           ]
         }

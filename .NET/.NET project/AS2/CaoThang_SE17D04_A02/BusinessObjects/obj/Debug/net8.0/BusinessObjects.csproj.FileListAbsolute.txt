@@ -1,0 +1,14 @@
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\VidualCode\CaoThang_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache

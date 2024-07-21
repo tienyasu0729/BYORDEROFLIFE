@@ -1,0 +1,6 @@
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\bin\Debug\BusinessObject.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\obj\Debug\BusinessObject.dll
+D:\FPTU\SU24\PRN211\WPF\Assignment1\FUMiniHotelSystem\BusinessObject\obj\Debug\BusinessObject.pdb

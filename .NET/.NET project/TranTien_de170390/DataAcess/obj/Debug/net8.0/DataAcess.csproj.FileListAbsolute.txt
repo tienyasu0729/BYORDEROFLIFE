@@ -1,0 +1,17 @@
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.deps.json
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.runtimeconfig.json
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\Model.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\bin\Debug\net8.0\Model.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.AssemblyReference.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfo.cs
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.Up2Date
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\refint\DataAcess.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.genruntimeconfig.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\ref\DataAcess.dll

@@ -1,0 +1,103 @@
+﻿<Page x:Class="TienWPF.CustomerManagementPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TienWPF"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CustomerManagementPage">
+
+    <Grid Margin="2" Background="#FF60B1E7">
+
+        <StackPanel Margin="0,10,0,0" RenderTransformOrigin="0.503,0.486">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.209"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.774"/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <TextBlock Text="Customer Details" FontSize="20" FontWeight="Bold" Margin="0,0,0,0" Background="#0099FF" Height="31"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10" Background="#0099FF" Height="35">
+                <TextBlock Text="Search:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox Name="SearchTextBox" Width="200" Height="24"/>
+                <Button Content="Search" Margin="10,0,0,0"  Click="SearchButton_Click" Width="63" Height="22"/>
+                <Button Content="Create" Margin="50,0,0,0"  Click="AddCustomerButton_Click" Width="90" Height="22"/>
+                <Button Content="update" Margin="50,0,0,0"  Click="UpdateCustomerButton_Click" Width="90" Height="22"/>
+                <Button Content="Delete" Margin="50,0,0,0"  Click="DeleteCustomerButton_Click" Width="90" Height="22"/>
+            </StackPanel>
+
+            <Grid Margin="0,0,0,10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Row 0 -->
+                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Full Name:" VerticalAlignment="Center" Margin="0,0,5,0" Width="76"/>
+                    <TextBox Name="txtFullName" Grid.Column="1" Text="{Binding SelectedItem.CustomerFullName, ElementName=CustomerData}" Width="303" Margin="5,-1,0,1" Height="23"/>
+                </StackPanel>
+
+                <!-- Row 1 -->
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Email Address:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <TextBox Name="txtEmail" Grid.Column="1" Text="{Binding SelectedItem.EmailAddress, ElementName=CustomerData}" Width="305"  Margin="5,0,0,0" Height="25" RenderTransformOrigin="0.5,0.5">
+                        <TextBox.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleX="-1.58"/>
+                                <RotateTransform Angle="0.064"/>
+                                <TranslateTransform X="-0.372"/>
+                            </TransformGroup>
+                        </TextBox.RenderTransform>
+                    </TextBox>
+                </StackPanel>
+
+                <!-- Row 2 -->
+                <StackPanel Orientation="Horizontal" Margin="56,30,-39,10" Grid.Column="1" Grid.RowSpan="2">
+                    <TextBlock Text="Telephone:" VerticalAlignment="Center" Margin="0,0,5,0" Width="72"/>
+                    <TextBox Name="txtTelephone" Text="{Binding SelectedItem.TelePhone, ElementName=CustomerData}" Width="149" Height="24" RenderTransformOrigin="0.533,0.564"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="58,-5,-36,9" Grid.Column="1">
+                    <TextBlock Text="CustomerID" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <TextBox Name="txtCustomerId" Grid.Column="1" Text="{Binding SelectedItem.CustomerId, ElementName=CustomerData}" Width="150" Margin="5,0,0,0" Height="22" IsEnabled="False"/>
+                </StackPanel>
+
+                <!-- Row 3 -->
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="58,35,-36,-25" Grid.Column="1">
+                    <TextBlock Text="Birth Date:" VerticalAlignment="Center" Margin="0,0,5,0" RenderTransformOrigin="8.648,0.944" Width="68"/>
+                    <DatePicker Name ="txtBirthDay" SelectedDate="{Binding SelectedItem.CustomerBirthDay, ElementName=CustomerData,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="156" Height="27"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="4,39,405,-26" Grid.ColumnSpan="2">
+                    <TextBlock Text="Status:" VerticalAlignment="Center" Margin="0,0,5,0" RenderTransformOrigin="8.648,0.944" Width="79"/>
+                    <TextBox Name ="txtStatus" Grid.Column="1" Text="{Binding SelectedItem.CustomerStatus, ElementName=CustomerData}" Width="100" Height="22"/>
+                </StackPanel>
+            </Grid>
+
+
+        </StackPanel>
+        <DataGrid x:Name="CustomerData" AutoGenerateColumns="False" Margin="0,192,0,0" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}"/>
+                <DataGridTextColumn Header="Full Name" Binding="{Binding CustomerFullName}"/>
+                <DataGridTextColumn Header="Email Address" Binding="{Binding EmailAddress}"/>
+                <DataGridTextColumn Header="Telephone" Binding="{Binding TelePhone}"/>
+                <DataGridTextColumn Header="Birth Date" Binding="{Binding CustomerBirthDay}"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding CustomerStatus}"/>
+                <!-- Add more columns as needed -->
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>

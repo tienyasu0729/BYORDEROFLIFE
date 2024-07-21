@@ -1,0 +1,17 @@
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\DataAcess.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\Model.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\DataAcess.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\bin\Debug\net8.0\Model.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\ref\Repository.dll
