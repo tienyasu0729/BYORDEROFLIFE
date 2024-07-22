@@ -1,108 +1,112 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\",
+  "WorkspaceRootPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\fuminihotelsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\fuminihotelsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\fuminihotelsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\dataacesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17AC8A02-55F4-4549-9AC8-4D86E63BD948}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\roominfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\roominfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD1049-32C1-44AD-A790-E94AC95D92E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\ngochanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\ngochanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\ngochanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\repositories\\roomrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\repositories\\roomrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D651EC1-A2D5-4A6D-B4D6-AE19F7DBBAE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\myprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\myprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\myprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\myprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|c:\\learn\\codegym\\byorderoflife\\.net\\.net project\\ngochan_se17d04_a02\\ngochan_se17d04_a02\\ngochanwpf\\myprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{257ECC7B-CCD4-47F9-83CB-0E6EAD0FEA93}|NgocHanWPF\\NgocHanWPF.csproj|solutionrelative:ngochanwpf\\myprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -116,33 +120,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 31,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\App.xaml",
-              "RelativeDocumentMoniker": "NgocHanWPF\\App.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\App.xaml",
-              "RelativeToolTip": "NgocHanWPF\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-22T09:11:06.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminDashboard.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml.cs",
-              "RelativeDocumentMoniker": "NgocHanWPF\\AdminDashboard.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml.cs",
-              "RelativeToolTip": "NgocHanWPF\\AdminDashboard.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:57:14.548Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -153,7 +132,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -161,7 +140,35 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -169,7 +176,43 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -177,15 +220,51 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "BookingManagementPage.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml",
+              "RelativeDocumentMoniker": "NgocHanWPF\\BookingManagementPage.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml",
+              "RelativeToolTip": "NgocHanWPF\\BookingManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T13:05:46.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AdminDashboard.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml",
               "RelativeDocumentMoniker": "NgocHanWPF\\AdminDashboard.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml",
               "RelativeToolTip": "NgocHanWPF\\AdminDashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-22T08:52:57.929Z",
@@ -193,74 +272,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerDAO.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\CustomerDAO.cs",
-              "RelativeDocumentMoniker": "DataAcessLayer\\CustomerDAO.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\CustomerDAO.cs",
-              "RelativeToolTip": "DataAcessLayer\\CustomerDAO.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAqwBcAAAA5AAAA",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "NgocHanWPF\\AdminDashboard.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "NgocHanWPF\\AdminDashboard.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:29:53.106Z",
+              "WhenOpened": "2024-07-22T08:57:14.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FuminiHotelSystemContext.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\FuminiHotelSystemContext.cs",
-              "RelativeDocumentMoniker": "DataAcessLayer\\FuminiHotelSystemContext.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\FuminiHotelSystemContext.cs",
-              "RelativeToolTip": "DataAcessLayer\\FuminiHotelSystemContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T14:29:36.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookingReservationDAO.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\BookingReservationDAO.cs",
-              "RelativeDocumentMoniker": "DataAcessLayer\\BookingReservationDAO.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\BookingReservationDAO.cs",
-              "RelativeToolTip": "DataAcessLayer\\BookingReservationDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:28:49.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "NgocHanWPF\\LoginWindow.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml",
-              "RelativeToolTip": "NgocHanWPF\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-15T13:28:21.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoomInfomation.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomInfomation.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\RoomInfomation.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomInfomation.cs",
-              "RelativeToolTip": "BusinessObjects\\RoomInfomation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T15:58:19.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CustomerManagementPage.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml",
               "RelativeDocumentMoniker": "NgocHanWPF\\CustomerManagementPage.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml",
               "RelativeToolTip": "NgocHanWPF\\CustomerManagementPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-15T13:41:10.549Z",
@@ -268,11 +297,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "CustomerManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "NgocHanWPF\\CustomerManagementPage.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeToolTip": "NgocHanWPF\\CustomerManagementPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:41:22.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\BookingReservationDAO.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAcessLayer\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:28:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuminiHotelSystemContext.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\FuminiHotelSystemContext.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\FuminiHotelSystemContext.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\FuminiHotelSystemContext.cs",
+              "RelativeToolTip": "DataAcessLayer\\FuminiHotelSystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:29:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\CustomerDAO.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAcessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwBcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:29:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\App.xaml",
+              "RelativeDocumentMoniker": "NgocHanWPF\\App.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\App.xaml",
+              "RelativeToolTip": "NgocHanWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T09:11:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "NgocHanWPF\\LoginWindow.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "NgocHanWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T13:28:21.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomInfomation.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomInfomation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInfomation.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomInfomation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInfomation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:58:19.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RoomType.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomType.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomType.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomType.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\RoomType.cs",
               "RelativeToolTip": "BusinessObjects\\RoomType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +393,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\Customer.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\Customer.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\Customer.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\Customer.cs",
               "RelativeToolTip": "BusinessObjects\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BookingReservation.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingReservation.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingReservation.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingReservation.cs",
               "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "NgocHanWPF.csproj",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
               "RelativeDocumentMoniker": "NgocHanWPF\\NgocHanWPF.csproj",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
               "RelativeToolTip": "NgocHanWPF\\NgocHanWPF.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -316,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "BookingDetail.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingDetail.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingDetail.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BookingDetail.cs",
               "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,24 +441,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RoomDAO.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\RoomDAO.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\RoomDAO.cs",
               "RelativeDocumentMoniker": "DataAcessLayer\\RoomDAO.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\RoomDAO.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\RoomDAO.cs",
               "RelativeToolTip": "DataAcessLayer\\RoomDAO.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:12:53.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:12:53.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BookingManagementPage.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml.cs",
               "RelativeDocumentMoniker": "NgocHanWPF\\BookingManagementPage.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\BookingManagementPage.xaml.cs",
               "RelativeToolTip": "NgocHanWPF\\BookingManagementPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,11 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\appsettings.json",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\appsettings.json",
               "RelativeDocumentMoniker": "NgocHanWPF\\appsettings.json",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\appsettings.json",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\appsettings.json",
               "RelativeToolTip": "NgocHanWPF\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -365,22 +477,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RoomManagementPage.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml",
               "RelativeDocumentMoniker": "NgocHanWPF\\RoomManagementPage.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml",
               "RelativeToolTip": "NgocHanWPF\\RoomManagementPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-15T15:45:15.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "RoomManagementPage.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml.cs",
               "RelativeDocumentMoniker": "NgocHanWPF\\RoomManagementPage.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\RoomManagementPage.xaml.cs",
               "RelativeToolTip": "NgocHanWPF\\RoomManagementPage.xaml.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAzwFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,23 +500,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
               "ToolTip": "C:\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T16:28:21.42Z",
               "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "MyProfile.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml.cs",
               "RelativeDocumentMoniker": "NgocHanWPF\\MyProfile.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml.cs",
               "RelativeToolTip": "NgocHanWPF\\MyProfile.xaml.cs",
               "ViewState": "AQIAABIAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "IRoomRepository.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\IRoomRepository.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IRoomRepository.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\IRoomRepository.cs",
               "RelativeToolTip": "Repositories\\IRoomRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +536,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "RoomRepository .cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\RoomRepository .cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\RoomRepository .cs",
               "RelativeDocumentMoniker": "Repositories\\RoomRepository .cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\RoomRepository .cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\RoomRepository .cs",
               "RelativeToolTip": "Repositories\\RoomRepository .cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIBJwBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,23 +548,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CustomerManagementPage.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml.cs",
-              "RelativeDocumentMoniker": "NgocHanWPF\\CustomerManagementPage.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\CustomerManagementPage.xaml.cs",
-              "RelativeToolTip": "NgocHanWPF\\CustomerManagementPage.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T13:41:22.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "NgocHanWPF\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\LoginWindow.xaml.cs",
               "RelativeToolTip": "NgocHanWPF\\LoginWindow.xaml.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAewCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,23 +560,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MyProfile.xaml",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml",
+              "DocumentMoniker": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml",
               "RelativeDocumentMoniker": "NgocHanWPF\\MyProfile.xaml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml",
+              "ToolTip": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\MyProfile.xaml",
               "RelativeToolTip": "NgocHanWPF\\MyProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-15T13:40:50.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CustomerDAO.cs",
               "DocumentMoniker": "C:\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
               "ToolTip": "C:\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\win\\AppData\\Local\\Temp\\Rar$DIa2808.13344\\CustomerDAO.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T13:40:24.113Z"
             }

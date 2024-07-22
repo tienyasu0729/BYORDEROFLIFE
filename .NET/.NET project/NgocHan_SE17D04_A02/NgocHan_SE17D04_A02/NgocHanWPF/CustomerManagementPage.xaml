@@ -87,7 +87,7 @@
 
 
         </StackPanel>
-        <DataGrid x:Name="CustomerData" AutoGenerateColumns="False" Margin="0,192,0,0" >
+        <DataGrid x:Name="CustomerData" AutoGenerateColumns="False" Margin="0,192,0,0" SelectionChanged="CustomerData_SelectionChanged" >
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}"/>
                 <DataGridTextColumn Header="Full Name" Binding="{Binding CustomerFullName}"/>

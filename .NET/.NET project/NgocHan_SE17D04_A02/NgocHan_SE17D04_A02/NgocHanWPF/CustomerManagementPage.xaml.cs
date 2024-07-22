@@ -108,6 +108,9 @@ namespace NgocHanWPF
             }
         }
 
+        private void CustomerData_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
 
+        }
     }
 }

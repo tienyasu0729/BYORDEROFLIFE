@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj": {}
+    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj": {}
   },
   "projects": {
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\obj\\",
+        "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj": {
+    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj",
+        "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj",
         "projectName": "DataAcessLayer",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj",
-        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\obj\\",
+        "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -176,24 +176,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj": {
+    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
+        "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
         "projectName": "NgocHanWPF",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
-        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\obj\\",
+        "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\NgocHanWPF.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\NgocHanWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -209,8 +209,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj"
+              "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -248,24 +248,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj": {
+    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\obj\\",
+        "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -281,11 +281,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj": {
-                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj"
+              "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj": {
+                "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\DataAcessLayer\\DataAcessLayer.csproj"
               }
             }
           }
@@ -320,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

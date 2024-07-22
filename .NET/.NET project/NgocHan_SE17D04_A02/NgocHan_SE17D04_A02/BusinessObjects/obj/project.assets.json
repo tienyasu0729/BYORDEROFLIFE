@@ -4107,23 +4107,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tienn\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
-      "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-      "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\obj\\",
+      "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\BusinessObjects.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\NgocHan_SE17D04_A02\\NgocHan_SE17D04_A02\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4193,7 +4193,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

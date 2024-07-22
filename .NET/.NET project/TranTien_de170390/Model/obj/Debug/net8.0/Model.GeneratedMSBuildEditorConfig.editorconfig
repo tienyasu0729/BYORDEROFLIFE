@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Model
-build_property.ProjectDir = C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Model\
+build_property.ProjectDir = C:\LEARN\codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Model\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
