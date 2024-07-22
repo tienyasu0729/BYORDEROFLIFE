@@ -39,7 +39,7 @@ public partial class FuminiHotelSystemContext : DbContext
     string GetConnectionString()
     {
         IConfiguration config = new ConfigurationBuilder()
-            .SetBasePath(@"F:\.net\PRN212\TranTien_de170390\TienWPF\")
+            .SetBasePath(Directory.GetCurrentDirectory())
             .AddJsonFile("appsettings.json").Build();
         return config["ConnectionStrings:DefaultConnection"];
     }

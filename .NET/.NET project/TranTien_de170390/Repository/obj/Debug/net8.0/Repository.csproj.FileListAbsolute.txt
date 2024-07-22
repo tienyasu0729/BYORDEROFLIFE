@@ -15,3 +15,21 @@ C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repositor
 C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\refint\Repository.dll
 C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\Tienn\Downloads\TranTien_de170390\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\DataAcess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\Model.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\DataAcess.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\bin\Debug\net8.0\Model.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\Repository\obj\Debug\net8.0\ref\Repository.dll

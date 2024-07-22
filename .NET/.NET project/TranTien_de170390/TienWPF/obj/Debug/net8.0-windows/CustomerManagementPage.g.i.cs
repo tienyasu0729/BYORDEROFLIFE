@@ -117,7 +117,7 @@ namespace TienWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TienWPF;component/customermanagementpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TienWPF;V1.0.0.0;component/customermanagementpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CustomerManagementPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

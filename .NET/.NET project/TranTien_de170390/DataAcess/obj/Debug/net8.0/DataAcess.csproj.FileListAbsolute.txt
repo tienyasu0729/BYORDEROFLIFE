@@ -15,3 +15,21 @@ C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\refint\Dat
 C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.pdb
 C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.genruntimeconfig.cache
 C:\Users\Tienn\Downloads\TranTien_de170390\DataAcess\obj\Debug\net8.0\ref\DataAcess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\DataAcess.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\Model.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\bin\Debug\net8.0\Model.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.csproj.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\refint\DataAcess.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\DataAcess.genruntimeconfig.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\TranTien_de170390\DataAcess\obj\Debug\net8.0\ref\DataAcess.dll

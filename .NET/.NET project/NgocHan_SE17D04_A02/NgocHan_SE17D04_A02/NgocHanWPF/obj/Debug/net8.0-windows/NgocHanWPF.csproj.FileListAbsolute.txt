@@ -1,0 +1,187 @@
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.AssemblyReference.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\AdminDashboard.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\BookingManagementPage.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\CustomerManagementPage.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\MyProfile.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\RoomManagementPage.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\App.g.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF_MarkupCompile.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF_MarkupCompile.lref
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\appsettings.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.exe
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\RoomManagementPage.xaml.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.deps.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.runtimeconfig.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BusinessObjects.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\DataAcessLayer.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Repositories.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Repositories.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BusinessObjects.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\DataAcessLayer.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\AdminDashboard.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\BookingManagementPage.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\CustomerManagementPage.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\LoginWindow.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\MyProfile.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\RoomManagementPage.baml
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.g.resources
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.AssemblyInfoInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.AssemblyInfo.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.CoreCompileInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.Up2Date
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\refint\NgocHanWPF.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.genruntimeconfig.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\ref\NgocHanWPF.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BookingManagementPage.xaml.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\appsettings.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.exe
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BookingManagementPage.xaml.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\RoomManagementPage.xaml.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\NgocHanWPF.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\DataAcessLayer.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Repositories.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\Repositories.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\BusinessObjects.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\bin\Debug\net8.0-windows\DataAcessLayer.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\AdminDashboard.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\BookingManagementPage.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\CustomerManagementPage.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\MyProfile.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\RoomManagementPage.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF_MarkupCompile.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF_MarkupCompile.lref
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\AdminDashboard.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\BookingManagementPage.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\CustomerManagementPage.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\MyProfile.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\RoomManagementPage.baml
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.g.resources
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.csproj.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\refint\NgocHanWPF.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\NgocHanWPF.genruntimeconfig.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\NgocHanWPF\obj\Debug\net8.0-windows\ref\NgocHanWPF.dll

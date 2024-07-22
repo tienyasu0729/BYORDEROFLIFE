@@ -1,0 +1,35 @@
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.deps.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\bin\Debug\net8.0\DataAcessLayer.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\Repositories\obj\Debug\net8.0\ref\Repositories.dll

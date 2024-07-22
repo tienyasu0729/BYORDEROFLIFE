@@ -125,7 +125,7 @@ namespace TienWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TienWPF;component/roommanagementpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TienWPF;V1.0.0.0;component/roommanagementpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\RoomManagementPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

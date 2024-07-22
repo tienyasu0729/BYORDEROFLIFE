@@ -85,7 +85,7 @@ namespace TienWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TienWPF;component/loginwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TienWPF;V1.0.0.0;component/loginwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LoginWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

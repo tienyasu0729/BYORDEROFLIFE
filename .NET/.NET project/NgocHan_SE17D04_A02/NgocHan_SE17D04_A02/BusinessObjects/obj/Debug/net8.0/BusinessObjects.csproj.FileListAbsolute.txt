@@ -1,0 +1,29 @@
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+F:\.net\PRN212\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+C:\Codegym\BYORDEROFLIFE\.NET\.NET project\NgocHan_SE17D04_A02\NgocHan_SE17D04_A02\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
