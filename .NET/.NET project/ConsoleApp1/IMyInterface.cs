@@ -10,8 +10,11 @@ namespace ConsoleApp1
     {
         void MyMethod()
         {
-            Console.WriteLine("Default implementation");
+
+        }
+        int Ggdsd() {
+            return 0;
         }
     }
-    int Ggdsd ();
+   
 }
