@@ -1,0 +1,4 @@
+username,password,status,expected
+john,pass123,true,true
+jane,wrongpass,true,false
+admin,adminpass,false,false
