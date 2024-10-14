@@ -12553,7 +12553,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XFposE6Jk-yFWzNfXIZe" name="Fake Shopee chính thức">
-    <mxGraphModel dx="6141" dy="3964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8162" dy="4747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15099,6 +15099,8 @@
             <mxPoint x="870" y="220" as="sourcePoint" />
             <mxPoint x="280" y="330" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1020" y="-271" />
+              <mxPoint x="1020" y="-221" />
               <mxPoint x="790" y="-221" />
               <mxPoint x="790" y="280" />
               <mxPoint x="170" y="280" />
