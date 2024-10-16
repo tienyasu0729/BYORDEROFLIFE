@@ -1,6 +1,7 @@
 package com.codegym.demo_springdatajpa_a10.model;
 
 import javax.persistence.*;
+import javax.validation.constraints.Pattern;
 import java.util.Set;
 
 @Entity
@@ -10,6 +11,9 @@ public class Student {
     private int id;
     private String name;
     public int gender;
+    @Column(name = "phone_number", nullable = false)
+    @Pattern(regexp = "^(03|05|07|08|09)[0-9]{8,9}$", message = "Số điện thoại không hợp lệ, phải bắt đầu bằng đầu số nhà mạng và có 10-11 chữ số.")
+    private String phoneNumber;
 
     @ManyToOne
     @JoinColumn(name = "class_id",referencedColumnName = "id")
