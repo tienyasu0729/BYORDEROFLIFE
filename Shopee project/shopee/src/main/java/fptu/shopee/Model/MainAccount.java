@@ -2,6 +2,7 @@ package fptu.shopee.Model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
 @Entity
@@ -11,41 +12,35 @@ public class MainAccount {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_main_account")
-    private Long idMainAccount;
+    private int idMainAccount;
 
-    @Column(name = "account_area", nullable = false)
-    @Size(min = 3, max = 100, message = "Tên khu vực phải từ 3 đến 100 ký tự.")
-    private String accountArea;
+    @Column(name = "business_ID", nullable = false)
+    private String businessID;
+
+    @Column(name = "password", nullable = false)
+    @Size(min = 8, max = 100, message = "Mật khẩu phải có độ dài từ 8 đến 100 ký tự.")
+    @Pattern(regexp = "^[^\\s]+$", message = "Mật khẩu không được chứa khoảng trắng.")
+    private String password;
 
     @Column(name = "phone_number", nullable = false)
+    @Pattern(regexp = "\\d{10,11}", message = "Số điện thoại phải chứa từ 10 đến 11 chữ số.")
     private String phoneNumber;
 
     @Email(message = "Email không hợp lệ.")
     @Column(name = "email", nullable = false)
     private String email;
 
-    @Column(name = "business_ID", nullable = false)
-    @Size(min = 3, max = 50, message = "Business ID phải từ 3 đến 50 ký tự.")
-    private String businessID;
+    @ManyToOne
+    @JoinColumn(name = "account_area", nullable = false)
+    private Area accountArea;
 
-    @Column(name = "password", nullable = false)
-    @Size(min = 6, message = "Mật khẩu phải có ít nhất 6 ký tự.")
-    private String password;
 
-    public Long getIdMainAccount() {
+    public int getIdMainAccount() {
         return idMainAccount;
     }
 
-    public void setIdMainAccount(Long idMainAccount) {
+    public void setIdMainAccount(int idMainAccount) {
         this.idMainAccount = idMainAccount;
-    }
-
-    public String getAccountArea() {
-        return accountArea;
-    }
-
-    public void setAccountArea(String accountArea) {
-        this.accountArea = accountArea;
     }
 
     public String getPhoneNumber() {
