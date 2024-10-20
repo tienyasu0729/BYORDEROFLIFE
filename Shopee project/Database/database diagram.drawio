@@ -16546,7 +16546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Fake Shopee chính thức" id="EW0bQTjr-B_-gb8gW6i5">
-    <mxGraphModel dx="6002" dy="3920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5639" dy="4584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RJPkTaijRPQq3wboeLcU-0" />
         <mxCell id="RJPkTaijRPQq3wboeLcU-1" parent="RJPkTaijRPQq3wboeLcU-0" />
@@ -17316,7 +17316,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RJPkTaijRPQq3wboeLcU-176" value="blocked user" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="RJPkTaijRPQq3wboeLcU-1" vertex="1">
+        <mxCell id="RJPkTaijRPQq3wboeLcU-176" value="blocked user" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="RJPkTaijRPQq3wboeLcU-1" vertex="1">
           <mxGeometry x="570" y="-865" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RJPkTaijRPQq3wboeLcU-177" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="RJPkTaijRPQq3wboeLcU-176" vertex="1">
