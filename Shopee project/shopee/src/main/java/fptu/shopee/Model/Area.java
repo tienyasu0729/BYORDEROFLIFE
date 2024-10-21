@@ -15,7 +15,7 @@ public class Area {
     private int idArea;
 
     @Column(name = "name_area", nullable = false)
-    @Pattern(regexp = "^[\\p{L}\\s]+$", message = "Name area must only contain letters and spaces, no numbers or special characters")
+    @Pattern(regexp = "^[\\p{L}\\s]+$", message = Message.messRegexpNameArea)
     private String nameArea;
 
     @OneToMany(mappedBy = "area", cascade = CascadeType.ALL, fetch = FetchType.LAZY)

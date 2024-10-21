@@ -13,10 +13,15 @@ public class ListEmailToReceiveElectronicInvoices {
     @Column(name = "Id_List_Email_To_Receive_Electronic_Invoices")
     private int idListEmailToReceiveElectronicInvoices;
 
-    @Email(message = "Email không hợp lệ.")
-    @NotNull(message = "Email không được để trống.")
+    @Email(message = Message.messEmail)
+    @NotNull(message = Message.messNotNullEmail)
     @Column(name = "email", nullable = false)
     private String email;
+
+    @ManyToOne
+    @JoinColumn(name = "shop", nullable = false)
+    private Shop shop;
+
 
     public int getIdListEmailToReceiveElectronicInvoices() {
         return idListEmailToReceiveElectronicInvoices;

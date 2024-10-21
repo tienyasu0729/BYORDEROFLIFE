@@ -5,6 +5,8 @@ import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "main_account")
 public class MainAccount {
@@ -18,15 +20,15 @@ public class MainAccount {
     private String businessID;
 
     @Column(name = "password", nullable = false)
-    @Size(min = 8, max = 100, message = "Mật khẩu phải có độ dài từ 8 đến 100 ký tự.")
-    @Pattern(regexp = "^[^\\s]+$", message = "Mật khẩu không được chứa khoảng trắng.")
+    @Size(min = 8, max = 100, message = Message.messSizePassword)
+    @Pattern(regexp = "^[^\\s]+$", message = Message.messRegexpPassword)
     private String password;
 
     @Column(name = "phone_number", nullable = false)
-    @Pattern(regexp = "\\d{10,11}", message = "Số điện thoại phải chứa từ 10 đến 11 chữ số.")
+    @Pattern(regexp = "\\d{10,11}", message = Message.messRegexpPhoneNumber)
     private String phoneNumber;
 
-    @Email(message = "Email không hợp lệ.")
+    @Email(message = Message.messEmail)
     @Column(name = "email", nullable = false)
     private String email;
 
@@ -34,6 +36,8 @@ public class MainAccount {
     @JoinColumn(name = "account_area", nullable = false)
     private Area accountArea;
 
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<Shop> shops;
 
     public int getIdMainAccount() {
         return idMainAccount;
