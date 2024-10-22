@@ -2,6 +2,8 @@ package fptu.shopee.Model;
 
 import jakarta.persistence.*;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "category")
 public class Category {
@@ -14,8 +16,14 @@ public class Category {
     @Column(name = "name_category", nullable = false)
     private String nameCategory;
 
-    @Column(name = "parentID")
-    private int parentID;
+    // Mối quan hệ Many-to-One với chính bảng Category để thiết lập danh mục cha
+    @ManyToOne
+    @JoinColumn(name = "parentID") // parent_id là khóa ngoại tham chiếu đến idCategory của bảng cha
+    private Category parentCategory;
+
+    // Mối quan hệ One-to-Many để lấy tất cả danh mục con của danh mục hiện tại
+    @OneToMany(mappedBy = "parentCategory", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<Category> subCategories;
 
     public int getIdCategory() {
         return idCategory;
@@ -33,11 +41,4 @@ public class Category {
         this.nameCategory = nameCategory;
     }
 
-    public int getParentID() {
-        return parentID;
-    }
-
-    public void setParentID(int parentID) {
-        this.parentID = parentID;
-    }
 }

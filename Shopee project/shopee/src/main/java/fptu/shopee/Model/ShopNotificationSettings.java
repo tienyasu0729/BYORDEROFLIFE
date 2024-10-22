@@ -10,7 +10,7 @@ public class ShopNotificationSettings {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
     @NotNull
     @Column(name = "order_update_notification", nullable = false, columnDefinition = "BOOLEAN DEFAULT false")
@@ -32,11 +32,16 @@ public class ShopNotificationSettings {
     @Column(name = "Chat_Messages_Reminder", nullable = false, columnDefinition = "BOOLEAN DEFAULT false")
     private Boolean chatMessagesReminder = false;
 
-    public Long getId() {
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_shop")
+    private Shop shop;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

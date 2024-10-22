@@ -1,27 +1,50 @@
 package fptu.shopee.Model;
 
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
+import jakarta.validation.constraints.Size;
 
 @Entity
 @Table(name = "user_identification_information")
 public class UserIdentificationInformation {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id_user_identification_information")
+    private int id;
+
+    @NotNull
     @Column(name = "cccd", nullable = false, length = 12)
+    @Pattern(regexp = "\\d{12}", message = Message.messRegexpCCCD)
+    @Size(min = 12, max = 12, message = Message.messSizeCCCD)
     private String cccd;
 
-    @Column(name = "image_selfie", length = 500)
+    @NotNull
+    @Column(name = "image_selfie", nullable = false, length = 500)
     private String imageSelfie;
 
-    @Column(name = "image_cccd_front", length = 500)
+    @NotNull
+    @Column(name = "image_cccd_front", nullable = false, length = 500)
     private String imageCccdFront;
 
-    @Column(name = "image_cccd_back", length = 500)
+    @NotNull
+    @Column(name = "image_cccd_back", nullable = false, length = 500)
     private String imageCccdBack;
+
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_user")
+    private User user;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public String getCccd() {
         return cccd;

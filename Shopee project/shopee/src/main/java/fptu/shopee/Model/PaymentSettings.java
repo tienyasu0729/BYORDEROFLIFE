@@ -1,7 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
 
 @Entity
 @Table(name = "payment_settings")
@@ -10,20 +10,25 @@ public class PaymentSettings {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
-    @NotNull(message = "Cài đặt rút tiền tự động không được để trống.")
     @Column(name = "automatic_withdrawal", nullable = false)
     private Boolean automaticWithdrawal = false;
 
     @Column(name = "PIN_code")
+    @Pattern(regexp = "\\d{6}", message = Message.messRegexpPinCode)
     private String pinCode;
 
-    public Long getId() {
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_shop")
+    private Shop shop;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

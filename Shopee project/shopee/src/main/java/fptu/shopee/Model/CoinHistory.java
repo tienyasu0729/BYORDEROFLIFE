@@ -1,6 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
 
@@ -11,23 +12,34 @@ public class CoinHistory {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_coin_history")
-    private Long idCoinHistory;
+    private int idCoinHistory;
 
+    @NotNull
     @Column(name = "number_coin", nullable = false)
-    private Integer numberCoin;
+    private int numberCoin;
 
+    @NotNull
     @Column(name = "notification_subject", nullable = false)
     private String notificationSubject;
 
+    @NotNull
     @Column(name = "notification_receipt_date", nullable = false)
     @Temporal(TemporalType.DATE)
     private Date notificationReceiptDate;
 
-    public Long getIdCoinHistory() {
+    @PrePersist
+    protected void onCreate() {
+        notificationReceiptDate = new Date(); // Gán ngày hiện tại khi thực thể được lưu lần đầu
+    }
+    @ManyToOne
+    @JoinColumn(name = "user", nullable = false)
+    private User user;
+
+    public int getIdCoinHistory() {
         return idCoinHistory;
     }
 
-    public void setIdCoinHistory(Long idCoinHistory) {
+    public void setIdCoinHistory(int idCoinHistory) {
         this.idCoinHistory = idCoinHistory;
     }
 

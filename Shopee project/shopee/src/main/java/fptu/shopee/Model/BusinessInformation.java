@@ -10,7 +10,7 @@ public class BusinessInformation {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
     @NotNull
     @Column(name = "business_type", nullable = false)
@@ -28,12 +28,16 @@ public class BusinessInformation {
     @Column(name = "tax_identification_number", nullable = false)
     private String taxIdentificationNumber;
 
-    // Getters và Setters
-    public Long getId() {
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_shop")
+    private Shop shop;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

@@ -2,6 +2,7 @@ package fptu.shopee.Model;
 
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Pattern;
 
 @Entity
 @Table(name = "shop_identification")
@@ -10,15 +11,16 @@ public class ShopIdentification {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
     @Column(name = "form_of_identification", nullable = false)
-    private String formOfIdentification;
+    private String idFormOfIdentification;
 
     @Column(name = "identification_number", nullable = false)
     private String identificationNumber;
 
     @Column(name = "identification_name", nullable = false)
+    @Pattern(regexp = "^[\\p{L}\\p{Zs}]+$", message = Message.messRegexpIdentificationName)
     private String identificationName;
 
     @Column(name = "image_identification_front", length = 500)
@@ -27,21 +29,29 @@ public class ShopIdentification {
     @Column(name = "image_identification_back", length = 500)
     private String imageIdentificationBack;
 
-    // Getters và Setters
-    public Long getId() {
+    @ManyToOne
+    @JoinColumn(name = "form_of_identification", nullable = false)
+    private FormOfIdentification formOfIdentification;
+
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_shop")
+    private Shop shop;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 
     public String getFormOfIdentification() {
-        return formOfIdentification;
+        return idFormOfIdentification;
     }
 
     public void setFormOfIdentification(String formOfIdentification) {
-        this.formOfIdentification = formOfIdentification;
+        this.idFormOfIdentification = formOfIdentification;
     }
 
     public String getIdentificationNumber() {

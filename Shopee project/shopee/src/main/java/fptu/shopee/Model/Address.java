@@ -1,6 +1,8 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
 
 @Entity
 @Table(name = "address")
@@ -9,37 +11,47 @@ public class Address {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_address")
-    private Long idAddress;
+    private int idAddress;
 
-    @Column(name = "name_address", nullable = false)
+    @Column(name = "name_address")
     private String nameAddress;
 
     @Column(name = "phone_number", nullable = false)
+    @Pattern(regexp = "\\d{10,11}", message = Message.messRegexpPhoneNumber)
     private String phoneNumber;
 
-    @Column(name = "apartment_number")
+    @NotNull
+    @Column(name = "apartment_number", nullable = false)
     private String apartmentNumber;
 
+    @NotNull
     @Column(name = "street_name", nullable = false)
     private String streetName;
 
+    @NotNull
     @Column(name = "District", nullable = false)
     private String district;
 
+    @NotNull
     @Column(name = "Ward", nullable = false)
     private String ward;
 
+    @NotNull
     @Column(name = "city", nullable = false)
     private String city;
 
     @Column(name = "is_default", nullable = false)
     private boolean isDefault;
 
-    public Long getIdAddress() {
+    @ManyToOne
+    @JoinColumn(name = "user", nullable = false)
+    private User user;
+
+    public int getIdAddress() {
         return idAddress;
     }
 
-    public void setIdAddress(Long idAddress) {
+    public void setIdAddress(int idAddress) {
         this.idAddress = idAddress;
     }
 

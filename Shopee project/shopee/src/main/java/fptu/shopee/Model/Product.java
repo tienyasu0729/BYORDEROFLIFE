@@ -1,6 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Table(name = "product")
@@ -9,28 +10,32 @@ public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_product")
-    private Long idProduct;
+    private int idProduct;
 
+    @NotNull
     @Column(name = "name_product", nullable = false)
     private String nameProduct;
 
+    @NotNull
     @Column(name = "product_description")
     private String productDescription;
 
+    @NotNull
     @Column(name = "pre_order", nullable = false)
     private Boolean preOrder = false;
 
+    @NotNull
     @Column(name = "condition", nullable = false)
     private String condition;
 
-    @Column(name = "SKU_product", nullable = false)
+    @Column(name = "SKU_product")
     private String skuProduct;
 
-    public Long getIdProduct() {
+    public int getIdProduct() {
         return idProduct;
     }
 
-    public void setIdProduct(Long idProduct) {
+    public void setIdProduct(int idProduct) {
         this.idProduct = idProduct;
     }
 

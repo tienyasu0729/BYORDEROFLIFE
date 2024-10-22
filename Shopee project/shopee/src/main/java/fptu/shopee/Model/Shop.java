@@ -25,7 +25,7 @@ public class Shop {
     @Pattern(regexp = "^[\\p{L}\\p{Zs}]+$", message = Message.messRegexpShopName)
     private String shopName;
 
-    @Email(message = "Email không hợp lệ.")
+    @Email(message = Message.messEmail)
     @Column(name = "email", nullable = false)
     private String email;
 
@@ -46,6 +46,21 @@ public class Shop {
     @ManyToOne
     @JoinColumn(name = "main_account")
     private MainAccount mainAccount;
+
+    @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
+    private PaymentSettings paymentSettings;
+
+    @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
+    private ChatSettings chatSettings;
+
+    @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
+    private ShopNotificationSettings shopNotificationSettings;
+
+    @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
+    private BusinessInformation businessInformation;
+
+    @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
+    private ShopIdentification shopIdentification;
 
     public int getIdShop() {
         return idShop;

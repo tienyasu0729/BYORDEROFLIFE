@@ -1,8 +1,13 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
+import jakarta.validation.constraints.Size;
 
 import java.util.Date;
+import java.util.Set;
 
 @Entity
 @Table(name = "user")
@@ -11,42 +16,73 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_user")
-    private Long idUser;
+    private int idUser;
 
     @Column(name = "phone_number", nullable = false)
+    @Pattern(regexp = "\\d{10,11}", message = Message.messRegexpPhoneNumber)
     private String phoneNumber;
 
+    @NotNull
     @Column(name = "password", nullable = false)
+    @Size(min = 8, max = 100, message = Message.messSizePassword)
+    @Pattern(regexp = "^[^\\s]+$", message = Message.messRegexpPassword)
     private String password;
 
+    @NotNull
     @Column(name = "account_name", nullable = false)
     private String accountName;
 
     @Column(name = "real_name")
     private String realName;
 
-    @Column(name = "email", nullable = false)
+    @Email(message = Message.messEmail)
+    @Column(name = "email")
     private String email;
 
-    @Column(name = "sex")
+    @NotNull
+    @Column(name = "sex", nullable = false)
     private String sex;
 
-    @Column(name = "date_of_birth")
+    @NotNull
+    @Column(name = "date_of_birth", nullable = false)
     @Temporal(TemporalType.DATE)
     private Date dateOfBirth;
 
     @Column(name = "avatar_image")
     private String avatarImage;
 
-    @Column(name = "joining_date")
+    @Column(name = "joining_date", nullable = false)
     @Temporal(TemporalType.DATE)
     private Date joiningDate;
 
-    public Long getIdUser() {
+    @PrePersist
+    protected void onCreate() {
+        joiningDate = new Date(); // Gán ngày hiện tại khi thực thể được lưu lần đầu
+    }
+
+    @OneToMany(mappedBy = "address", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<Address> addresses;
+
+    @OneToMany(mappedBy = "coin_history", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<CoinHistory> coinHistories;
+
+    @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
+    private UserCoin userCoin;
+
+    @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
+    private UserIdentificationInformation userIdentificationInformation;
+
+    @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
+    private UserSpending userSpending;
+
+    @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
+    private UserNotifications userNotifications;
+
+    public int getIdUser() {
         return idUser;
     }
 
-    public void setIdUser(Long idUser) {
+    public void setIdUser(int idUser) {
         this.idUser = idUser;
     }
 

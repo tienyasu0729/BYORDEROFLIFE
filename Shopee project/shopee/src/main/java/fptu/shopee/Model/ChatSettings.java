@@ -10,7 +10,7 @@ public class ChatSettings {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
     @NotNull
     @Column(name = "Receive_messages_from_Shopee_Rewards", nullable = false)
@@ -28,11 +28,16 @@ public class ChatSettings {
     @Column(name = "Push_new_popup_message", nullable = false)
     private Boolean pushNewPopupMessage = false;
 
-    public Long getId() {
+    @OneToOne
+    @MapsId // Maps khóa ngoại thành khóa chính
+    @JoinColumn(name = "id_shop")
+    private Shop shop;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

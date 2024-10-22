@@ -2,6 +2,8 @@ package fptu.shopee.Model;
 
 import jakarta.persistence.*;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "form_of_identification")
 public class FormOfIdentification {
@@ -9,17 +11,19 @@ public class FormOfIdentification {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_form")
-    private Long idForm;
+    private int idForm;
 
     @Column(name = "name_form", nullable = false)
     private String nameForm;
 
-    // Getters và Setters
-    public Long getIdForm() {
+    @OneToMany(mappedBy = "shop_identification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ShopIdentification> shopIdentifications;
+
+    public int getIdForm() {
         return idForm;
     }
 
-    public void setIdForm(Long idForm) {
+    public void setIdForm(int idForm) {
         this.idForm = idForm;
     }
 
