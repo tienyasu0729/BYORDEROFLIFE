@@ -18,12 +18,12 @@ public class Category {
 
     // Mối quan hệ Many-to-One với chính bảng Category để thiết lập danh mục cha
     @ManyToOne
-    @JoinColumn(name = "parentID") // parent_id là khóa ngoại tham chiếu đến idCategory của bảng cha
-    private Category parentCategory;
+    @JoinColumn(name = "parent_id") // parent_id là khóa ngoại tham chiếu đến idCategory của bảng cha
+    private Category category;
 
     // Mối quan hệ One-to-Many để lấy tất cả danh mục con của danh mục hiện tại
-    @OneToMany(mappedBy = "parentCategory", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<Category> subCategories;
+    @OneToMany(mappedBy = "category", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<Category> categories;
 
     public int getIdCategory() {
         return idCategory;

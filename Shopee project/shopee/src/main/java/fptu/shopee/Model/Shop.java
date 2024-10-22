@@ -40,7 +40,7 @@ public class Shop {
     @Column(name = "status", nullable = false, columnDefinition = "BOOLEAN DEFAULT true")
     private Boolean status = true;
 
-    @OneToMany(mappedBy = "list_email_to_receive_electronic_invoices", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ListEmailToReceiveElectronicInvoices> listEmailToReceiveElectronicInvoices;
 
     @ManyToOne

@@ -34,7 +34,7 @@ public class MainAccount {
 
     @ManyToOne
     @JoinColumn(name = "account_area", nullable = false)
-    private Area accountArea;
+    private Area area;
 
     @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<Shop> shops;

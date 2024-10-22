@@ -16,7 +16,7 @@ public class FormOfIdentification {
     @Column(name = "name_form", nullable = false)
     private String nameForm;
 
-    @OneToMany(mappedBy = "shop_identification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "formOfIdentification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ShopIdentification> shopIdentifications;
 
     public int getIdForm() {

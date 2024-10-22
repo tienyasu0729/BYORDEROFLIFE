@@ -30,7 +30,7 @@ public class ShopIdentification {
     private String imageIdentificationBack;
 
     @ManyToOne
-    @JoinColumn(name = "form_of_identification", nullable = false)
+    @JoinColumn(name = "id_form_of_identification", nullable = false)
     private FormOfIdentification formOfIdentification;
 
     @OneToOne

@@ -44,7 +44,7 @@ public class Address {
     private boolean isDefault;
 
     @ManyToOne
-    @JoinColumn(name = "user", nullable = false)
+    @JoinColumn(name = "id_user", nullable = false)
     private User user;
 
     public int getIdAddress() {

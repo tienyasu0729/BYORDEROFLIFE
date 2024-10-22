@@ -32,7 +32,7 @@ public class CoinHistory {
         notificationReceiptDate = new Date(); // Gán ngày hiện tại khi thực thể được lưu lần đầu
     }
     @ManyToOne
-    @JoinColumn(name = "user", nullable = false)
+    @JoinColumn(name = "id_user", nullable = false)
     private User user;
 
     public int getIdCoinHistory() {

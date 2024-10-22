@@ -19,9 +19,8 @@ public class ListEmailToReceiveElectronicInvoices {
     private String email;
 
     @ManyToOne
-    @JoinColumn(name = "shop", nullable = false)
+    @JoinColumn(name = "id_shop", nullable = false)
     private Shop shop;
-
 
     public int getIdListEmailToReceiveElectronicInvoices() {
         return idListEmailToReceiveElectronicInvoices;

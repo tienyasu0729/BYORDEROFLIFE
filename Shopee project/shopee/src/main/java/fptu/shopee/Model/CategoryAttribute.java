@@ -9,16 +9,16 @@ public class CategoryAttribute {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_category_attribute")
-    private Long idCategoryAttribute;
+    private int idCategoryAttribute;
 
     @Column(name = "attribute_name", nullable = false)
     private String attributeName;
 
-    public Long getIdCategoryAttribute() {
+    public int getIdCategoryAttribute() {
         return idCategoryAttribute;
     }
 
-    public void setIdCategoryAttribute(Long idCategoryAttribute) {
+    public void setIdCategoryAttribute(int idCategoryAttribute) {
         this.idCategoryAttribute = idCategoryAttribute;
     }
 

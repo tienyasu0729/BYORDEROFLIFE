@@ -60,10 +60,10 @@ public class User {
         joiningDate = new Date(); // Gán ngày hiện tại khi thực thể được lưu lần đầu
     }
 
-    @OneToMany(mappedBy = "address", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<Address> addresses;
 
-    @OneToMany(mappedBy = "coin_history", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<CoinHistory> coinHistories;
 
     @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
