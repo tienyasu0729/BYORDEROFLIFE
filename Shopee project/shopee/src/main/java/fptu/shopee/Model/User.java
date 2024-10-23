@@ -81,6 +81,9 @@ public class User {
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ProductReview> productReviews;
 
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<UserOrderPendingPayment> userOrderPendingPayments;
+
     public int getIdUser() {
         return idUser;
     }

@@ -28,18 +28,22 @@ public class PaymentMethod {
     private Set<DeliveryVoucher> deliveryVouchers;
 
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
+    private Set<UserOrderPendingPayment> userOrderPendingPayments;
+
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
+    private Set<UserOrderInTransit> userOrderInTransits;
+
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
+    private Set<UserOrderPendingShipment> userOrderPendingShipments;
+
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
+    private Set<UserOrderCompleted> userOrderCompleteds;
+
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
+    private Set<UserOrderCancelled> userOrderCancelleds;
+
     @OneToMany(mappedBy = "paymentMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
-    private Set<DeliveryVoucher> deliveryVouchers;
-    
+    private Set<UserOrderReturned> userOrderReturneds;
 
     public int getIdPaymentMethod() {
         return idPaymentMethod;

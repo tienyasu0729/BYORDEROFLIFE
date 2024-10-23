@@ -1,6 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
 
@@ -16,9 +17,35 @@ public class UserOrderPendingPayment {
     @Column(name = "note_to_seller", length = 500)
     private String noteToSeller;
 
+    @NotNull
     @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "order_datetime", nullable = false)
     private Date orderDatetime;
+
+    @PrePersist
+    protected void onCreate() {
+        orderDatetime = new Date();
+    }
+
+    @ManyToOne
+    @JoinColumn(name = "id_payment_method")
+    private PaymentMethod paymentMethod;
+
+    @ManyToOne
+    @JoinColumn(name = "id_shop_voucher")
+    private ShopVoucher shopVoucher;
+
+    @ManyToOne
+    @JoinColumn(name = "id_web_voucher")
+    private WebVoucher webVoucher;
+
+    @ManyToOne
+    @JoinColumn(name = "id_delivery_voucher")
+    private DeliveryVoucher deliveryVoucher;
+
+    @ManyToOne
+    @JoinColumn(name = "id_user")
+    private User user;
 
     public Long getIdOrderPendingPayment() {
         return idOrderPendingPayment;

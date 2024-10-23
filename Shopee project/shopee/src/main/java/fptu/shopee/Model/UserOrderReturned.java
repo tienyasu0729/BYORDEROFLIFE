@@ -1,6 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
 
@@ -13,21 +14,31 @@ public class UserOrderReturned {
     @Column(name = "id_order_returned")
     private Long idOrderReturned;
 
-    @Column(name = "shop_voucher")
-    private String shopVoucher;
-
-    @Column(name = "web_voucher")
-    private String webVoucher;
-
-    @Column(name = "delivery_voucher")
-    private String deliveryVoucher;
-
-    @Column(name = "note_to_seller", length = 500)
-    private String noteToSeller;
-
+    @NotNull
     @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "order_datetime", nullable = false)
     private Date orderDatetime;
+
+    @PrePersist
+    protected void onCreate() {
+        orderDatetime = new Date();
+    }
+
+    @ManyToOne
+    @JoinColumn(name = "id_payment_method")
+    private PaymentMethod paymentMethod;
+
+    @ManyToOne
+    @JoinColumn(name = "id_shop_voucher")
+    private ShopVoucher shopVoucher;
+
+    @ManyToOne
+    @JoinColumn(name = "id_web_voucher")
+    private WebVoucher webVoucher;
+
+    @ManyToOne
+    @JoinColumn(name = "id_delivery_voucher")
+    private DeliveryVoucher deliveryVoucher;
 
     public Long getIdOrderReturned() {
         return idOrderReturned;
@@ -35,38 +46,6 @@ public class UserOrderReturned {
 
     public void setIdOrderReturned(Long idOrderReturned) {
         this.idOrderReturned = idOrderReturned;
-    }
-
-    public String getShopVoucher() {
-        return shopVoucher;
-    }
-
-    public void setShopVoucher(String shopVoucher) {
-        this.shopVoucher = shopVoucher;
-    }
-
-    public String getWebVoucher() {
-        return webVoucher;
-    }
-
-    public void setWebVoucher(String webVoucher) {
-        this.webVoucher = webVoucher;
-    }
-
-    public String getDeliveryVoucher() {
-        return deliveryVoucher;
-    }
-
-    public void setDeliveryVoucher(String deliveryVoucher) {
-        this.deliveryVoucher = deliveryVoucher;
-    }
-
-    public String getNoteToSeller() {
-        return noteToSeller;
-    }
-
-    public void setNoteToSeller(String noteToSeller) {
-        this.noteToSeller = noteToSeller;
     }
 
     public Date getOrderDatetime() {

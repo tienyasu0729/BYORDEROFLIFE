@@ -5,6 +5,7 @@ import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
+import java.util.Set;
 
 @Entity
 @Table(name = "shop_voucher")
@@ -47,6 +48,18 @@ public class ShopVoucher {
     @ManyToOne
     @JoinColumn(name = "id_shipping_method")
     private ShippingMethod shippingMethod;
+
+    @OneToMany(mappedBy = "shopVoucher", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<UserOrderPendingPayment> userOrderPendingPayments;
+
+    @OneToMany(mappedBy = "shopVoucher", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<UserOrderInTransit> userOrderInTransits;
+
+    @OneToMany(mappedBy = "shopVoucher", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<UserOrderPendingShipment> userOrderPendingShipments;
+
+    @OneToMany(mappedBy = "shopVoucher", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<UserOrderReturned> userOrderReturneds;
 
     public int getIdShopVoucher() {
         return idShopVoucher;
