@@ -78,6 +78,9 @@ public class User {
     @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
     private UserNotifications userNotifications;
 
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductReview> productReviews;
+
     public int getIdUser() {
         return idUser;
     }

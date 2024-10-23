@@ -62,6 +62,9 @@ public class Shop {
     @OneToOne(mappedBy = "shop", cascade = CascadeType.ALL)
     private ShopIdentification shopIdentification;
 
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductReview> productReviews;
+
     public int getIdShop() {
         return idShop;
     }

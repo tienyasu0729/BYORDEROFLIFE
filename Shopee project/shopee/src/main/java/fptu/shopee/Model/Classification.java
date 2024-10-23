@@ -5,6 +5,8 @@ import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "classification")
 public class Classification {
@@ -68,6 +70,9 @@ public class Classification {
     @ManyToOne
     @JoinColumn(name = "id_product")
     private Product product;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductReview> productReviews;
 
     public int getIdClassification() {
         return idClassification;

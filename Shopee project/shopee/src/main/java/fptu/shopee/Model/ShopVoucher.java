@@ -1,6 +1,8 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
 
@@ -11,18 +13,23 @@ public class ShopVoucher {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_shop_voucher")
-    private Long idShopVoucher;
+    private int idShopVoucher;
 
+    @NotNull
+    @Min(value = 1, message = Message.messDiscountPercentage)
     @Column(name = "discount_percentage", nullable = false)
     private Float discountPercentage;
 
-    @Column(name = "maximum_discount_amount", nullable = false)
+    @Min(value = 0, message = Message.messMaximumDiscountAmount)
+    @Column(name = "maximum_discount_amount")
     private Float maximumDiscountAmount;
 
+    @NotNull
     @Temporal(TemporalType.DATE)
     @Column(name = "discount_start_date", nullable = false)
     private Date discountStartDate;
 
+    @NotNull
     @Temporal(TemporalType.DATE)
     @Column(name = "discount_end_date", nullable = false)
     private Date discountEndDate;
@@ -30,17 +37,22 @@ public class ShopVoucher {
     @Column(name = "offer_description", length = 500)
     private String offerDescription;
 
-    @Column(name = "don_vi_van_chuyen", length = 100)
-    private String shippingUnit;
-
     @Column(name = "thiet_bi", length = 100)
     private String device;
 
-    public Long getIdShopVoucher() {
+    @ManyToOne
+    @JoinColumn(name = "id_payment_method")
+    private PaymentMethod paymentMethod;
+
+    @ManyToOne
+    @JoinColumn(name = "id_shipping_method")
+    private ShippingMethod shippingMethod;
+
+    public int getIdShopVoucher() {
         return idShopVoucher;
     }
 
-    public void setIdShopVoucher(Long idShopVoucher) {
+    public void setIdShopVoucher(int idShopVoucher) {
         this.idShopVoucher = idShopVoucher;
     }
 
@@ -84,14 +96,6 @@ public class ShopVoucher {
         this.offerDescription = offerDescription;
     }
 
-    public String getShippingUnit() {
-        return shippingUnit;
-    }
-
-    public void setShippingUnit(String shippingUnit) {
-        this.shippingUnit = shippingUnit;
-    }
-
     public String getDevice() {
         return device;
     }
@@ -99,4 +103,17 @@ public class ShopVoucher {
     public void setDevice(String device) {
         this.device = device;
     }
+
+    @PrePersist
+    @PreUpdate
+    private void validateDiscountDates() {
+        Date currentDate = new Date();
+        if (discountStartDate.before(currentDate)) {
+            throw new IllegalArgumentException(Message.messStartDate);
+        }
+        if (discountEndDate.before(discountStartDate)) {
+            throw new IllegalArgumentException(Message.messEndDate);
+        }
+    }
+
 }

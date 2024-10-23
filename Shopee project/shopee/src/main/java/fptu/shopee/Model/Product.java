@@ -40,6 +40,9 @@ public class Product {
     @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<Classification> classifications;
 
+    @OneToOne(mappedBy = "product", cascade = CascadeType.ALL)
+    private ImageAndShortVideoProduct imageAndShortVideoProduct;
+
     public int getIdProduct() {
         return idProduct;
     }

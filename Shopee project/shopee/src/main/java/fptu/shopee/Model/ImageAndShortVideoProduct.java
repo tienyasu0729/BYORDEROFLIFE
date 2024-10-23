@@ -1,6 +1,7 @@
 package fptu.shopee.Model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Table(name = "image_and_short_video_product")
@@ -9,18 +10,21 @@ public class ImageAndShortVideoProduct {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long id;
+    private int id;
 
     @Column(name = "video", length = 500)
     private String video;
 
-    @Column(name = "image1", length = 500)
+    @NotNull
+    @Column(name = "image1", length = 500, nullable = false)
     private String image1;
 
-    @Column(name = "image2", length = 500)
+    @NotNull
+    @Column(name = "image2", length = 500, nullable = false)
     private String image2;
 
-    @Column(name = "image3", length = 500)
+    @NotNull
+    @Column(name = "image3", length = 500, nullable = false)
     private String image3;
 
     @Column(name = "image4", length = 500)
@@ -41,11 +45,16 @@ public class ImageAndShortVideoProduct {
     @Column(name = "image9", length = 500)
     private String image9;
 
-    public Long getId() {
+    @OneToOne
+    @MapsId
+    @JoinColumn(name = "id_product")
+    private Product product;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 
