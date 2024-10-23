@@ -14,6 +14,13 @@ public class CategoryAttribute {
     @Column(name = "attribute_name", nullable = false)
     private String attributeName;
 
+    @Column(name = "data_type", nullable = false)
+    private String dataType ;
+
+    @ManyToOne
+    @JoinColumn(name = "data_type", nullable = false)
+    private Category category;
+
     public int getIdCategoryAttribute() {
         return idCategoryAttribute;
     }

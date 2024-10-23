@@ -3,6 +3,8 @@ package fptu.shopee.Model;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "product")
 public class Product {
@@ -17,7 +19,7 @@ public class Product {
     private String nameProduct;
 
     @NotNull
-    @Column(name = "product_description")
+    @Column(name = "product_description", nullable = false)
     private String productDescription;
 
     @NotNull
@@ -30,6 +32,13 @@ public class Product {
 
     @Column(name = "SKU_product")
     private String skuProduct;
+
+    @ManyToOne
+    @JoinColumn(name = "id_category")
+    private Category category;
+
+    @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<Classification> classifications;
 
     public int getIdProduct() {
         return idProduct;

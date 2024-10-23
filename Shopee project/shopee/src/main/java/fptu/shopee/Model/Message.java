@@ -2,6 +2,11 @@ package fptu.shopee.Model;
 
 public class Message {
     public static final String mess = "";
+    public static final String messPackagedWeight = "Trọng lượng hàng không được nhỏ hơn 1";
+    public static final String messSizePackage = "Kích cỡ hàng không được nhỏ hơn 1";
+    public static final String messMinInventoryQuantity = "Số lượng hàng không được nhỏ hơn 0";
+    public static final String messMaxPrice = "Giá không được lớn hơn 120.000.000";
+    public static final String messMinPrice = "Giá không được nhỏ hơn 0";
     public static final String messSizeCCCD = "CCCD phải có đúng 12 ký tự.";
     public static final String messRegexpCCCD = "CCCD phải là 12 ký tự số.";
     public static final String messRegexpIdentificationName = "Tên định danh không được chứa số hay các kí tự đặc biệt";
