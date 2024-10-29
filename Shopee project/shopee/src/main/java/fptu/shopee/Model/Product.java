@@ -1,5 +1,8 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.CategoryValue;
+import fptu.shopee.Model.ManyToManyRelationshipTable.ProductGroup;
+import fptu.shopee.Model.ManyToManyRelationshipTable.ProductShippingMethod;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
@@ -42,6 +45,15 @@ public class Product {
 
     @OneToOne(mappedBy = "product", cascade = CascadeType.ALL)
     private ImageAndShortVideoProduct imageAndShortVideoProduct;
+
+    @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductShippingMethod> productShippingMethods;
+
+    @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductGroup> productGroups;
+
+    @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<CategoryValue> categoryValues;
 
     public int getIdProduct() {
         return idProduct;

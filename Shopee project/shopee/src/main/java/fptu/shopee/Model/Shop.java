@@ -1,10 +1,14 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.BlockedUser;
+import fptu.shopee.Model.ManyToManyRelationshipTable.ProductGroup;
+import fptu.shopee.Model.ManyToManyRelationshipTable.ShopShippingMethod;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
+import java.util.HashSet;
 import java.util.Set;
 
 @Entity
@@ -64,6 +68,15 @@ public class Shop {
 
     @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ProductReview> productReviews;
+
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.LAZY)
+    private Set<BlockedUser> blockedUsers = new HashSet<>();
+
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ShopShippingMethod> shopShippingMethods = new HashSet<>();
+
+    @OneToMany(mappedBy = "shop", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ProductGroup> productGroups;
 
     public int getIdShop() {
         return idShop;

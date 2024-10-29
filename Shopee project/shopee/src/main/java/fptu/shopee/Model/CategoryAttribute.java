@@ -1,6 +1,9 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.CategoryValue;
 import jakarta.persistence.*;
+
+import java.util.Set;
 
 @Entity
 @Table(name = "category_attribute")
@@ -20,6 +23,9 @@ public class CategoryAttribute {
     @ManyToOne
     @JoinColumn(name = "data_type", nullable = false)
     private Category category;
+
+    @OneToMany(mappedBy = "categoryAttribute", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<CategoryValue> categoryValues;
 
     public int getIdCategoryAttribute() {
         return idCategoryAttribute;

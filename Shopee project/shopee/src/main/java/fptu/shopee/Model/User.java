@@ -1,5 +1,6 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.BlockedUser;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
@@ -7,6 +8,7 @@ import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
 import java.util.Date;
+import java.util.HashSet;
 import java.util.Set;
 
 @Entity
@@ -83,6 +85,9 @@ public class User {
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<UserOrderPendingPayment> userOrderPendingPayments;
+
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private Set<BlockedUser> blockedShops = new HashSet<>();
 
     public int getIdUser() {
         return idUser;

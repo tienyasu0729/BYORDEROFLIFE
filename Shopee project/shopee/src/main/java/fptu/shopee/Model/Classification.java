@@ -1,5 +1,6 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.ListItemInOrderPendingPayment;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
@@ -73,6 +74,10 @@ public class Classification {
 
     @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ProductReview> productReviews;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderPendingPayment> listItemsInOrderPendingPayment;
+
 
     public int getIdClassification() {
         return idClassification;

@@ -2,6 +2,7 @@ package fptu.shopee.Model;
 
 public class Message {
     public static final String mess = "";
+    public static final String messMinProductQuantity = "Số lượng sản phẩm không được nhỏ hơn 1";
     public static final String messStartDate = "Ngày bắt đầu giảm giá phải lớn hơn hoặc bằng ngày hiện tại.";
     public static final String messEndDate = "Ngày kết thúc giảm giá phải lớn hơn ngày bắt đầu.";
     public static final String messMaximumDiscountAmount = "Số tiền khuyến mãi tối đa không hợp lệ";
