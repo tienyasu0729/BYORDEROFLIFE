@@ -1,6 +1,6 @@
 package fptu.shopee.Model;
 
-import fptu.shopee.Model.ManyToManyRelationshipTable.ListItemInOrderPendingPayment;
+import fptu.shopee.Model.ManyToManyRelationshipTable.*;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
@@ -78,6 +78,20 @@ public class Classification {
     @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ListItemInOrderPendingPayment> listItemsInOrderPendingPayment;
 
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderInTransit> listItemsInOrderInTransit;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderPendingShipment> listItemsInOrderPendingShipment;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderCompleted> listItemsInOrderCompleted;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderCancelled> listItemsInOrderCancelled;
+
+    @OneToMany(mappedBy = "classification", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderReturned> listItemsInOrderReturned;
 
     public int getIdClassification() {
         return idClassification;

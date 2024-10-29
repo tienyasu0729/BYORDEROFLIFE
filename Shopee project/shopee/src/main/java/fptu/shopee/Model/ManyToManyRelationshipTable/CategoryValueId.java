@@ -20,7 +20,6 @@ public class CategoryValueId implements Serializable {
     @JoinColumn(name = "id_product")
     private Product product;
 
-    // Constructors, Getters, Setters, hashCode, and equals
     public CategoryValueId() {}
 
     public CategoryValueId(CategoryAttribute categoryAttribute, Product product) {

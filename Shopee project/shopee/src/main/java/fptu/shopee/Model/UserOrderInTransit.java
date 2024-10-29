@@ -1,9 +1,11 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.ListItemInOrderInTransit;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
+import java.util.Set;
 
 @Entity
 @Table(name = "user_order_in_transit")
@@ -42,6 +44,9 @@ public class UserOrderInTransit {
     @ManyToOne
     @JoinColumn(name = "id_delivery_voucher")
     private DeliveryVoucher deliveryVoucher;
+
+    @OneToMany(mappedBy = "userOrderInTransit", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderInTransit> listItemsInOrderInTransit;
 
     public Long getIdOrderInTransit() {
         return idOrderInTransit;

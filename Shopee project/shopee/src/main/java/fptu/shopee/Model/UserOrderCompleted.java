@@ -1,9 +1,11 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.ManyToManyRelationshipTable.ListItemInOrderCompleted;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
 import java.util.Date;
+import java.util.Set;
 
 @Entity
 @Table(name = "user_order_completed")
@@ -27,6 +29,9 @@ public class UserOrderCompleted {
     @ManyToOne
     @JoinColumn(name = "id_payment_method")
     private PaymentMethod paymentMethod;
+
+    @OneToMany(mappedBy = "userOrderCompleted", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private Set<ListItemInOrderCompleted> listItemsInOrderCompleted;
 
     public Long getIdOrderCompleted() {
         return idOrderCompleted;
