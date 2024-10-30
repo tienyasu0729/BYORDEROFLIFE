@@ -1,6 +1,7 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Product;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ProductShippingMethodId;
+import fptu.shopee.Model.ProductPakage.Product;
 import fptu.shopee.Model.ShippingMethod;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;

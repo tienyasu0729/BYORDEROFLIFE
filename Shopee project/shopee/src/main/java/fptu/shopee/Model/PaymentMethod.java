@@ -1,5 +1,9 @@
 package fptu.shopee.Model;
 
+import fptu.shopee.Model.OrderPakage.*;
+import fptu.shopee.Model.VoucherPakage.DeliveryVoucher;
+import fptu.shopee.Model.VoucherPakage.ShopVoucher;
+import fptu.shopee.Model.VoucherPakage.WebVoucher;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 

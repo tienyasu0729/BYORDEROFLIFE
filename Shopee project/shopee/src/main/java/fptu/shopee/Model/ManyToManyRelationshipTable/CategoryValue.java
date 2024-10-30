@@ -1,12 +1,12 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.CategoryAttribute;
-import fptu.shopee.Model.Product;
+import fptu.shopee.Model.ProductPakage.CategoryAttribute;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.CategoryValueId;
+import fptu.shopee.Model.ProductPakage.Product;
 import jakarta.persistence.Column;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
-import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Table(name = "category_value")
@@ -15,17 +15,18 @@ public class CategoryValue {
     @EmbeddedId
     private CategoryValueId id;
 
-    @NotNull
     @Column(name = "attribute_value", nullable = false)
     private String attributeValue;
 
+    // Constructors
     public CategoryValue() {}
 
-    public CategoryValue(CategoryAttribute categoryAttribute, Product product, String attributeValue) {
-        this.id = new CategoryValueId(categoryAttribute, product);
+    public CategoryValue(Product product, CategoryAttribute categoryAttribute, String attributeValue) {
+        this.id = new CategoryValueId(product, categoryAttribute);
         this.attributeValue = attributeValue;
     }
 
+    // Getters and Setters
     public CategoryValueId getId() {
         return id;
     }
@@ -42,11 +43,11 @@ public class CategoryValue {
         this.attributeValue = attributeValue;
     }
 
-    public CategoryAttribute getCategoryAttribute() {
-        return id.getCategoryAttribute();
-    }
-
     public Product getProduct() {
         return id.getProduct();
+    }
+
+    public CategoryAttribute getCategoryAttribute() {
+        return id.getCategoryAttribute();
     }
 }

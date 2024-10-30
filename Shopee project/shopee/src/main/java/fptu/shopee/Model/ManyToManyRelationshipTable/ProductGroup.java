@@ -1,7 +1,8 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Product;
-import fptu.shopee.Model.Shop;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ProductGroupId;
+import fptu.shopee.Model.ProductPakage.Product;
+import fptu.shopee.Model.ShopPackage.Shop;
 import jakarta.persistence.Column;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;

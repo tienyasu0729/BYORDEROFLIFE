@@ -1,34 +1,27 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Shop;
-import fptu.shopee.Model.User;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.BlockedUserId;
+import fptu.shopee.Model.UserPackage.User;
+import fptu.shopee.Model.ShopPackage.Shop;
 import jakarta.persistence.*;
-
-import java.io.Serializable;
+import java.util.Date;
 
 @Entity
 @Table(name = "blocked_user")
-public class BlockedUser implements Serializable {
+public class BlockedUser {
 
     @EmbeddedId
-    private BlockedUserId id = new BlockedUserId();
+    private BlockedUserId id;
 
-    @ManyToOne(fetch = FetchType.LAZY)
-    @MapsId("userId")
-    @JoinColumn(name = "user_id")
-    private User user;
-
-    @ManyToOne(fetch = FetchType.LAZY)
-    @MapsId("shopId")
-    @JoinColumn(name = "shop_id")
-    private Shop shop;
+    @Temporal(TemporalType.TIMESTAMP)
+    @Column(name = "block_date_time", nullable = false)
+    private Date blockDateTime;
 
     public BlockedUser() {}
 
-    public BlockedUser(User user, Shop shop) {
-        this.user = user;
-        this.shop = shop;
-        this.id = new BlockedUserId(user.getIdUser(), shop.getIdShop());
+    public BlockedUser(User user, Shop shop, Date blockDateTime) {
+        this.id = new BlockedUserId(user, shop);
+        this.blockDateTime = blockDateTime;
     }
 
     public BlockedUserId getId() {
@@ -39,19 +32,19 @@ public class BlockedUser implements Serializable {
         this.id = id;
     }
 
-    public User getUser() {
-        return user;
+    public Date getBlockDateTime() {
+        return blockDateTime;
     }
 
-    public void setUser(User user) {
-        this.user = user;
+    public void setBlockDateTime(Date blockDateTime) {
+        this.blockDateTime = blockDateTime;
+    }
+
+    public User getUser() {
+        return id.getUser();
     }
 
     public Shop getShop() {
-        return shop;
-    }
-
-    public void setShop(Shop shop) {
-        this.shop = shop;
+        return id.getShop();
     }
 }

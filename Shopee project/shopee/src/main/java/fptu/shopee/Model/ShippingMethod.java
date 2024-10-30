@@ -1,6 +1,9 @@
 package fptu.shopee.Model;
 import fptu.shopee.Model.ManyToManyRelationshipTable.ProductShippingMethod;
 import fptu.shopee.Model.ManyToManyRelationshipTable.ShopShippingMethod;
+import fptu.shopee.Model.VoucherPakage.DeliveryVoucher;
+import fptu.shopee.Model.VoucherPakage.ShopVoucher;
+import fptu.shopee.Model.VoucherPakage.WebVoucher;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
@@ -32,7 +35,7 @@ public class ShippingMethod {
     @OneToMany(mappedBy = "shippingMethod", cascade = CascadeType.ALL, orphanRemoval = true)
     private Set<ShopShippingMethod> shopShippingMethods = new HashSet<>();
 
-    @OneToMany(mappedBy = "shippingMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "id.shippingMethod", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<ProductShippingMethod> productShippingMethods;
 
     public int getIdShippingMethod() {

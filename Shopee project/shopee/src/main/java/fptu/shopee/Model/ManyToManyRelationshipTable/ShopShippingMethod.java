@@ -1,10 +1,8 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
 import fptu.shopee.Model.ShippingMethod;
-import fptu.shopee.Model.Shop;
+import fptu.shopee.Model.ShopPackage.Shop;
 import jakarta.persistence.*;
-
-import java.io.Serializable;
 
 @Entity
 @Table(name = "shop_shipping_method")

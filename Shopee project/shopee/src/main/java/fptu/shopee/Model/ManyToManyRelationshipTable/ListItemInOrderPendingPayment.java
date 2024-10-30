@@ -1,8 +1,9 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Classification;
+import fptu.shopee.Model.ProductPakage.Classification;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ListItemInOrderPendingPaymentId;
 import fptu.shopee.Model.Message;
-import fptu.shopee.Model.UserOrderPendingPayment;
+import fptu.shopee.Model.OrderPakage.UserOrderPendingPayment;
 import jakarta.persistence.Column;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;

@@ -1,8 +1,9 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Classification;
+import fptu.shopee.Model.ProductPakage.Classification;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ListItemInOrderCompletedId;
 import fptu.shopee.Model.Message;
-import fptu.shopee.Model.UserOrderCompleted;
+import fptu.shopee.Model.OrderPakage.UserOrderCompleted;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;

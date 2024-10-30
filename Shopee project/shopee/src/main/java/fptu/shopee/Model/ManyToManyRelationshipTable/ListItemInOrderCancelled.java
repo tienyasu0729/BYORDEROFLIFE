@@ -1,7 +1,8 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Classification;
-import fptu.shopee.Model.UserOrderCancelled;
+import fptu.shopee.Model.ProductPakage.Classification;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ListItemInOrderCancelledId;
+import fptu.shopee.Model.OrderPakage.UserOrderCancelled;
 
 import jakarta.persistence.*;
 

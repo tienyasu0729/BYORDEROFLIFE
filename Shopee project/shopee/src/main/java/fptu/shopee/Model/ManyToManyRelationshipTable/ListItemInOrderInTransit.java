@@ -1,7 +1,8 @@
 package fptu.shopee.Model.ManyToManyRelationshipTable;
 
-import fptu.shopee.Model.Classification;
-import fptu.shopee.Model.UserOrderInTransit;
+import fptu.shopee.Model.ProductPakage.Classification;
+import fptu.shopee.Model.ManyToManyRelationshipTable.EmbeddedID.ListItemInOrderInTransitId;
+import fptu.shopee.Model.OrderPakage.UserOrderInTransit;
 import jakarta.persistence.Column;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
