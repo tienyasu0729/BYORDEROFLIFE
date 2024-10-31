@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px;
+}
+
+.logo{
+    margin-top: 15px;
+    margin-left:  100px;
+    margin-right: 8px;
+
+}
+
+
+.header-left {
+    /* margin-left: 100px; */
+    
+    margin-left: 15px;
+    color: #222;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+.header-right {
+    margin-right: 110px;
+    margin-top: 30px;
+
+}
+
+.header-right a{
+    color: #ee4d2d;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-decoration-style: solid;
+}
+
+.content{
+    background-color: rgb(238, 77, 45);
+    height: 600px;
+    position: relative;
+}
+
+.wrapper{
+    background-image: url('../img/background.png') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 1040px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0 auto;
+}
+
+.form-control{
+    /* margin-top: 59px;
+    margin-right: 240px; */
+    width: 397px;
+    min-height: 492px;
+    background-color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+    border-radius: .25rem;
+    position: absolute;
+    
+}
+
+.box{
+    text-align: center;
+}
+
+.login{
+    font-size: 20px;
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 22px 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=email]  {
+    width: 335px;
+    height: 40.8px;
+    border: 1px solid rgba(0,0,0,.14);
+    border-radius: 2px;
+    box-shadow: inset 0 2px 0 rgb(0 0 0 / 2%);
+    padding: 12px;
+    /* margin-top: 6px;
+    padding-left: 10px; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+
+
+input[type=password] {
+    background-image: url('../img/closed-eye.png');
+    background-size: 20px 16px;
+    background-repeat: no-repeat;
+    background-position: 300px;
+    float:right ;
+    width: 335px;
+    height: 40.8px;
+    border: 1px solid rgba(0,0,0,.14);
+    border-radius: 2px;
+    box-shadow: inset 0 2px 0 rgb(0 0 0 / 2%);
+    padding: 12px;
+    /* margin-top: 6px;
+    padding-left: 10px; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    margin-right: 31px;
+
+}
+
+input[type=email]:focus , input[type=password]:focus{
+    border: 1px solid rgb(95, 94, 94);
+    /* box-shadow: 0 0 0 1px #ccc; */
+}
+
+input[type=button]{
+    width: 335px;
+    height: 40.8px;
+    /* border: 1px solid rgba(0,0,0,.14); */
+    border-radius: 2px;
+    padding: 12px;
+    /* margin-top: 6px;
+    padding-left: 10px; */
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: #EE4D2D;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.forget{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.forgetPassword, .SMS {
+    text-decoration: none;
+    color: #0055aa;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+.break{
+    display: flex;
+}
+
+.line1{
+    color: #dbdbdb;
+    border-bottom: 1px solid #dbdbdd; 
+    height: 1px;
+    width: 100%;
+    margin-top: 8px;
+    margin-left: 31px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+
+.line2{
+    color: #dbdbdb;
+    /* line-height: 1.2; */
+    border-bottom: 1px solid #dbdbdd; 
+    width: 100%;
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-right: 31px  ;
+    margin-bottom: 30px;
+}
+
+.text{
+    color: #ccc;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+ .icon{
+     display: flex;
+     margin-left: 31px;
+     margin-right: 31px;
+     justify-content: space-between;
+     margin-bottom: 30px;
+ }
+
+
+
+
+ input[type=includeFb]{
+    width: 110px;
+    height: 40px;
+    background-color: #1877f2;
+    border-radius: 2px;
+    border: none;
+    background-image: url('../img/fb.png') ;
+    background-size: 22px 22px;
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    color: #fff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 35px;
+ }
+
+
+
+
+
+input[type=includeFb]:hover{
+    background-color: #4285f4;
+}
+
+
+
+
+
+input[type=includeGg]{
+    width: 103px;
+    height: 40px;
+    background-color: #4285f4;
+    border-radius: 2px;
+    border: none;
+    background-image: url('../img/google.png') ;
+    background-size: 22px 22px;
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    color: #fff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 35px;
+ }
+
+
+
+ input[type=includeGg]:hover{
+    background-color: #4f90f8;
+}
+
+
+
+
+
+input[type=includeAp]{
+    width: 103px;
+    height: 40px;
+    background-color: #000;
+    border-radius: 2px;
+    border: none;
+    background-image: url('../img/apple.png') ;
+    background-size: 22px 22px;
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    color: #fff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 45px;
+ }
+
+
+input[type=includeAp]:hover{
+    background-color: rgb(20, 20, 20);
+}
+
+
+
+
+.footer{
+    color: #00000042;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.footer a{
+    color: #EE4D2D;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+ 
+.footer a:hover{
+    color: #EE4D2D;
+}

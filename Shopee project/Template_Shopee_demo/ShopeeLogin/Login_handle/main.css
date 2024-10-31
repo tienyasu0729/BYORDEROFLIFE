@@ -1,0 +1,117 @@
+
+/* Header */
+.header {
+    height: 120px;
+    /* Chiều cao cố định */
+    background-image: linear-gradient(0, #f46433, #f53e2d);
+    width: 100%;
+}
+
+.header_navbar {
+    display: flex;
+    /*Tách 2 thẻ ul con và xếp trên cùng 1 dòng*/
+    justify-content: space-between;
+    /*Đẩy ra xa*/
+}
+
+.header_navbar_list {
+    list-style: none;
+    /* Mất dấu chấm đầu thẻ li */
+    padding-left: 0;
+    /* Mặc định thẻ ul cách lề trái của trình duyệt 40px */
+}
+
+/* Các lựa chọn phần header */
+.list_item {
+    display: inline-block;
+    /* Đưa các thẻ li lên cùng 1 hàng */
+    font-size: 1.3rem;
+    color: var(--white-color);
+    /* Đổi phông chữ và màu chữ */
+    font-weight: 100;
+    /* Chỉnh độ dày mỏng của phông chữ */
+    padding: 0 8px;
+    /*Chỉnh bộ đệm khoảng cách giữa các li là 8px*/
+}
+
+.list_item:hover {
+    color: antiquewhite;
+    cursor: pointer;
+    /* Con trỏ chuột thành bàn tay */
+}
+
+/* Nút QR code */
+.list_item_QR_Code {
+    display: none;
+}
+
+@keyframes QRCodeGrowth {
+    from {
+        opacity: 0;
+        /*Làm mờ*/
+        transform: scale(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.list_item_GTSA:hover {
+    .list_item_QR_Code {
+        display: block;
+        padding-top: 10px;
+        position: absolute;
+        /* Nếu không có cái này thì connect bên cạnh bị mất */
+        transform-origin: top left;
+        /* Ảnh xổ ra từ phía bên trên-trái */
+        animation: QRCodeGrowth ease-in 0.15s;
+        /*Hiệu ứng ảnh to dần  */
+    }
+}
+
+/* Các nút click GTSA, support, Login*/
+.list_item_link {
+    padding: 0 0;
+    color: var(--white-color);
+}
+
+.list_item_icon {
+    padding: 0 0;
+}
+
+/*Kí tự dấu gạch phân cách*/
+.list_item_seperate {
+    padding: 0 0;
+    cursor: default;
+}
+
+/* 2. Modal */
+/* 2.1. Login */
+/* Lớp modal chiêm full màn hình, chặn mọi thao tác*/
+.modal {
+    /* Cả  5 dòng cố định */
+    position: fixed;
+    /* Tạo phần tử có vị trí cố định */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* 4 chỉ số chiếm full màn hình */
+    display: flex;
+    /* Set các thẻ con nằm ngang */
+    /*  Tạo bố cục để dễ dàng chình sửa các con*/
+    /* Kết hợp với margin: auto của modal_body để căn body ra giữa */
+}
+
+/* Lớp phủ nhìn xuyên qua */
+.modal_overlay {
+    position: absolute;
+    /* Con của cha (.modal) */
+    width: 100%;
+    height: 100%;
+    /* Chiều dài vả rộng theo cha */
+    background: rgb(0, 0, 0, 0.4);
+    /* Màu phủ trong suốt */
+}

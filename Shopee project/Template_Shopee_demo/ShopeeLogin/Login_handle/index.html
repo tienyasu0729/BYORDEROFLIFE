@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopee</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="authen.css">
+</head>
+
+<body>
+    <div class="main">
+        <!-- Phần header màu cam trên cùng -->
+        <header class="header">
+            <div class="grid">
+                <nav class="header_navbar">
+                    <ul class="header_navbar_list">
+                        <li class="list_item list list_item_GTSA">Go to shoppe app
+                            <div class="list_item_QR_Code">
+                                <img src="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/5b6e787c2e5ee052.png"
+                                    style="width: 200px; height: 200px;" alt="">
+                            </div>
+                        </li>
+
+                        <li class="list_item list_item_seperate">|</li>
+                        <li class="list_item">
+                            <a class="list_item list_item_link"
+                                href="https://vi-vn.facebook.com/ShopeeVN/events/">Connect
+                                <i class="list_item_icon fa-brands fa-facebook"></i>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="header_navbar_list">
+                        <li class="list_item">Notification
+                            <i class="list_item_icon fa-solid fa-bell"></i>
+                        </li>
+                        <li class="list_item">
+                            <a class="list_item_link" href="https://help.shopee.vn/portal/4">Support
+                                <i class="list_item_icon fa-solid fa-headset"></i>
+                            </a>
+                        </li>
+                        <li class="list_item header_SignUp" style="font-weight: bold">Sign up</li>
+                        <li class="list_item list_item_seperate">|</li>
+                        <li class="list_item header_SignIn" style="font-weight: bold">Sign in</li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class="container"></div>
+
+        <footer class="footer"></footer>
+
+        <!-- Tạo form cho các giao diện phụ đăng nhập, đăng xuất -->
+        <!-- Tạo lớp chiếm full màn hình, chặn mọi thao tác -->
+        <div class="modal">
+            <!-- Tạo lớp phủ mờ cho màn hình -->
+            <div class="modal_overlay"></div>
+
+            <!-- Content -->
+            <div class="modal_body">
+                <!-- Authen form -->
+                <div class="au_form">
+                    <div class="au_form_container">
+                        <!-- Xử lý phần heading của form -->
+                        <div class="au_form_heading">
+                            <h3 class="au_form_heading_title" style="margin: 0">Sign up</h3>
+                            <span class="au_form_heading_switch">Sign in</span>
+                        </div>
+
+                        <div class="au_form_group_input">
+                            <!--Ô nhập email -->
+                            <input type="text" class="au_form_input" placeholder="Email">
+                            <p class="au_form_text_error au_form_text_errorEmail"></p>
+                            <!-- Ô nhập pass và icon eye -->
+                            <div>
+                                <input type="password" class="au_form_input au_form_input_pass" placeholder="Password">
+                                <i class="fa-regular fa-eye au_form_passeye"></i>
+                            </div>
+                            <p class="au_form_text_error au_form_text_errorPass"></p>
+                            <!-- Ô nhập lại pass và icon eye -->
+                            <div>
+                                <input type="password" class="au_form_input au_form_input_pass"
+                                    placeholder="Confirm password">
+                                <i class="fa-regular fa-eye au_form_passeye"></i>
+                            </div>
+                            <p class="au_form_text_error au_form_text_errorPass_Confirm"></p>
+                        </div>
+                    </div>
+
+                    <div class="au_form_aside">
+                        <div class="au_form_policy_text">
+                            <input type="checkbox" name="" id="checkbox">I accept to
+                            <a href="https://help.shopee.vn/portal/4/article/77242" class="au_form_policy_link">the
+                                terms of service</a> &
+                            <a href="https://help.shopee.vn/portal/4/article/77244" class="au_form_policy_link">privacy
+                                policy</a>
+                        </div>
+                    </div>
+
+                    <div class="au_form_controls">
+                        <button class="btn ">BACK</button>
+                        <button class="btn btn_primary">SIGN UP</button>
+                    </div>
+
+                    <div class="au_form_socials">
+                        <a href="" class="btn btn_link">
+                            <i class="fa-brands fa-facebook" style="margin: 2px;"></i>Connect to facebook
+                        </a>
+                        <a href="" class="btn btn_link">
+                            <i class="fa-brands fa-google" style="margin: 2px;"></i>Connect to Google
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="authen.js"></script>
+</body>
+
+</html>

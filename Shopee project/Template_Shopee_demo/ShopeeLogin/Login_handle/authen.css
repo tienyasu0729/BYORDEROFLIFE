@@ -1,0 +1,167 @@
+.modal{
+    display: none;
+}
+
+@keyframes QRCodeGrowth {
+    from {
+        opacity: 0;
+        /*Làm mờ*/
+        transform: scale(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Tạo phần chính để viết nội dung */
+.modal_body {
+    /* width: 300px;
+    height: 300px; */
+    background-color: var(--white-color);
+    margin: auto;
+    position: relative;
+    /* Không ảnh hưởng kích thước phần tử khác, cũng giúp modal_body nổi lên trên modal_overlay*/
+    z-index: 1;
+    /* z-index default = 0 */
+    /* Sử dụng để đẩy modal_body lên trên gần mắt người dùng */
+    /* Chức năng gần như position: realative */
+    border-radius: 5px;
+    /* Bo cong viền */
+    animation: QRCodeGrowth ease-in 0.15s;
+    /*Hiệu ứng ảnh to dần  */
+
+}
+
+.au_form {
+    padding: 30px;
+    width: 500px
+}
+
+/* Xử lý phần heading */
+.au_form_heading {
+    display: flex;
+    /*  Set cho cá con nằm ngang*/
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.au_form_heading_title {
+    font-size: 2rem;
+    font-weight: 500;
+    /* Chỉnh độ dày của chữ */
+}
+
+.au_form_heading_switch {
+    color: red;
+    font-size: 1.5rem;
+}
+
+.au_form_heading_switch:hover {
+    cursor: pointer;
+}
+
+/* Phần group_input */
+.au_form_group_input {
+    display: grid;
+    /* Mỗi input là 1 dòng riêng biệt */
+}
+
+/* Xử lý các ô input */
+.au_form_input {
+    margin-top: 16px;
+    height: 30px;
+    font-size: 1.3rem;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    padding: 5px;
+    /* Tạo khoảng thụt đầu dòng cho ô input */
+}
+
+/* Xử lý riêng cho ô nhập pass */
+.au_form_input_pass {
+    width: 95%;
+    /* Để thừa khoản cách cho icon */
+}
+
+/* Xử lý ô icon eye */
+.au_form_passeye {
+    font-size: 1rem;
+}
+
+.au_form_passeye:hover {
+    cursor: pointer;
+}
+/* Xử lý lỗi khi nhập vào input */
+
+.au_form_text_error{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 3px;
+    color: red;
+    font-style: oblique;
+    font-size: 0.9rem;
+}
+
+/*  Xử lý cho phần chính sách*/
+.au_form_aside {
+    padding-top: 16px;
+    font-size: 1.2rem;
+}
+
+/* Xử lý cho phần chính sách */
+#checkbox{
+    margin: 0;
+    margin-right: 3px;
+}
+/*  Link chính sách*/
+.au_form_policy_link {
+    color: red;
+}
+
+/* Xử lý group các nut controls */
+.au_form_controls {
+    margin-top: 25px;
+    text-align: right;
+    /* Căn lề phải cho các nút */
+}
+
+/* Xử lý 2 nút back và sign up */
+.au_form_controls .btn{
+    margin-left: 15px;
+}
+
+/* Xử lý nút chính(Nút sign up)*/
+.btn_primary {
+    color: var(--white-color);
+    background-color: var(--primary-color);
+}
+
+/* Xử lý 2 nút btn socials */
+.au_form_socials{
+    margin-top: 25px;
+    width: 100%;
+    /* Nội dung đẩy lên trên 1 dòng và đẩy ra xa nhau */
+    display: flex;
+    justify-content: space-between;
+}
+.btn.btn_link{
+    height : 35px;
+    width : 50%; 
+    font-size: 1.2rem;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    /* 3 dòng này dùng đển căn chỉnh nội dung ra chính giữa thẻ div */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.au_form_socials .btn_link:first-child{
+    margin-right: 5px;
+}
+.au_form_socials .btn_link:last-child{
+    margin-left: 5px;
+}
