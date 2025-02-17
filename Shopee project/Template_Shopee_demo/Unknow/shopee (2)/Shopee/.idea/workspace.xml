@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42b1c4bb-47ee-4e51-a51d-6b9ba16d9d02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../andrejarlShopeeeUICLONE-github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../../andrejarlShopeeeUICLONE-github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/closed-eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/logoShopee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/img/shopee-logo-9143622F5F-seeklogo.com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/Italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/agenda.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/alarm-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/alert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/align-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/align-justify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/align-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/align-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/anchor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/android.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-double-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-double-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-double-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-double-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/angle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/announcement.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/archive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-top-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-top-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrows-corner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrows-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/arrows-vertical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/back-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/back-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bar-chart-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bar-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/basketball.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/blackboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bolt-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bolt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bookmark-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/bookmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/briefcase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/brush-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/brush.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/check-box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/clip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/cloud-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/cloud-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/comment-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/comment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/comments-smiley.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/comments.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-backward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-eject.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-record.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-shuffle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-skip-backward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-skip-forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/control-stop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/credit-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/crown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/css3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/cup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/cut.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/desktop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/direction-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/direction.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/dribbble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/dropbox-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/dropbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/drupal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/envelope.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/eraser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/exchange-vertical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/export.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/face-sad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/face-smile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/files.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/filter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/flag-alt-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/flag-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/flickr-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/flickr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/folder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/fullscreen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/gallery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/game.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/gift.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-drag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-point-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-point-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-point-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-point-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hand-stop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/harddrive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/harddrives.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/headphone-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/headphone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/heart-broken.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/help-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/help.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/html5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/hummer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/id-badge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/import.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/infinite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/info-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/info.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ink-pen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/joomla.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/jsfiddle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/key.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layers-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-accordion-list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-accordion-merged.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-accordion-separated.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column2-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column3-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column4-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-column4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-cta-btn-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-cta-btn-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-cta-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-cta-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-cta-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid2-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid2-thumb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid3-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid4-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-grid4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-line-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-list-large-image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-list-post.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-list-thumb-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-list-thumb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-center-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-left-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-overlay-alt-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-overlay-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-overlay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-right-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-media-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-menu-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-menu-separated.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-menu-v.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-placeholder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-sidebar-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-sidebar-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-sidebar-none.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-sidebar-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-slider-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-slider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-tab-min.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-tab-v.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-tab-window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-width-default-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-width-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout-width-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/layout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/light-bulb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/line-dashed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/line-dotted.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/line-double.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/linux.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/list-ol.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/location-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/location-pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/loop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/magnet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/map-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/marker-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/marker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/medall-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/medall.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/menu-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/microphone-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/microphone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/microsoft-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/microsoft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/mobile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/more-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/mouse-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/music-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/na.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/new-window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/notepad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/package.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/paint-bucket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/paint-roller.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/palette.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/panel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/paragraph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pencil-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pencil-alt2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pencil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pie-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pin-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pin2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pinterest-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/plug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/power-off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/printer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/pulse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/quote-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/quote-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/receipt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/reddit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/reload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/rss-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ruler-alt-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ruler-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ruler-pencil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ruler.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/save-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/save.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/server.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/settings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/share-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/sharethis-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/sharethis.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shield.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shift-left-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shift-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shift-right-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shift-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shopping-cart-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shopping-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/shortcode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/signal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/skype.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/slice.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/smallcap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/soundcloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/split-h.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/split-v-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/split-v.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/spray.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/stack-overflow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/stamp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/stats-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/stats-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/support.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/tablet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/target.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/themify-favicon-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/themify-favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/themify-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/thought.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/thumb-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/thumb-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/ticket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/time.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/trello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/truck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/tumblr-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/tumblr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/twitter-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/underline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/unlink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/unlock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/uppercase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/video-camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/video-clapper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/view-grid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/view-list-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/view-list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/vimeo-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/vimeo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/volume.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/wand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/wheelchair.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/widget-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/widget.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/widgetized.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/wordpress.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/world.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/write.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/yahoo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/zip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/zoom-in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/SVG/zoom-out.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/Themify IconFonts 5-23-2014.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/demo-files/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/ie7/ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/ie7/ie7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/assets/themify-icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shopee_homepage 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../shopee/src/main/java/fptu/shopee/Controller/ff" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oEAKoiTDAyToGvRf77XbtTTd5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b1c4bb-47ee-4e51-a51d-6b9ba16d9d02" name="Changes" comment="" />
+      <created>1730424299960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730424299960</updated>
+      <workItem from="1730424301608" duration="70000" />
+      <workItem from="1732663119380" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

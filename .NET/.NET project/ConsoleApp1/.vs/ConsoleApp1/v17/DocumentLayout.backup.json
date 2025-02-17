@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "IMyInterface.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\.NET project\\ConsoleApp1\\IMyInterface.cs",
               "RelativeToolTip": "IMyInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T17:04:11.224Z",
               "EditorCaption": ""
@@ -79,7 +79,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T19:21:09.958Z"
+              "WhenOpened": "2024-07-31T19:21:09.958Z",
+              "EditorCaption": ""
             }
           ]
         }
