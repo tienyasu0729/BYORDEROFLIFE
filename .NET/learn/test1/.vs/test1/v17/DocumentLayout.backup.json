@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Validate.cs",
+              "RelativeDocumentMoniker": "test1\\Validate.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Validate.cs",
+              "RelativeToolTip": "test1\\Validate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:48:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Program.cs",
               "RelativeDocumentMoniker": "test1\\Program.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Program.cs*",
-              "RelativeToolTip": "test1\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAABIAAAAAAAAAA==",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Program.cs",
+              "RelativeToolTip": "test1\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T08:16:01.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HourlyEmployee.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\HourlyEmployee.cs",
               "RelativeDocumentMoniker": "test1\\HourlyEmployee.cs",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Employee.cs",
               "RelativeDocumentMoniker": "test1\\Employee.cs",
               "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Employee.cs",
               "RelativeToolTip": "test1\\Employee.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCMAAACDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T07:34:13.788Z",
               "EditorCaption": ""

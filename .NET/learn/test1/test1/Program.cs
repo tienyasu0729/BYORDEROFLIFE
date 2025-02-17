@@ -13,7 +13,7 @@ namespace test1
             Console.WriteLine("Choose Employee Type:");
             Console.WriteLine("1. Salaried Employee");
             Console.WriteLine("2. Hourly Employee");
-            int choice = int.Parse(Validate.CheckInput());
+            int choice = int.Parse(Validate.CheckInput(,"- Incorrect number of choice, please tryagain: "));
 
             Console.Write("SSN: "); string ssn = Console.ReadLine();
             Console.Write("First Name: "); string firstName = Console.ReadLine();
