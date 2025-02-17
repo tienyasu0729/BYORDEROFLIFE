@@ -1,0 +1,15 @@
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.AssemblyInfoInputs.cache
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.AssemblyInfo.cs
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.csproj.CoreCompileInputs.cache
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.sourcelink.json
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\bin\Debug\net8.0\test1.exe
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\bin\Debug\net8.0\test1.deps.json
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\bin\Debug\net8.0\test1.runtimeconfig.json
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\bin\Debug\net8.0\test1.dll
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\bin\Debug\net8.0\test1.pdb
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.dll
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\refint\test1.dll
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.pdb
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\test1.genruntimeconfig.cache
+C:\code\BYORDEROFLIFE\.NET\learn\test1\test1\obj\Debug\net8.0\ref\test1.dll
