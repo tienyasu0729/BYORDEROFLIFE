@@ -475,6 +475,29 @@
         "runtime": {
           "lib/net8.0/ZstdSharp.dll": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MySql.Data": "9.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
       }
     }
   },
@@ -1600,11 +1623,23 @@
         "zstdsharp.port.0.8.0.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MySql.Data >= 9.2.0"
+      "Model >= 1.0.0",
+      "MySql.Data >= 9.2.0",
+      "Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1639,7 +1674,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
+              "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
+            },
+            "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
