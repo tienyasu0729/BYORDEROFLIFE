@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj": {}
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj": {}
   },
   "projects": {
-    "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\obj\\",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
+        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -44,8 +46,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,98 +67,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\obj\\",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
+        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[9.2.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj",
-        "projectName": "test1",
-        "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj",
-        "packagesPath": "C:\\Users\\tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -171,11 +102,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
-                "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
-              },
-              "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj"
+              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
+                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
               }
             }
           }
@@ -189,8 +117,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -217,7 +144,157 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj",
+        "projectName": "test1",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj",
+        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
+        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
+                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
+              },
+              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj"
+              },
+              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {
+                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
+        "projectName": "Validate",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
+        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
+        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,5 @@
 create database Employee;
+use Employee;
 
 create table SalariedEmployee(
 	SSN varchar(500) primary key,

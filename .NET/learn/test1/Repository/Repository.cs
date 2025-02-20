@@ -10,6 +10,9 @@ namespace Repository
     {
         private BaseRepository baseRepository = new BaseRepository();
 
-        public 
+        public void addNewSalariedEmployee()
+        {
+            
+        }
     }
 }

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-     abstract class Employee
+     public abstract class Employee
     {
         private String SSN { get; set; }
         private String FirstName { get; set; }

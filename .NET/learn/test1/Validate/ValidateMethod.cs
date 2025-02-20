@@ -5,9 +5,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace test1
+namespace Validate
 {
-    class Validate
+    public class ValidateMethod
     {
         public static string CheckInput (string stringRegex, string againText)
         {

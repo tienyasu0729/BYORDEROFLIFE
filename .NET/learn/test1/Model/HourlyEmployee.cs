@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    class HourlyEmployee : Employee
+    public class HourlyEmployee : Employee
     {
         public double Wage { get; set; }
         public double WorkingHours { get; set; }

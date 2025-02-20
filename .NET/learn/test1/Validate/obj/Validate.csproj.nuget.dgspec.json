@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {}
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {}
   },
   "projects": {
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
-        "projectName": "Model",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
+        "projectName": "Validate",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\obj\\",
+        "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
