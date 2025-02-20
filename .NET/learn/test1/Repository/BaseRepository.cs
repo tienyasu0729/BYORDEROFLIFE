@@ -15,18 +15,18 @@ namespace Repository
 
         public BaseRepository() { }
 
-        public String GetConnection()
+        public MySqlConnection GetConnection()
         {
             try
             {
                 connection = new MySqlConnection(connectionString);
                 connection.Open();
-                return "ok";
+                return connection;
             }
             catch (MySqlException ex)
             {
                 Console.WriteLine("Lỗi kết nối MySQL: " + ex.Message);
-                return "no";
+                return null;
             }
         }
 

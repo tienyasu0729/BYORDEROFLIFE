@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\validate\\validatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|solutionrelative:validate\\validatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\validate\\validate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|solutionrelative:validate\\validate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|solutionrelative:test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\validate\\validatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}|Validate\\Validate.csproj|solutionrelative:validate\\validatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68EACC53-5DE7-44A9-ACFE-674288C66ED0}|Model\\Model.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test1\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,34 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Validate",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
-              "RelativeDocumentMoniker": "Validate\\Validate.csproj",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
-              "RelativeToolTip": "Validate\\Validate.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T17:02:41.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidateMethod.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\ValidateMethod.cs",
-              "RelativeDocumentMoniker": "Validate\\ValidateMethod.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\ValidateMethod.cs",
-              "RelativeToolTip": "Validate\\ValidateMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:58:41.62Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -112,6 +86,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validate.csproj",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
+              "RelativeDocumentMoniker": "Validate\\Validate.csproj",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj",
+              "RelativeToolTip": "Validate\\Validate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T17:02:41.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidateMethod.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\ValidateMethod.cs",
+              "RelativeDocumentMoniker": "Validate\\ValidateMethod.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\ValidateMethod.cs",
+              "RelativeToolTip": "Validate\\ValidateMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:58:41.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SalariedEmployee.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\SalariedEmployee.cs",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Model\\SalariedEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:11:18.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:11:18.711Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Model\\HourlyEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:09:48.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:09:48.567Z"
             },
             {
               "$type": "Document",
@@ -146,25 +143,24 @@
               "RelativeToolTip": "Model\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:09:06.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:09:06.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Repository\\Repository.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.cs",
               "RelativeToolTip": "Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:41:35.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Repository\\BaseRepository.cs",
@@ -177,20 +173,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Program.cs",
               "RelativeDocumentMoniker": "test1\\Program.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\Program.cs",
               "RelativeToolTip": "test1\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T08:16:01.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "test1.csproj",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\test1\\test1.csproj",
               "RelativeDocumentMoniker": "test1\\test1.csproj",
@@ -198,8 +194,7 @@
               "RelativeToolTip": "test1\\test1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-19T08:57:53.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:57:53.692Z"
             }
           ]
         }
