@@ -8,6 +8,6 @@ namespace Repository
 {
     class SqlStatement
     {
-        internal String add = "ddd";
+        internal static String add = "ddd";
     }
 }

@@ -17,8 +17,7 @@ namespace Repository
             {
                 if(connection != null)
                 {
-                    SqlStatement ss = new SqlStatement();
-                    string ff = ss.add;
+
                 }
             }
         }
