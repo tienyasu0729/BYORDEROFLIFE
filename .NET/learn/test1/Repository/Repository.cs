@@ -13,7 +13,14 @@ namespace Repository
 
         public void addNewSalariedEmployee()
         {
-            using (MySqlConnection conn = new BaseRepository().GetConnection()) ;
+            using (MySqlConnection connection = new BaseRepository().GetConnection())
+            {
+                if(connection != null)
+                {
+                    SqlStatement ss = new SqlStatement();
+                    string ff = ss.add;
+                }
+            }
         }
     }
 }
