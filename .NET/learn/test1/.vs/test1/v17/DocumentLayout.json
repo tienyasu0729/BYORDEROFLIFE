@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\repository\\sqlstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\sqlstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\repository\\sqlstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}|Repository\\Repository.csproj|solutionrelative:repository\\sqlstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A13FECE-458C-45E2-A6A0-31F81241EB56}|test1\\test1.csproj|c:\\code\\byorderoflife\\.net\\learn\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,26 +90,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SqlStatement.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\SqlStatement.cs",
               "RelativeDocumentMoniker": "Repository\\SqlStatement.cs",
               "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\SqlStatement.cs",
               "RelativeToolTip": "Repository\\SqlStatement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T07:29:01.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Repository\\Repository.cs",
               "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.cs",
               "RelativeToolTip": "Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:41:35.273Z",
               "EditorCaption": ""
@@ -184,8 +184,7 @@
               "RelativeToolTip": "test1\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:16:01.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:16:01.431Z"
             },
             {
               "$type": "Document",

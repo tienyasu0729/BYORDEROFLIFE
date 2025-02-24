@@ -9,16 +9,19 @@ namespace Repository
 {
     class Repository
     {
-        private BaseRepository baseRepository = new BaseRepository();
+        private readonly BaseRepository baseRepository = new BaseRepository();
+        private readonly SqlStatement sqlStatement = new SqlStatement();
 
         public void addNewSalariedEmployee()
         {
-            using (MySqlConnection connection = new BaseRepository().GetConnection())
+            using (MySqlConnection connection = baseRepository.GetConnection())
             {
                 if(connection != null)
                 {
-                    SqlStatement ss = new SqlStatement();
-                    string ff = ss.add;
+                    using (MySqlCommand cammand = new MySqlCommand())
+                    {
+
+                    }
                 }
             }
         }
