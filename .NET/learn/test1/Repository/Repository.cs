@@ -18,10 +18,14 @@ namespace Repository
             {
                 if(connection != null)
                 {
+<<<<<<< HEAD
                     using (MySqlCommand cammand = new MySqlCommand())
                     {
 
                     }
+=======
+
+>>>>>>> e4b3b2bf49ad98f4b7f5373fa2b4bd40820d2d74
                 }
             }
         }
