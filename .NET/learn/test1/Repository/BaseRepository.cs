@@ -6,11 +6,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository
+namespace RepositoryE
 {
     class BaseRepository
     {
-        private readonly string connectionString = "Server=localhost;Database=Employee;User ID=root;Password=12345;";
+        private readonly string connectionString = "Server=localhost;Database=employee;User ID=root;Password=12345;";
         private MySqlConnection connection;
 
         public BaseRepository() { }

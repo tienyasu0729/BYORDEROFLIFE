@@ -486,7 +486,7 @@
           "bin/placeholder/Model.dll": {}
         }
       },
-      "Repository/1.0.0": {
+      "RepositoryE/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -494,10 +494,10 @@
           "MySql.Data": "9.2.0"
         },
         "compile": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/RepositoryE.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/RepositoryE.dll": {}
         }
       },
       "Validate/1.0.0": {
@@ -1640,10 +1640,10 @@
       "path": "../Model/Model.csproj",
       "msbuildProject": "../Model/Model.csproj"
     },
-    "Repository/1.0.0": {
+    "RepositoryE/1.0.0": {
       "type": "project",
-      "path": "../Repository/Repository.csproj",
-      "msbuildProject": "../Repository/Repository.csproj"
+      "path": "../Repository/RepositoryE.csproj",
+      "msbuildProject": "../Repository/RepositoryE.csproj"
     },
     "Validate/1.0.0": {
       "type": "project",
@@ -1655,7 +1655,7 @@
     "net8.0": [
       "Model >= 1.0.0",
       "MySql.Data >= 9.2.0",
-      "Repository >= 1.0.0",
+      "RepositoryE >= 1.0.0",
       "Validate >= 1.0.0"
     ]
   },
@@ -1698,8 +1698,8 @@
             "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
               "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
             },
-            "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj"
+            "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj": {
+              "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj"
             },
             "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {
               "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj"

@@ -8,11 +8,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test1", "test1\test1.csproj
 		{282576A0-A10B-40BD-97A5-23BC4CFE3FC4} = {282576A0-A10B-40BD-97A5-23BC4CFE3FC4}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryE", "Repository\RepositoryE.csproj", "{282576A0-A10B-40BD-97A5-23BC4CFE3FC4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{68EACC53-5DE7-44A9-ACFE-674288C66ED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate", "Validate\Validate.csproj", "{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validate", "Validate\Validate.csproj", "{B877D8BE-C6C0-4824-AA4E-99E2369B6AC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

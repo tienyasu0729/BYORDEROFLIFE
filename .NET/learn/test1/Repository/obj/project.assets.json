@@ -1631,9 +1631,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
-      "projectName": "Repository",
-      "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj",
+      "projectName": "RepositoryE",
+      "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj",
       "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
       "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\obj\\",
       "projectStyle": "PackageReference",

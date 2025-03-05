@@ -71,12 +71,12 @@
         }
       }
     },
-    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
+    "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj",
+        "projectName": "RepositoryE",
+        "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
         "outputPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\obj\\",
         "projectStyle": "PackageReference",
@@ -182,8 +182,8 @@
               "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj": {
                 "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Model\\Model.csproj"
               },
-              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\Repository.csproj"
+              "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj": {
+                "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Repository\\RepositoryE.csproj"
               },
               "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj": {
                 "projectPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test1\\Validate\\Validate.csproj"

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository
+namespace RepositoryE
 {
     class SqlStatement
     {
-        internal static String add = "ddd";
+        internal static String addNewSalariedEmployee = "SELECT * FROM SalariedEmployee";
+        internal static String selectAllSalariedEmployee = "SELECT * FROM SalariedEmployee";
     }
 }

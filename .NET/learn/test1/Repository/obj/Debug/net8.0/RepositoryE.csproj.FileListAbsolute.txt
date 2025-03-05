@@ -1,0 +1,16 @@
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\bin\Debug\net8.0\RepositoryE.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\bin\Debug\net8.0\RepositoryE.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\bin\Debug\net8.0\RepositoryE.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\bin\Debug\net8.0\Model.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\bin\Debug\net8.0\Model.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\Reposito.CA0D2E22.Up2Date
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\refint\RepositoryE.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\RepositoryE.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Repository\obj\Debug\net8.0\ref\RepositoryE.dll

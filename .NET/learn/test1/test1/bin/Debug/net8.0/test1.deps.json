@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v8.0": {
       "test1/1.0.0": {
         "dependencies": {
-          "MySql.Data": "9.2.0"
+          "Model": "1.0.0",
+          "MySql.Data": "9.2.0",
+          "RepositoryE": "1.0.0",
+          "Validate": "1.0.0"
         },
         "runtime": {
           "test1.dll": {}
@@ -280,6 +283,34 @@
             "fileVersion": "0.8.0.0"
           }
         }
+      },
+      "Model/1.0.0": {
+        "runtime": {
+          "Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RepositoryE/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0",
+          "MySql.Data": "9.2.0"
+        },
+        "runtime": {
+          "RepositoryE.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Validate/1.0.0": {
+        "runtime": {
+          "Validate.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -491,6 +522,21 @@
       "sha512": "sha512-Z62eNBIu8E8YtbqlMy57tK3dV1+m2b9NhPeaYovB5exmLKvrGCqOhJTzrEUH5VyUWU6vwX3c1XHJGhW5HVs8dA==",
       "path": "zstdsharp.port/0.8.0",
       "hashPath": "zstdsharp.port.0.8.0.nupkg.sha512"
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

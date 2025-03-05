@@ -1,13 +1,15 @@
-﻿using MySql.Data.MySqlClient;
+﻿using Model;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repository
+namespace RepositoryE
 {
-    class Repository
+    public class Repository
     {
         private readonly BaseRepository baseRepository = new BaseRepository();
         private readonly SqlStatement sqlStatement = new SqlStatement();
@@ -18,16 +20,44 @@ namespace Repository
             {
                 if(connection != null)
                 {
-<<<<<<< HEAD
-                    using (MySqlCommand cammand = new MySqlCommand())
+                    using (MySqlCommand cammand = new MySqlCommand(SqlStatement.addNewSalariedEmployee, connection))
                     {
-
                     }
-=======
 
->>>>>>> e4b3b2bf49ad98f4b7f5373fa2b4bd40820d2d74
                 }
             }
+        }
+
+        public List<SalariedEmployee> selectAllSalariedEmployee()
+        {
+            List<SalariedEmployee> employees = new List<SalariedEmployee>();
+            using (MySqlConnection connection = baseRepository.GetConnection())
+            {
+                if (connection != null)
+                {
+                    using (MySqlCommand cammand = new MySqlCommand(SqlStatement.selectAllSalariedEmployee, connection))
+                    using (MySqlDataReader reader = cammand.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            employees.Add(new SalariedEmployee(
+                             reader.GetString("SSN"),
+                             reader.GetString("FirstName"),
+                             reader.GetString("LastName"),
+                             reader.GetDateTime("BirthDate").ToString("dd/MM/yyyy"),
+                             reader.GetString("Phone"),
+                             reader.GetString("Email"),
+                             reader.GetDouble("CommissionRate"),
+                             reader.GetDouble("GrossSales"),
+                             reader.GetDouble("BasicSalary")
+                         ));
+                        }
+                    }
+
+                }
+                connection.Close();
+            }
+            return employees;
         }
     }
 }

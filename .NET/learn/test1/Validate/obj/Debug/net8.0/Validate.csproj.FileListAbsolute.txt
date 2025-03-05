@@ -1,0 +1,12 @@
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\bin\Debug\net8.0\Validate.deps.json
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\bin\Debug\net8.0\Validate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\bin\Debug\net8.0\Validate.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\refint\Validate.dll
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\Validate.pdb
+C:\Codegym\BYORDEROFLIFE\.NET\learn\test1\Validate\obj\Debug\net8.0\ref\Validate.dll
