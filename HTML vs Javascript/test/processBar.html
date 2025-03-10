@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+ .progress {
+  width: 300px; /* Chiều rộng ngắn hơn */
+  height: 20px; /* Chiều cao nhỏ hơn */
+  background-color: #f2f2f2;
+  border-radius: 10px; /* Bo tròn góc */
+  overflow: hidden;
+  position: relative;
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(to right, red, rgba(255, 0, 0, 0.2));
+  width: 0%;
+  transition: width 0.5s linear;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px; /* Bo tròn cho progress */
+  position: relative;
+}
+
+.progress-text {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+}
+
+@keyframes progressAnimation {
+  0% {
+    width: 0%; /* Bắt đầu từ 0% */
+    opacity: 1; /* Độ mờ ban đầu */
+  }
+  100% {
+    width: 100%; /* Kết thúc ở 100% */
+    opacity: 0.2; /* Độ mờ khi kết thúc */
+  }
+}
+</style>
+<body>
+    <div class="progress">
+        <div class="progress-bar">
+          <span class="progress-text">0%</span>
+        </div>
+      </div>
+      
+<script>
+    function updateProgress(value) {
+  let progressBar = document.querySelector(".progress-bar");
+  let progressText = document.querySelector(".progress-text");
+
+  progressBar.style.width = value + "%";
+  progressText.textContent = value + "%";
+}
+
+// Test tăng dần từ 0% đến 100%
+let progress = 0;
+let interval = setInterval(() => {
+  if (progress <= 100) {
+    updateProgress(progress);
+    progress++;
+  } else {
+    clearInterval(interval);
+  }
+}, 100);
+</script>
+</body>
+</html>
