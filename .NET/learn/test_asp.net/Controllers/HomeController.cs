@@ -7,9 +7,11 @@ namespace test_asp.net.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IRepository repository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IRepository repository, ILogger<HomeController> logger)
         {
+            this.repository = repository;
             _logger = logger;
         }
 
@@ -18,9 +20,9 @@ namespace test_asp.net.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult NewActionMethod(String name)
         {
-            return View();
+            return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

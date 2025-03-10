@@ -9,6 +9,12 @@ namespace test_asp.net
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            //builder.Services.AddTransient<IRepository>(services => new MyRepository());
+
+            builder.Services.AddTransient<IRepository>(services => new MyRepository(services.GetRequiredService<ILogger<MyRepository>>()));
+
+            //builder.Services.AddTransient<IRepository>(services => new test1Repository());
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
