@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using test_asp.net.Models;
 
@@ -17,12 +17,19 @@ namespace test_asp.net.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(new HelloModel {Name = "ASPPPPPP"});
         }
 
         public IActionResult NewActionMethod(String name)
         {
-            return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
+            //return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
+            return View("Index", new HelloModel { Name = "23423423423" });
+        }
+
+        // Mặc định nếu viết hàm public hay hàm nằm trong controller thì asp sẽ tự động coi nó là 1 action method ( đường đãn tới url )
+        public ActionResult testMethod()
+        {
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
