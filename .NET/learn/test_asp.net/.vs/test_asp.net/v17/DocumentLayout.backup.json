@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\views\\home\\testmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:views\\home\\testmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\views\\home\\testmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:views\\home\\testmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\controllers\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,12 +102,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "testMethod.cshtml",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Views\\Home\\testMethod.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\testMethod.cshtml",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Views\\Home\\testMethod.cshtml*",
-              "RelativeToolTip": "Views\\Home\\testMethod.cshtml*",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Views\\Home\\testMethod.cshtml",
+              "RelativeToolTip": "Views\\Home\\testMethod.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T04:34:11.147Z",
@@ -119,8 +119,8 @@
               "Title": "Math.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\Math.cs",
               "RelativeDocumentMoniker": "Controllers\\Math.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\Math.cs*",
-              "RelativeToolTip": "Controllers\\Math.cs*",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\Math.cs",
+              "RelativeToolTip": "Controllers\\Math.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T03:09:41.784Z",
@@ -141,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T06:08:54.755Z",
               "EditorCaption": ""

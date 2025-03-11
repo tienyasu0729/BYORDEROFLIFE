@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Đăng Ký</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .form-container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .error {
+            color: red;
+            font-size: 12px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: blue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: darkblue;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Đăng Ký</h2>
+        <form id="registerForm">
+            <label>Email:</label>
+            <input type="text" id="email" placeholder="Nhập email">
+            <div class="error" id="emailError"></div>
+
+            <label>Số điện thoại:</label>
+            <input type="number" id="phone" placeholder="Nhập số điện thoại">
+            <div class="error" id="phoneError"></div>
+
+            <label>Mật khẩu:</label>
+            <input type="password" id="password" placeholder="Nhập mật khẩu">
+            <div class="error" id="passwordError"></div>
+
+            <button type="submit">Đăng Ký</button>
+        </form>
+    </div>
+
+    <script>
+        function isValidEmail(email) {
+            const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            return emailRegex.test(email);
+        }
+
+        function isValidVietnamPhone(phone) {
+            const phoneRegex = /^0\d{9}$/;
+            return phoneRegex.test(phone);
+        }
+
+        function isValidPassword(password) {
+            const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+            return passwordRegex.test(password);
+        }
+
+        document.getElementById("registerForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            let email = document.getElementById("email").value;
+            let phone = document.getElementById("phone").value;
+            let password = document.getElementById("password").value;
+
+            let emailError = document.getElementById("emailError");
+            let phoneError = document.getElementById("phoneError");
+            let passwordError = document.getElementById("passwordError");
+
+            emailError.textContent = isValidEmail(email) ? "" : "Email không hợp lệ!";
+            phoneError.textContent = isValidVietnamPhone(phone) ? "" : "Số điện thoại không hợp lệ!";
+            passwordError.textContent = isValidPassword(password) ? "" : "Mật khẩu phải có ít nhất 8 ký tự, 1 chữ hoa, 1 chữ thường, 1 số và 1 ký tự đặc biệt!";
+
+            if (isValidEmail(email) && isValidVietnamPhone(phone) && isValidPassword(password)) {
+                alert("Đăng ký thành công!");
+            }
+        });
+    </script>
+
+</body>
+</html>

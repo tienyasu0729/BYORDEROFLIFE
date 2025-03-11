@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJAX Load Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        #demo, #xml-data {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+            display: inline-block;
+            min-width: 300px;
+        }
+    </style>
+</head>
+<body>
+
+    <button onclick="loadTxt()">Load</button>
+    <div id="demo">Dữ liệu TXT.</div>
+
+
+    <script>
+        function loadTxt() {
+            let xhr = new XMLHttpRequest();
+            xhr.open("GET", "file.txt", true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    document.getElementById("demo").innerText = xhr.responseText;
+                }
+            };
+            xhr.send();
+        }
+    </script>
+
+</body>
+</html>
