@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CC2D213-A62B-4EB9-A3E7-11354AD19149}|test_asp.net.csproj|c:\\codegym\\byorderoflife\\.net\\learn\\test_asp.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,26 +102,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T06:08:54.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T17:55:03.603Z",
               "EditorCaption": ""
@@ -136,12 +136,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T08:05:11.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T08:05:11.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\learn\\test_asp.net\\MyRepository.cs",
               "RelativeDocumentMoniker": "MyRepository.cs",
@@ -149,8 +148,7 @@
               "RelativeToolTip": "MyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T09:52:49.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T09:52:49.154Z"
             },
             {
               "$type": "Document",
@@ -162,8 +160,7 @@
               "RelativeToolTip": "Controllers\\Math.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T03:09:41.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T03:09:41.784Z"
             },
             {
               "$type": "Document",
