@@ -23,7 +23,13 @@ namespace test_asp.net.Controllers
         public IActionResult NewActionMethod(String name)
         {
             //return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
-            return View("Index", new HelloModel { Name = "23423423423" });
+            //return View("Index", new HelloModel { Name = "23423423423" });
+            return "ssss";
+        }
+
+        public ActionResult Contact()
+        {
+            return View();
         }
 
         // Mặc định nếu viết hàm public hay hàm nằm trong controller thì asp sẽ tự động coi nó là 1 action method ( đường đãn tới url )
