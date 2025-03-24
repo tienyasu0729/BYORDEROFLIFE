@@ -33,10 +33,17 @@ namespace test_asp.net.Controllers
             return View();
         }
 
-        // Mặc định nếu viết hàm public hay hàm nằm trong controller thì asp sẽ tự động coi nó là 1 action method ( đường đãn tới url )
+        // Mặc định nếu viết hàm public nằm trong controller thì asp sẽ tự động coi nó là 1 action method ( đường đãn tới url ), với những access modifyers khác như private, protected, .. asp sẽ kh tự động coi đó là đường dẫn url
         public ActionResult testMethod()
         {
             return View();
+        }
+
+        public IActionResult user()
+        {
+            _logger.LogInformation("Method :", Request.Method);
+
+            return Content("Users");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
