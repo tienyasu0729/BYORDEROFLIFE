@@ -24,9 +24,10 @@ namespace test_asp.net.Controllers
         {
             //return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
             //return View("Index", new HelloModel { Name = "23423423423" });
-            return "ssss";
+            return View();
         }
 
+        [NonAction]
         public ActionResult Contact()
         {
             return View();
