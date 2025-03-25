@@ -39,6 +39,7 @@ namespace test_asp.net.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult user()
         {
             _logger.LogInformation("Method :", Request.Method);
