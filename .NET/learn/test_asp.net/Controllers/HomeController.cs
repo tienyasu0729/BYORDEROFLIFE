@@ -22,9 +22,9 @@ namespace test_asp.net.Controllers
 
         public IActionResult NewActionMethod(String name)
         {
-            //return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
+            return Content("asdasdasdasdadasd" + repository.getId("abc ") + name);
             //return View("Index", new HelloModel { Name = "23423423423" });
-            return View();
+            //return View();
         }
 
         [NonAction]
