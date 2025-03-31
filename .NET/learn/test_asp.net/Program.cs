@@ -1,3 +1,5 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
 namespace test_asp.net
 {
     public class Program
@@ -32,9 +34,16 @@ namespace test_asp.net
 
             app.UseAuthorization();
 
+            // đây là đặt địa chỉ tắt cho product/details/123 thành p/123, có cách khác là dùng route để đặt địa chỉ khác cho action method đó
+            app.MapControllerRoute(
+                name: "product-details",
+                pattern: "p/{id}",
+                defaults: new { Controller = "product", action = "details" });
+            
+            // đây là cài đặt địa chỉ mặt định nếu không nhập địa chỉ url
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=NewActionMethod}/{id?}");
+                pattern: "{controller=Home}/{action=index}/{id?}");
 
             app.Run();
         }
