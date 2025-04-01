@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f87ed1c-b38f-4ca7-b18c-2f7ab8badf61" name="Changes" comment="" />
+    <list default="true" id="0f87ed1c-b38f-4ca7-b18c-2f7ab8badf61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/ProjectEvaluation/test_asp.net.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/.vs/test_asp.net/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/obj/Debug/net8.0/test_asp.net.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/obj/Debug/net8.0/test_asp.net.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/obj/Debug/net8.0/test_asp.net.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../.NET/learn/test_asp.net/obj/Debug/net8.0/test_asp.net.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pPMGskUYpTUpDaKlq8i5kT9VRb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "nodejs_package_manager_path": "npm"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Tienn/Downloads/Modernize-MUI-1.0.0/Modernize-MUI-1.0.0",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -32,7 +53,11 @@
       <option name="presentableId" value="Default" />
       <updated>1732663165705</updated>
       <workItem from="1732663166857" duration="2000" />
+      <workItem from="1743476450483" duration="54000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
