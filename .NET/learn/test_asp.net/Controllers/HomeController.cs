@@ -47,6 +47,22 @@ namespace test_asp.net.Controllers
             return Content("Users");
         }
 
+        [HttpGet]
+        public IActionResult testModelBinding()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult testModelBinding(Person person)
+        {
+            if (ModelState.IsValid)
+            {
+                ViewBag.Message = "Thông tin đã được gửi thành công!";
+            }
+            return View(person);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
