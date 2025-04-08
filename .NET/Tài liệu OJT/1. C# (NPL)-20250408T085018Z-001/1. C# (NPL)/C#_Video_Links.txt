@@ -1,0 +1,9 @@
+[1] C# - Video
+https://www.youtube.com/watch?v=V5H1cMFjvew&list=PL-gPfnsMEiqnFLCeHKUED2Z3cPQGyKvHM&index=3
+[2]. C#
+https://www.tutorialsteacher.com/csharp/csharp-tutorials
+https://comdy.vn/c-sharp/lap-trinh-huong-doi-tuong-oop-trong-c-sharp/
+https://dotnettutorials.net/lesson/object-oriented-programming-csharp/
+[3] ADO.NET
+https://www.codeproject.com/Articles/12669/ADO-NET-for-the-Object-Oriented-Programmer-Part-On
+https://www.javatpoint.com/ado-net-tutorial

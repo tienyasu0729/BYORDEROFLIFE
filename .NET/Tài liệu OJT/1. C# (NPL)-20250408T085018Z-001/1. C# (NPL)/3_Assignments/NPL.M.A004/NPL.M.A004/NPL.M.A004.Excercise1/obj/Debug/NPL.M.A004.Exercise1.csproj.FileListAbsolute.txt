@@ -1,0 +1,7 @@
+D:\Project\Net.M.A004\Net.M.A004\bin\Debug\Net.M.A004.exe.config
+D:\Project\Net.M.A004\Net.M.A004\bin\Debug\Net.M.A004.exe
+D:\Project\Net.M.A004\Net.M.A004\bin\Debug\Net.M.A004.pdb
+D:\Project\Net.M.A004\Net.M.A004\obj\Debug\Net.M.A004.Exercise1.csprojAssemblyReference.cache
+D:\Project\Net.M.A004\Net.M.A004\obj\Debug\Net.M.A004.Exercise1.csproj.CoreCompileInputs.cache
+D:\Project\Net.M.A004\Net.M.A004\obj\Debug\Net.M.A004.exe
+D:\Project\Net.M.A004\Net.M.A004\obj\Debug\Net.M.A004.pdb
