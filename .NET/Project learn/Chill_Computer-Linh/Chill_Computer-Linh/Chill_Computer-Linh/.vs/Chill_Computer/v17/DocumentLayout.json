@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\contacts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\services\\attributerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\attributerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\huynhlinh\\downloads\\chill_computer-linh\\chill_computer-linh\\chill_computer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\ChillComputerContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:34:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:14:51.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:14:59.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:02:16.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Contacts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Contacts\\IUserService.cs",
+              "RelativeToolTip": "Chill_Computer\\Contacts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:19:01.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:03:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\UserService.cs",
+              "RelativeToolTip": "Chill_Computer\\Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:31:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePassWord.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T19:28:50.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Chill_Computer\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:30:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:19:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\AccountService.cs",
+              "RelativeToolTip": "Chill_Computer\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:21:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:19:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T07:30:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePassWordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:26:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:03:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:20:11.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:17:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:15:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Program.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Program.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Program.cs",
+              "RelativeToolTip": "Chill_Computer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwCkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:27:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "Chill_Computer\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "Chill_Computer\\wwwroot\\css\\account.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T20:03:20.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Chill_Computer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\appsettings.Development.json",
+              "RelativeToolTip": "Chill_Computer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T18:30:43.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChillComputerContext.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\ChillComputerContext.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\ChillComputerContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwMUBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:31:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:35:05.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\User.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:58:51.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\Account.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:31:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AttributeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\AttributeRepository.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Services\\AttributeRepository.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\AttributeRepository.cs",
+              "RelativeToolTip": "Chill_Computer\\Services\\AttributeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:25:21.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\Role.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:43:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Chill_Computer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:21:15.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:17:20.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChillComputerContext.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\ChillComputerContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Models\\Models\\ChillComputerContext.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\ChillComputerContext.cs",
+              "RelativeToolTip": "..\\..\\Models\\Models\\ChillComputerContext.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAANsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:13:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\Models\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HuynhLinh\\Downloads\\Models\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\Models\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:12:45.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

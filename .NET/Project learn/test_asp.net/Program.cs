@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using test_asp.net.Data;
 
 namespace test_asp.net
 {
@@ -16,6 +18,11 @@ namespace test_asp.net
             builder.Services.AddTransient<IRepository>(services => new MyRepository(services.GetRequiredService<ILogger<MyRepository>>()));
 
             //builder.Services.AddTransient<IRepository>(services => new test1Repository());
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseMySql(builder.Configuration.GetConnectionString("MyDb"),
+            new MySqlServerVersion(new Version(8, 0, 29)))); // Thay phiên bản theo bản MySQL bạn dùng
+
 
             var app = builder.Build();
 

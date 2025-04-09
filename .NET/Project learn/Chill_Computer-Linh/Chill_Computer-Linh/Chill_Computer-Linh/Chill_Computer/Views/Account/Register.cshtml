@@ -1,0 +1,64 @@
+﻿@using Chill_Computer.ViewModels;
+@model RegisterViewModel;
+
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+
+
+<!-- Wrapper -->
+<div class="account-container">
+    <div class="auth-container">
+        <!-- Left Side Image -->
+        <div class="image-section">
+            <img src="../imgs/login1.jpg" alt="Decorative background" class="login-image" />
+        </div>
+
+        <!-- Right Side Form -->
+        <div class="form-section">
+           
+            <div class="form-box">
+                <h1 class="form-title">Đăng ký</h1>
+                <form asp-controller="user" asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="field">
+                        <label asp-for="UserName" class="label">Tên đăng nhập</label>
+                        <input asp-for="UserName" class="input-field" required />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+
+                    <div class="field">
+                        <label asp-for="Password" class="label">Mật khẩu</label>
+                        <input asp-for="Password" class="input-field" required />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="field">
+                        <label asp-for="ConfirmPassword" class="label">Xác nhận mật khẩu</label>
+                        <input asp-for="ConfirmPassword" class="input-field" required />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn-submit">Đăng ký</button>
+                </form>
+
+                <div class="form-footer">
+                    <p>Đã có tài khoản? <a asp-controller="Account" asp-action="Login">Đăng nhập</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+
+

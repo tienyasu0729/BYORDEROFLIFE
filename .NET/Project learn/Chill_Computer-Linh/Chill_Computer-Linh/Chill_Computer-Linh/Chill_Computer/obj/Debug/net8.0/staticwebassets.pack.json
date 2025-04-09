@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Chill_Computer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Chill_Computer.b1czn7gpxj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\01_Novcbe9e8614a9ef0937575d3f232d51a08.jpg",
+      "PackagePath": "staticwebassets\\imgs\\01_Novcbe9e8614a9ef0937575d3f232d51a08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\Intel Arc B580 Limited Edition Reveal _ Intel Gaming 0-51 screenshot.png",
+      "PackagePath": "staticwebassets\\imgs\\Intel Arc B580 Limited Edition Reveal _ Intel Gaming 0-51 screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\Intel-CES2025-Day1-keynote-5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Intel-CES2025-Day1-keynote-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\KEG1.png",
+      "PackagePath": "staticwebassets\\imgs\\KEG1.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\cach-xem-cau-hinh-may-tinh-1_f3bc94783130442596bd073342b3d99f_1024x1024.webp",
+      "PackagePath": "staticwebassets\\imgs\\cach-xem-cau-hinh-may-tinh-1_f3bc94783130442596bd073342b3d99f_1024x1024.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\cach-xem-cau-hinh-may-tinh-2_4432758792c1441f8410a7ffb2d4d8cc_1024x1024.webp",
+      "PackagePath": "staticwebassets\\imgs\\cach-xem-cau-hinh-may-tinh-2_4432758792c1441f8410a7ffb2d4d8cc_1024x1024.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\cach-xem-cau-hinh-may-tinh-3_17f766b1202142faac2e70714503a3b6_1024x1024.webp",
+      "PackagePath": "staticwebassets\\imgs\\cach-xem-cau-hinh-may-tinh-3_17f766b1202142faac2e70714503a3b6_1024x1024.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\cach-xem-cau-hinh-may-tinh-4_fda62638e27644bd9642bcf2500f41ed_1024x1024.webp",
+      "PackagePath": "staticwebassets\\imgs\\cach-xem-cau-hinh-may-tinh-4_fda62638e27644bd9642bcf2500f41ed_1024x1024.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\cach-xem-cau-hinh-may-tinh-5_9c5cdf88e47d4f31ac867af7fd09ba25_1024x1024.webp",
+      "PackagePath": "staticwebassets\\imgs\\cach-xem-cau-hinh-may-tinh-5_9c5cdf88e47d4f31ac867af7fd09ba25_1024x1024.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\danh-muc-icon-ban-phim-thinkpro.vn.webp",
+      "PackagePath": "staticwebassets\\imgs\\danh-muc-icon-ban-phim-thinkpro.vn.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\dominator_titanium_rgb_ddr5_blac_fa0f0c02819e4313b6a595ecb2e029b0_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\dominator_titanium_rgb_ddr5_blac_fa0f0c02819e4313b6a595ecb2e029b0_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\fwebp__26__dc3690e9a39b448ba82e427125fce12f_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\fwebp__26__dc3690e9a39b448ba82e427125fce12f_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\gearvn-man-hinh-cong-asus-rog-swift-pg34wcdm-1_5a24f0c3ac764de5b5bc28a08e27a7e3_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\gearvn-man-hinh-cong-asus-rog-swift-pg34wcdm-1_5a24f0c3ac764de5b5bc28a08e27a7e3_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\gvn07935_aaa9b99c81f044ba81926066e554a4b2_medium.png",
+      "PackagePath": "staticwebassets\\imgs\\gvn07935_aaa9b99c81f044ba81926066e554a4b2_medium.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\icon3_5c59c1dc52ec4b81a94a3edba293e895.webp",
+      "PackagePath": "staticwebassets\\imgs\\icon3_5c59c1dc52ec4b81a94a3edba293e895.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image.png",
+      "PackagePath": "staticwebassets\\imgs\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image10.png",
+      "PackagePath": "staticwebassets\\imgs\\image10.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image11.png",
+      "PackagePath": "staticwebassets\\imgs\\image11.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image2.png",
+      "PackagePath": "staticwebassets\\imgs\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image3.png",
+      "PackagePath": "staticwebassets\\imgs\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image4.png",
+      "PackagePath": "staticwebassets\\imgs\\image4.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image5.png",
+      "PackagePath": "staticwebassets\\imgs\\image5.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image6.png",
+      "PackagePath": "staticwebassets\\imgs\\image6.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image7.png",
+      "PackagePath": "staticwebassets\\imgs\\image7.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image8.png",
+      "PackagePath": "staticwebassets\\imgs\\image8.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\image9.png",
+      "PackagePath": "staticwebassets\\imgs\\image9.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\laptop-1-1.webp",
+      "PackagePath": "staticwebassets\\imgs\\laptop-1-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro (1).webp",
+      "PackagePath": "staticwebassets\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro (1).webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro.png",
+      "PackagePath": "staticwebassets\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro.webp",
+      "PackagePath": "staticwebassets\\imgs\\lenovo-thinkpad-x1-carbon-gen-10-thinkpro.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\lenovo-thinkpad-x1-carbon-gen-11-thinkpro-02.webp",
+      "PackagePath": "staticwebassets\\imgs\\lenovo-thinkpad-x1-carbon-gen-11-thinkpro-02.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\lenovo-thinkpad-x1-carbon-gen-11-thinkpro-05.webp",
+      "PackagePath": "staticwebassets\\imgs\\lenovo-thinkpad-x1-carbon-gen-11-thinkpro-05.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\login1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\logitech-g102-lightsync-rgb-black-1_bf4f5774229c4a0f81b8e8a2feebe4d8_aeb4ae49ee844c3e9d315883d4e482d4_medium-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imgs\\logitech-g102-lightsync-rgb-black-1_bf4f5774229c4a0f81b8e8a2feebe4d8_aeb4ae49ee844c3e9d315883d4e482d4_medium-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\loq_t9_banner_1920x450_2048x2048.webp",
+      "PackagePath": "staticwebassets\\imgs\\loq_t9_banner_1920x450_2048x2048.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\n36733-001-arl-i9k-univ_b4cd53ec34294ed9bea8be6f28991d91_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\n36733-001-arl-i9k-univ_b4cd53ec34294ed9bea8be6f28991d91_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\output-onlinepngtools.png",
+      "PackagePath": "staticwebassets\\imgs\\output-onlinepngtools.png"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\pro2-lightspeed-black-new-galler_84b2343575d14402814bbcf5389c1f24_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\pro2-lightspeed-black-new-galler_84b2343575d14402814bbcf5389c1f24_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\tai_nghe_ed3b4f52172f40929e1d3ab493099b73.webp",
+      "PackagePath": "staticwebassets\\imgs\\tai_nghe_ed3b4f52172f40929e1d3ab493099b73.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\thumb LG Ultrafine 6K.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thumb LG Ultrafine 6K.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\thumb Zenbook A14.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thumb Zenbook A14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\imgs\\x870e_aorus_pro_ice-01_68e6e05781dd48d4a03485dd1930d7ad_medium.webp",
+      "PackagePath": "staticwebassets\\imgs\\x870e_aorus_pro_ice-01_68e6e05781dd48d4a03485dd1930d7ad_medium.webp"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HuynhLinh\\Downloads\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Chill_Computer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Chill_Computer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Chill_Computer.props",
+      "PackagePath": "build\\Chill_Computer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Chill_Computer.props",
+      "PackagePath": "buildMultiTargeting\\Chill_Computer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Chill_Computer.props",
+      "PackagePath": "buildTransitive\\Chill_Computer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

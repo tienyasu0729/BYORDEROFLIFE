@@ -11,6 +11,8 @@ namespace test_asp.net.Data
         {
 
         }
+
+        public DbSet<Product> Products { get; set; }
     }
 
 

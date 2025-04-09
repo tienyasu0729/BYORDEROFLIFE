@@ -64,3 +64,15 @@ C:\code\BYORDEROFLIFE\.NET\learn\test_asp.net\obj\Debug\net8.0\refint\test_asp.n
 C:\code\BYORDEROFLIFE\.NET\learn\test_asp.net\obj\Debug\net8.0\test_asp.net.pdb
 C:\code\BYORDEROFLIFE\.NET\learn\test_asp.net\obj\Debug\net8.0\test_asp.net.genruntimeconfig.cache
 C:\code\BYORDEROFLIFE\.NET\learn\test_asp.net\obj\Debug\net8.0\ref\test_asp.net.dll
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.csproj.AssemblyReference.cache
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.AssemblyInfoInputs.cache
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.AssemblyInfo.cs
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.csproj.CoreCompileInputs.cache
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.MvcApplicationPartsAssemblyInfo.cache
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.RazorAssemblyInfo.cache
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.RazorAssemblyInfo.cs
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.sourcelink.json
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.dll
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\refint\test_asp.net.dll
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\obj\Debug\net8.0\test_asp.net.pdb
