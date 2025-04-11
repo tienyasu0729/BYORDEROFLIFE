@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\test_asp.net_for_mysql.props" />
+</Project>

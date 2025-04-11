@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chill_Computer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd2c78cf81e0f2766bff5de91e931ad756b9209")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3224b65e1b1ea415563e86646cc0402967c08d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chill_Computer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chill_Computer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

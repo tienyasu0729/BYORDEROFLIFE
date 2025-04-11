@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using test_asp.net.Data;
+using test_asp.net.Context;
 
 namespace test_asp.net
 {
