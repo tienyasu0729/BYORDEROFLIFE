@@ -11,3 +11,7 @@
         public DateTime DateAdded { get; set; }
     }
 }
+
+//dotnet ef migrations add AddPersonAndHello
+
+//    dotnet ef database update

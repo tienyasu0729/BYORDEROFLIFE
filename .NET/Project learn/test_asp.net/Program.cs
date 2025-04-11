@@ -20,8 +20,7 @@ namespace test_asp.net
             //builder.Services.AddTransient<IRepository>(services => new test1Repository());
 
             builder.Services.AddDbContext<AppDbContext>(options =>
-            options.UseMySql(builder.Configuration.GetConnectionString("MyDb"),
-            new MySqlServerVersion(new Version(8, 0, 29)))); // Thay phiên bản theo bản MySQL bạn dùng
+     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
             var app = builder.Build();
