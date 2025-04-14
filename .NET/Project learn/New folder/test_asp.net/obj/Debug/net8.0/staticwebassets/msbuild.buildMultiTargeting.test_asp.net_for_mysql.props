@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\test_asp.net_for_mysql.props" />
+  <Import Project="..\build\test_asp.net_For_Mysql.props" />
 </Project>
