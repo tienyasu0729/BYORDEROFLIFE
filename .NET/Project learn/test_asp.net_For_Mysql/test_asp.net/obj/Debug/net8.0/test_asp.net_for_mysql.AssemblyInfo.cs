@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test_asp.net_For_Mysql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b15d5787de7a1ae00443a2dc4b7cde7165ba6700")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289de9cc230d26035c41d5e0ce943272d3c58c5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("test_asp.net_For_Mysql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test_asp.net_For_Mysql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
