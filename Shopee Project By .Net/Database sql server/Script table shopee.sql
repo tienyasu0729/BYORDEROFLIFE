@@ -176,7 +176,12 @@ CREATE TABLE category (
     id_category INT IDENTITY(1,1) PRIMARY KEY,
     name_category VARCHAR(255) NOT NULL,
     id_parent INT NULL,
-    FOREIGN KEY (id_parent) REFERENCES category(id_category) ON DELETE CASCADE
+
+	-- này bị lỗi vì ON DELETE CASCADE trong sql server không dùng được trong cùng 1 bảng
+	-- FOREIGN KEY (id_parent) REFERENCES category(id_category) ON DELETE CASCADE
+
+	-- câu lệnh này để fix lỗi trên bằng cách xoá ON DELETE CASCADE hoặc có thể dùng trigger
+	FOREIGN KEY (id_parent) REFERENCES category(id_category) 
 );
 GO
 
@@ -256,17 +261,30 @@ CREATE TABLE product_shipping_method (
     id_product_shipping_method INT IDENTITY(1,1) PRIMARY KEY,
     id_classification_value INT NOT NULL,
     id_shop_shipping_method INT NOT NULL,
-    FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
+
+	-- bị lỗi có nhiều hơn 1 khoá ngoại dùng ON DELETE CASCADE
+    -- FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE,
+    -- FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
+
+	-- này để fix lỗi trên
+	FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value),
     FOREIGN KEY (id_shop_shipping_method) REFERENCES shop_shipping_method(id_shop_shipping_method) ON DELETE CASCADE
 );
 GO
+
 -- Bảng product_group
 CREATE TABLE product_group (
     id_shop INT NOT NULL,
     id_product INT NOT NULL,
     name_group VARCHAR(100),
     PRIMARY KEY (id_shop, id_product),
-    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+
+	-- lỗi có hơn 1 khoá ngoại dùng ON DELETE CASCADE
+    -- FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    -- FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
+
+	-- fix lỗi trên
+	FOREIGN KEY (id_shop) REFERENCES shop(id_shop),
     FOREIGN KEY (id_product) REFERENCES product(id_product) ON DELETE CASCADE
 );
 GO
@@ -568,8 +586,15 @@ CREATE TABLE product_review (
     shop_answer VARCHAR(500) NULL,
     star INT NOT NULL,
     PRIMARY KEY (id_user, id_shop, id_classification_value),
-    FOREIGN KEY (id_user) REFERENCES [user](id_user) ON DELETE CASCADE,
-    FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+
+	-- lỗi có nhiều hơn 1 khoá dùng ON DELETE CASCADE
+    -- FOREIGN KEY (id_user) REFERENCES [user](id_user) ON DELETE CASCADE,
+    -- FOREIGN KEY (id_shop) REFERENCES shop(id_shop) ON DELETE CASCADE,
+    -- FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE
+
+	-- fix lỗi trên
+	FOREIGN KEY (id_user) REFERENCES [user](id_user),
+    FOREIGN KEY (id_shop) REFERENCES shop(id_shop),
     FOREIGN KEY (id_classification_value) REFERENCES classification_value(id_classification_value) ON DELETE CASCADE
 );
 GO

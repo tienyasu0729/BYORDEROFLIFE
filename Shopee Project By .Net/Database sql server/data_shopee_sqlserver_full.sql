@@ -1,5 +1,5 @@
 -- area
-/* area
+ -- area
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Nước ngoài');
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Đài Loan');
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Hong Kong');
@@ -17,10 +17,10 @@ INSERT INTO shopee.dbo.area (name_area) VALUES (N'Ba Lan');
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Colombia');
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Chile');
 INSERT INTO shopee.dbo.area (name_area) VALUES (N'Argentina');
-*/
+
 
 -- main_account
-/* main_account
+-- main_account
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'thanh12345', N'Pass12345', N'7', N'0935333566', N'thanhdanang2@gmail.com');
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'quyennguyenshop', N'Pass12345', N'5', N'0935789633', N'quyennvhde170370@fpt.edu.vn');
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'hanshopdee', N'Pass12345', N'4', N'0905997224', N'hanshop@gmail.com');
@@ -51,10 +51,10 @@ INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'silverstone53', N'Pass12345', N'7', N'0903452109', N'isabella.scott@gmail.com');
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'fakeshopee', N'T123456789', N'7', N'0935430002', N'tienngqueson@gmail.com');
 INSERT INTO shopee.dbo.main_account (business_ID, password, account_area, phone_number, email) VALUES (N'tien729467', N'T123456789', N'7', N'0876811003', N'tientpnde170390@fpt.edu.vn');
-*/
+
 
 -- shop
-/* shop
+-- shop
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0931234567', N'Pass12345', N'aaron.jones32@gmail.com', N'Mộc Mạc Store', N'1');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0902345678', N'Pass12345', N'bella.smith87@gmail.com', N'BlueSky Shop', N'2');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0873456789', N'Pass12345', N'carter.brown56@gmail.com\n', N'Thế Giới Đồ Gia Dụng', N'3');
@@ -115,30 +115,30 @@ INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_a
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0328901234', N'Pass12345', N'freddie.evans35@gmail.com\n', N'Trendy Tech\n', N'22');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0339012345', N'Pass12345', N'grace.young88@gmail.com\n', N'Home Comforts\n', N'23');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0340123456', N'Pass12345', N'harper.bell90@gmail.com\n', N'Luxe Decor\n', N'24');
-*/
+
 
 -- form_of_identification
-/* form_of_identification
+-- form_of_identification
 INSERT INTO shopee.dbo.form_of_identification (name_form) VALUES (N'Căn cước công dân');
 INSERT INTO shopee.dbo.form_of_identification (name_form) VALUES (N'Chứng minh nhân dân');
 INSERT INTO shopee.dbo.form_of_identification (name_form) VALUES (N'Hộ chiếu');
-*/
+
 
 -- shipping_method
-/* shipping_method
+-- shipping_method
 INSERT INTO shopee.dbo.shipping_method (method_name) VALUES (N'Hoả Tốc');
 INSERT INTO shopee.dbo.shipping_method (method_name) VALUES (N'Nhanh');
 INSERT INTO shopee.dbo.shipping_method (method_name) VALUES (N'Tiết Kiệm');
 INSERT INTO shopee.dbo.shipping_method (method_name) VALUES (N'Hàng Cồng Kềnh');
-*/
+
 
 -- payment_method
-/* payment_method
+-- payment_method
 INSERT INTO shopee.dbo.payment_method (payment_method_name) VALUES (N'Chuyển khoản');
 INSERT INTO shopee.dbo.payment_method (payment_method_name) VALUES (N'Ví Shopee Pay');
 INSERT INTO shopee.dbo.payment_method (payment_method_name) VALUES (N'ví Shopee Trả Sau');
 INSERT INTO shopee.dbo.payment_method (payment_method_name) VALUES (N'Thanh Toán Khi Nhận Hàng');
-*/
+
 
 -- category
 INSERT INTO shopee.dbo.category (name_category) VALUES (N'Thời Trang Nữ');

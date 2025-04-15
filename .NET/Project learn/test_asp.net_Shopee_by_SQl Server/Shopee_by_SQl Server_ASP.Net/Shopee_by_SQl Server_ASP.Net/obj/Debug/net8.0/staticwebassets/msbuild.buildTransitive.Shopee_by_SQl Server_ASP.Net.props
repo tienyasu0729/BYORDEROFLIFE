@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Shopee_by_SQl Server_ASP.Net.props" />
+</Project>
