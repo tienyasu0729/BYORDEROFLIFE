@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test_Dbcontext_asp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a36c0404ce9dfcc850722d9ffd90a86f5825ab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1662f96d6057f80661904758ebf4d494eb0c74e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("test_Dbcontext_asp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test_Dbcontext_asp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
