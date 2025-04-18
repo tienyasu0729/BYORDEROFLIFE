@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\",
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -13,8 +13,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 518,
-          "SelectedChildIndex": 13,
+          "DockedWidth": 515,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,19 +26,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -54,29 +42,27 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 521,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
               "RelativeDocumentMoniker": "test_Dbcontext_asp\\appsettings.json",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
               "RelativeToolTip": "test_Dbcontext_asp\\appsettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-17T07:33:07.895Z",
               "EditorCaption": ""
