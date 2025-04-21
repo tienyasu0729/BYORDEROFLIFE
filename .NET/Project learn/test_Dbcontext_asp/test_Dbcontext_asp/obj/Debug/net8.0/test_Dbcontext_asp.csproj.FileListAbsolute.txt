@@ -339,3 +339,4 @@ C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_Dbcontext_asp\test_Dbcontext_as
 C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_Dbcontext_asp\test_Dbcontext_asp\obj\Debug\net8.0\test_Dbcontext_asp.pdb
 C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_Dbcontext_asp\test_Dbcontext_asp\obj\Debug\net8.0\test_Dbcontext_asp.genruntimeconfig.cache
 C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_Dbcontext_asp\test_Dbcontext_asp\obj\Debug\net8.0\ref\test_Dbcontext_asp.dll
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_Dbcontext_asp\test_Dbcontext_asp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

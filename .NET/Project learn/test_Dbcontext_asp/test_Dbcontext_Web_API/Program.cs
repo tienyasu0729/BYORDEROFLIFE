@@ -1,4 +1,7 @@
-﻿using test_Dbcontext_Web_API.Service;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using test_Dbcontext_asp.Data;
+using test_Dbcontext_Web_API.Service;
 
 namespace test_Dbcontext_Web_API
 {
@@ -14,6 +17,16 @@ namespace test_Dbcontext_Web_API
 
             // này là đoạn code để tiêm service vào trong api, được làm theo slide
             builder.Services.AddScoped<BookService>();
+
+            // Này là theo slide, đã được sửa lại và hoạt động ok
+
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString)
+                       .ConfigureWarnings(warnings =>
+                           warnings.Ignore(RelationalEventId.PendingModelChangesWarning));
+            });
 
             var app = builder.Build();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test_Dbcontext_Web_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab84fb62afca57caccb3cff44fcc8548b1385c14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82e1977cec32f367829f5ca47a2ad0db75df847")]
 [assembly: System.Reflection.AssemblyProductAttribute("test_Dbcontext_Web_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test_Dbcontext_Web_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

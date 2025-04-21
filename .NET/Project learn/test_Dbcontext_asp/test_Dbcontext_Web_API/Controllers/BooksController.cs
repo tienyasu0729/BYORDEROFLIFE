@@ -14,7 +14,7 @@ namespace test_Dbcontext_Web_API.Controllers
         {
             _bookService = bookService;
         }
-        [HttpPost("add-book")]
+        [HttpGet("add-book")]
         public IActionResult AddBook([FromBody] BookVm book)
         {
             _bookService.AddBook(book);

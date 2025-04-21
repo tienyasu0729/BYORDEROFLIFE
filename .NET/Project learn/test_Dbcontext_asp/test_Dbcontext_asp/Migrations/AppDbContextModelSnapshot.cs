@@ -61,7 +61,7 @@ namespace test_Dbcontext_asp.Migrations
                         {
                             Id = 1,
                             Author = "First Author",
-                            DateAdded = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2025, 4, 21, 14, 17, 7, 937, DateTimeKind.Local).AddTicks(495),
                             Description = "1st book description",
                             Genre = "Biography",
                             Rate = 5,
@@ -71,7 +71,7 @@ namespace test_Dbcontext_asp.Migrations
                         {
                             Id = 2,
                             Author = "Second Author",
-                            DateAdded = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2025, 4, 21, 14, 17, 7, 939, DateTimeKind.Local).AddTicks(6054),
                             Description = "2nd book description",
                             Genre = "Biography",
                             Rate = 4,
