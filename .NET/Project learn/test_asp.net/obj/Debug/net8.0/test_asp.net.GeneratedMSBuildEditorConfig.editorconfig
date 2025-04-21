@@ -9,57 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = test_asp.net
 build_property.RootNamespace = test_asp.net
-build_property.ProjectDir = C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net\
+build_property.ProjectDir = C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_asp.net\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\code\BYORDEROFLIFE\.NET\Project learn\test_asp.net
+build_property.MSBuildProjectDirectory = C:\Codegym\BYORDEROFLIFE\.NET\Project learn\test_asp.net
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Contact.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Index.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Privacy.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/testMethod.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/testMethod.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0TWV0aG9kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/testModelBinding.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Home/testModelBinding.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXN0TW9kZWxCaW5kaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Product/Details.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/Error.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/_ViewImports.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/_ViewStart.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/_Layout.cshtml]
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/test_asp.net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u5q5i4ov9x
