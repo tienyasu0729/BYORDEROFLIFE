@@ -24,5 +24,10 @@ namespace test_Dbcontext_Web_API.Service
             });
             _context.SaveChanges();
         }
+
+        public List<Book> GetBook()
+        {
+            return _context.Books.ToList();
+        }
     }
 }

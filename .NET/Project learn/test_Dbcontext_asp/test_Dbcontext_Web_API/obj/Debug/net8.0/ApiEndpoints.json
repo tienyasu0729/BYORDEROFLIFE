@@ -16,6 +16,26 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "test_Dbcontext_Web_API.Controllers.BooksController",
+    "Method": "GetBook",
+    "RelativePath": "api/Books/get-book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[test_Dbcontext_asp.Models.Book, test_Dbcontext_asp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "test_Dbcontext_Web_API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "api/WeatherForecast",

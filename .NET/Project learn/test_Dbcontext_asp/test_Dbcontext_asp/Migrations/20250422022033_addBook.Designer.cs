@@ -12,8 +12,8 @@ using test_Dbcontext_asp.Data;
 namespace test_Dbcontext_asp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250421071709_addBookMigrations")]
-    partial class addBookMigrations
+    [Migration("20250422022033_addBook")]
+    partial class addBook
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -64,7 +64,7 @@ namespace test_Dbcontext_asp.Migrations
                         {
                             Id = 1,
                             Author = "First Author",
-                            DateAdded = new DateTime(2025, 4, 21, 14, 17, 7, 937, DateTimeKind.Local).AddTicks(495),
+                            DateAdded = new DateTime(2025, 4, 22, 9, 20, 33, 201, DateTimeKind.Local).AddTicks(4010),
                             Description = "1st book description",
                             Genre = "Biography",
                             Rate = 5,
@@ -74,7 +74,7 @@ namespace test_Dbcontext_asp.Migrations
                         {
                             Id = 2,
                             Author = "Second Author",
-                            DateAdded = new DateTime(2025, 4, 21, 14, 17, 7, 939, DateTimeKind.Local).AddTicks(6054),
+                            DateAdded = new DateTime(2025, 4, 22, 9, 20, 33, 202, DateTimeKind.Local).AddTicks(6721),
                             Description = "2nd book description",
                             Genre = "Biography",
                             Rate = 4,

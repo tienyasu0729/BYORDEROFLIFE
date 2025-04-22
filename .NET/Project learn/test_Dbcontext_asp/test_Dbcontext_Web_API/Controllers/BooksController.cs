@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using test_Dbcontext_asp.Models;
 using test_Dbcontext_Web_API.Models;
 using test_Dbcontext_Web_API.Service;
 
@@ -19,6 +20,12 @@ namespace test_Dbcontext_Web_API.Controllers
         {
             _bookService.AddBook(book);
             return Ok();
+        }
+
+        [HttpGet("get-book")]
+        public List<Book> GetBook()
+        {
+            return _bookService.GetBook();
         }
     }
 }

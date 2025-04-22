@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace test_Dbcontext_asp.Migrations
 {
     /// <inheritdoc />
-    public partial class addBookMigrations : Migration
+    public partial class addBook : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -36,8 +36,8 @@ namespace test_Dbcontext_asp.Migrations
                 columns: new[] { "Id", "Author", "DateAdded", "Description", "Genre", "Rate", "Title" },
                 values: new object[,]
                 {
-                    { 1, "First Author", new DateTime(2025, 4, 21, 14, 17, 7, 937, DateTimeKind.Local).AddTicks(495), "1st book description", "Biography", 5, "1st book title" },
-                    { 2, "Second Author", new DateTime(2025, 4, 21, 14, 17, 7, 939, DateTimeKind.Local).AddTicks(6054), "2nd book description", "Biography", 4, "2nd book title" }
+                    { 1, "First Author", new DateTime(2025, 4, 22, 9, 20, 33, 201, DateTimeKind.Local).AddTicks(4010), "1st book description", "Biography", 5, "1st book title" },
+                    { 2, "Second Author", new DateTime(2025, 4, 22, 9, 20, 33, 202, DateTimeKind.Local).AddTicks(6721), "2nd book description", "Biography", 4, "2nd book title" }
                 });
         }
 
