@@ -1,0 +1,4 @@
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_2_ASP_Dbcontext\test_2_ASP_Dbcontext\obj\Debug\net8.0\staticwebassets.build.json
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_2_ASP_Dbcontext\test_2_ASP_Dbcontext\obj\Debug\net8.0\staticwebassets.build.json
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_2_ASP_Dbcontext\test_2_ASP_Dbcontext\obj\Debug\net8.0\staticwebassets.build.json
+C:\code\BYORDEROFLIFE\.NET\Project learn\test_2_ASP_Dbcontext\test_2_ASP_Dbcontext\obj\Debug\net8.0\staticwebassets.build.json

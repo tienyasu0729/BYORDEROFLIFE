@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|solutionrelative:test_2_asp_dbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\models\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\models\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|solutionrelative:test_2_asp_dbcontext\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Program.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext\\Program.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Program.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:43:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:32:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:01:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Service\\BookService.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Service\\BookService.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Service\\BookService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:01:12.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookVm.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\BookVm.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Models\\BookVm.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\BookVm.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Models\\BookVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:59:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:56:31.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\appsettings.json",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\appsettings.json",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\appsettings.json",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T06:54:18.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext\\Models\\Book.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Models\\Book.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:53:08.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

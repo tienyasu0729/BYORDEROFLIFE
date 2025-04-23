@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\test_2_ASP_Dbcontext.props" />
+</Project>

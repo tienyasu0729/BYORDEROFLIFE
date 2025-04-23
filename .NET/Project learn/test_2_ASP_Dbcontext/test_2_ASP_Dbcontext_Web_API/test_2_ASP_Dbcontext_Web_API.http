@@ -1,0 +1,6 @@
+@test_2_ASP_Dbcontext_Web_API_HostAddress = http://localhost:5096
+
+GET {{test_2_ASP_Dbcontext_Web_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
