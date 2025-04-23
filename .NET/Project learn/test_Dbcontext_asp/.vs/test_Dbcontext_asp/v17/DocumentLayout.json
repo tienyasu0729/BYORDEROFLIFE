@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|solutionrelative:test_dbcontext_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_web_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|solutionrelative:test_dbcontext_web_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_web_api\\test_dbcontext_web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEDF6E88-92B6-4F4A-B3A1-9FA5673F854C}|test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj|solutionrelative:test_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|solutionrelative:test_dbcontext_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63536CDE-FB55-4793-920E-A0A1BE5C8CE1}|test_Dbcontext_asp\\test_Dbcontext_asp.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_dbcontext_asp\\test_dbcontext_asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,46 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\appsettings.Development.json",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\appsettings.Development.json",
-              "RelativeToolTip": "test_Dbcontext_Web_API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T09:20:14.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAaAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "test_Dbcontext_asp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "test_Dbcontext_asp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:26:48.291Z",
+              "WhenOpened": "2025-04-20T17:02:36.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "test_Dbcontext_Web_API.csproj",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
-              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
-              "RelativeToolTip": "test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-21T04:23:12.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Models\\Book.cs",
               "RelativeDocumentMoniker": "test_Dbcontext_asp\\Models\\Book.cs",
@@ -147,19 +121,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "test_Dbcontext_asp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "test_Dbcontext_asp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Program.cs",
+              "RelativeDocumentMoniker": "test_Dbcontext_asp\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Program.cs",
+              "RelativeToolTip": "test_Dbcontext_asp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:02:36.142Z",
+              "WhenOpened": "2025-04-20T17:29:34.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
+              "RelativeDocumentMoniker": "test_Dbcontext_asp\\appsettings.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
+              "RelativeToolTip": "test_Dbcontext_asp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T07:33:07.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\appsettings.Development.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\appsettings.Development.json",
+              "RelativeToolTip": "test_Dbcontext_Web_API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T09:20:14.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "test_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:26:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test_Dbcontext_Web_API.csproj",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
+              "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
+              "RelativeToolTip": "test_Dbcontext_Web_API\\test_Dbcontext_Web_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T04:23:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Service\\BookService.cs",
               "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Service\\BookService.cs",
@@ -167,12 +190,11 @@
               "RelativeToolTip": "test_Dbcontext_Web_API\\Service\\BookService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAIAwwAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:22:52.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T04:22:52.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Program.cs",
               "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Program.cs",
@@ -184,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\appsettings.json",
               "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\appsettings.json",
@@ -192,12 +214,11 @@
               "RelativeToolTip": "test_Dbcontext_Web_API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T07:06:47.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T07:06:47.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookVm.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Models\\BookVm.cs",
               "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Models\\BookVm.cs",
@@ -205,29 +226,11 @@
               "RelativeToolTip": "test_Dbcontext_Web_API\\Models\\BookVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:22:07.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "WhenOpened": "2025-04-21T04:22:07.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
-              "RelativeDocumentMoniker": "test_Dbcontext_asp\\appsettings.json",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\appsettings.json",
-              "RelativeToolTip": "test_Dbcontext_asp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T07:33:07.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_Web_API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "test_Dbcontext_Web_API\\Controllers\\WeatherForecastController.cs",
@@ -236,18 +239,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:09:08.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Program.cs",
-              "RelativeDocumentMoniker": "test_Dbcontext_asp\\Program.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_Dbcontext_asp\\test_Dbcontext_asp\\Program.cs",
-              "RelativeToolTip": "test_Dbcontext_asp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:29:34.21Z"
             },
             {
               "$type": "Document",
@@ -271,8 +262,7 @@
               "RelativeToolTip": "test_Dbcontext_asp\\test_Dbcontext_asp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-20T17:37:20.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:37:20.313Z"
             }
           ]
         }
