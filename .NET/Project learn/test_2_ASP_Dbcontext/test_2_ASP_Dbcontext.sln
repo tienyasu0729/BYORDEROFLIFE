@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_2_ASP_Dbcontext", "test_2_ASP_Dbcontext\test_2_ASP_Dbcontext.csproj", "{1734E5E2-F34B-49E2-9C24-E78F5544D816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_2_ASP_Dbcontext", "test_2_ASP_Dbcontext\test_2_ASP_Dbcontext.csproj", "{1734E5E2-F34B-49E2-9C24-E78F5544D816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_2_ASP_Dbcontext_Web_API", "test_2_ASP_Dbcontext_Web_API\test_2_ASP_Dbcontext_Web_API.csproj", "{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_2_ASP_Dbcontext_Web_API", "test_2_ASP_Dbcontext_Web_API\test_2_ASP_Dbcontext_Web_API.csproj", "{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_DBFirst_ASP", "test_DBFirst_ASP\test_DBFirst_ASP.csproj", "{804304DC-AD27-4D95-9531-80E8596C4C07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804304DC-AD27-4D95-9531-80E8596C4C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804304DC-AD27-4D95-9531-80E8596C4C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804304DC-AD27-4D95-9531-80E8596C4C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804304DC-AD27-4D95-9531-80E8596C4C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
