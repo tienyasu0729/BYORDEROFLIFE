@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\",
+  "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\models\\shopeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\models\\shopeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_asp.net_shopee_by_sql server\\shopee_by_sql server_asp.net\\shopee_by_sql server_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449A5155-9FF7-42DE-A546-8E0C22AAB5F8}|Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net.csproj|solutionrelative:shopee_by_sql server_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 518,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -57,51 +73,78 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShopeeContext.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\ShopeeContext.cs",
+              "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\Models\\ShopeeContext.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\ShopeeContext.cs",
+              "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\Models\\ShopeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:48:51.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:17:52.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
               "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
               "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\Models\\Area.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:17:48.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:17:48.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
               "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\Models\\Product.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:17:45.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:17:45.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Program.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Program.cs",
               "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\Program.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Program.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\Program.cs",
               "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,16 +152,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\appsettings.json",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\appsettings.json",
               "RelativeDocumentMoniker": "Shopee_by_SQl Server_ASP.Net\\appsettings.json",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\appsettings.json",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_asp.net_Shopee_by_SQl Server\\Shopee_by_SQl Server_ASP.Net\\Shopee_by_SQl Server_ASP.Net\\appsettings.json",
               "RelativeToolTip": "Shopee_by_SQl Server_ASP.Net\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T06:15:12.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T06:15:12.393Z"
             }
           ]
         }

@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -63,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\code\\byorderoflife\\.net\\project learn\\chill_computer-linh\\chill_computer-linh\\chill_computer-linh\\chill_computer\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -132,7 +132,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -188,31 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Chill_Computer\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:03:04.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VerifyEmailViewModel.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
-              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
-              "RelativeToolTip": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:34:44.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Chill_Computer\\appsettings.Development.json",
@@ -224,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_LoginPartial.cshtml",
@@ -236,13 +212,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Program.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Program.cs",
               "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Program.cs",
               "RelativeToolTip": "Chill_Computer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T18:27:47.522Z",
               "EditorCaption": ""
@@ -255,14 +231,64 @@
               "RelativeDocumentMoniker": "Chill_Computer\\Services\\AccountService.cs",
               "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\AccountService.cs",
               "RelativeToolTip": "Chill_Computer\\Services\\AccountService.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T18:21:45.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "ChillComputerContext.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\ChillComputerContext.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\ChillComputerContext.cs",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAqwMUBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:31:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:19:42.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "Chill_Computer\\ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:34:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:03:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Contacts\\IUserService.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\IUserService.cs",
@@ -274,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\Register.cshtml",
@@ -286,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",
@@ -298,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ChangePassWord.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\ChangePassWord.cshtml",
@@ -310,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\UserController.cs",
@@ -322,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Services\\UserService.cs",
@@ -334,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\RegisterViewModel.cs",
@@ -346,19 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccountViewModel.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
-              "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\AccountViewModel.cs",
-              "RelativeToolTip": "Chill_Computer\\ViewModels\\AccountViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:19:42.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\User\\Register.cshtml",
@@ -370,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ChangePassWordViewModel.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\ChangePassWordViewModel.cs",
@@ -382,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\Login.cshtml",
@@ -394,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\ViewModels\\LoginViewModel.cs",
@@ -406,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_AccountLayout.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_AccountLayout.cshtml",
@@ -418,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "VerifyEmail.cshtml",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Account\\VerifyEmail.cshtml",
@@ -430,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "account.css",
               "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\wwwroot\\css\\account.css",
               "RelativeDocumentMoniker": "Chill_Computer\\wwwroot\\css\\account.css",
@@ -439,18 +453,6 @@
               "ViewState": "AgIAACkAAAAAAAAAAAAQwFwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-08T20:03:20.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ChillComputerContext.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
-              "RelativeDocumentMoniker": "Chill_Computer\\Models\\ChillComputerContext.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer-Linh\\Chill_Computer\\Models\\ChillComputerContext.cs",
-              "RelativeToolTip": "Chill_Computer\\Models\\ChillComputerContext.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAwMUBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:31:40.088Z"
             },
             {
               "$type": "Document",

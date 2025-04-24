@@ -1,7 +1,7 @@
-﻿IF DB_ID('test_dbcontext') IS NULL
-    CREATE DATABASE test_dbcontext;
+﻿IF DB_ID('test_DBFirst_ASP') IS NULL
+    CREATE DATABASE test_DBFirst_ASP;
 GO
-USE test_dbcontext;
+USE test_DBFirst_ASP;
 GO
 
 -- Bảng main_account
