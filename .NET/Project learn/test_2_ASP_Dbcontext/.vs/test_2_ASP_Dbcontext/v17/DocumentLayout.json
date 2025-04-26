@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\",
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\models\\testdbfirstaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\models\\testdbfirstaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\models\\testdbfirstaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -26,15 +30,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -50,33 +46,17 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestDbfirstAspContext.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
               "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
               "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Models\\TestDbfirstAspContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T08:34:28.106Z",
               "EditorCaption": ""

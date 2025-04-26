@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_2_ASP_Dbcontext", "tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_2_ASP_Dbcontext_Web_API", "test_2_ASP_Dbcontext_Web_API\test_2_ASP_Dbcontext_Web_API.csproj", "{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_DBFirst_ASP", "test_DBFirst_ASP\test_DBFirst_ASP.csproj", "{804304DC-AD27-4D95-9531-80E8596C4C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_DBFirst_ASP", "test_DBFirst_ASP\test_DBFirst_ASP.csproj", "{804304DC-AD27-4D95-9531-80E8596C4C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tien_Chill_Project", "Tien_Chill_Project\Tien_Chill_Project.csproj", "{DB47297F-B336-42E6-917F-6054562EAA76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{804304DC-AD27-4D95-9531-80E8596C4C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804304DC-AD27-4D95-9531-80E8596C4C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804304DC-AD27-4D95-9531-80E8596C4C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB47297F-B336-42E6-917F-6054562EAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB47297F-B336-42E6-917F-6054562EAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB47297F-B336-42E6-917F-6054562EAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB47297F-B336-42E6-917F-6054562EAA76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
