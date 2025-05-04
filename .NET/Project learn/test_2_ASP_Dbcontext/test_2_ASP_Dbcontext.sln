@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_DBFirst_ASP", "test_DB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tien_Chill_Project", "Tien_Chill_Project\Tien_Chill_Project.csproj", "{DB47297F-B336-42E6-917F-6054562EAA76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chill_Project", "Chill_Project\Chill_Project.csproj", "{570FAAB5-0E75-46D8-A093-FA113E379162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DB47297F-B336-42E6-917F-6054562EAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB47297F-B336-42E6-917F-6054562EAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB47297F-B336-42E6-917F-6054562EAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570FAAB5-0E75-46D8-A093-FA113E379162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570FAAB5-0E75-46D8-A093-FA113E379162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570FAAB5-0E75-46D8-A093-FA113E379162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570FAAB5-0E75-46D8-A093-FA113E379162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
