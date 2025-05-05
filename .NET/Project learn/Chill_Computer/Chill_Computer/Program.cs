@@ -18,6 +18,9 @@ namespace Chill_Computer
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'Chill_Computer' not found"))
             );
 
+            builder.Services.AddScoped<INewsRepository, NewsRepository>();
+
+
             builder.Services.AddScoped<IProductTypeRepository, ProductTypeRepository>();
             builder.Services.AddScoped<IProductTypeFilterRepository, ProductTypeFilterRepository>();
             builder.Services.AddScoped<IFilterCategoryRepository, FilterCategoryRepository>();
