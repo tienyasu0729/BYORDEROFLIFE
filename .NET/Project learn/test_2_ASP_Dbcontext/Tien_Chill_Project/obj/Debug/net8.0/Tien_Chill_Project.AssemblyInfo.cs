@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tien_Chill_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90b5ebe6b9511ba019398d1f98f21167943a4f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a5f780b46df10b537c6d9d303899f8591e10553")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tien_Chill_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tien_Chill_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

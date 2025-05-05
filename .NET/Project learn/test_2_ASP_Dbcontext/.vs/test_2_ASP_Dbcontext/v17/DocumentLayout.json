@@ -1,13 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\",
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\tien_chill_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|solutionrelative:tien_chill_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\tien_chill_project\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|solutionrelative:tien_chill_project\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\tien_chill_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|solutionrelative:tien_chill_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804304DC-AD27-4D95-9531-80E8596C4C07}|test_DBFirst_ASP\\test_DBFirst_ASP.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_dbfirst_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804304DC-AD27-4D95-9531-80E8596C4C07}|test_DBFirst_ASP\\test_DBFirst_ASP.csproj|solutionrelative:test_dbfirst_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734E5E2-F34B-49E2-9C24-E78F5544D816}|test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext.csproj|solutionrelative:test_2_asp_dbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\tien_chill_project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB47297F-B336-42E6-917F-6054562EAA76}|Tien_Chill_Project\\Tien_Chill_Project.csproj|solutionrelative:tien_chill_project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\test_2_asp_dbcontext_web_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2150EA-7B63-4AA8-AAC5-8BF88699DD43}|test_2_ASP_Dbcontext_Web_API\\test_2_ASP_Dbcontext_Web_API.csproj|solutionrelative:test_2_asp_dbcontext_web_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\models\\chillcomputercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\models\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\code\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\test_2_asp_dbcontext\\chill_project\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570FAAB5-0E75-46D8-A093-FA113E379162}|Chill_Project\\Chill_Project.csproj|solutionrelative:chill_project\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +70,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChillComputerContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Models\\ChillComputerContext.cs",
+              "RelativeDocumentMoniker": "Tien_Chill_Project\\Models\\ChillComputerContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Models\\ChillComputerContext.cs",
+              "RelativeToolTip": "Tien_Chill_Project\\Models\\ChillComputerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:37:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:37:11.847Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -30,11 +108,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -49,49 +123,164 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_DBFirst_ASP\\Program.cs",
+              "RelativeDocumentMoniker": "test_DBFirst_ASP\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_DBFirst_ASP\\Program.cs",
+              "RelativeToolTip": "test_DBFirst_ASP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:31:44.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NewsCategory.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\NewsCategory.cs",
-              "RelativeDocumentMoniker": "Chill_Project\\Models\\NewsCategory.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\NewsCategory.cs",
-              "RelativeToolTip": "Chill_Project\\Models\\NewsCategory.cs",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Program.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext\\Program.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T17:30:32.281Z",
+              "WhenOpened": "2025-05-04T15:31:36.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:31:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Chill_Project\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Program.cs",
+              "RelativeToolTip": "Chill_Project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:31:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Tien_Chill_Project\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Program.cs",
+              "RelativeToolTip": "Tien_Chill_Project\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:31:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Tien_Chill_Project\\Models\\Account.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\Models\\Account.cs",
+              "RelativeToolTip": "Tien_Chill_Project\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:26:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Chill_Project\\appsettings.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\appsettings.json",
+              "RelativeToolTip": "Chill_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T15:15:51.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Tien_Chill_Project\\appsettings.json",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Tien_Chill_Project\\appsettings.json",
+              "RelativeToolTip": "Tien_Chill_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T15:15:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "test_2_ASP_Dbcontext_Web_API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:07:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChillComputerContext.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\ChillComputerContext.cs",
+              "RelativeDocumentMoniker": "Chill_Project\\Models\\ChillComputerContext.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\ChillComputerContext.cs",
+              "RelativeToolTip": "Chill_Project\\Models\\ChillComputerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:06:54.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Chill_Project\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\CartItem.cs",
+              "RelativeToolTip": "Chill_Project\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:06:40.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewsCategory.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\NewsCategory.cs",
+              "RelativeDocumentMoniker": "Chill_Project\\Models\\NewsCategory.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\NewsCategory.cs",
+              "RelativeToolTip": "Chill_Project\\Models\\NewsCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:30:32.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "News.cs",
-              "DocumentMoniker": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\News.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\News.cs",
               "RelativeDocumentMoniker": "Chill_Project\\Models\\News.cs",
-              "ToolTip": "C:\\code\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\News.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\test_2_ASP_Dbcontext\\Chill_Project\\Models\\News.cs",
               "RelativeToolTip": "Chill_Project\\Models\\News.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

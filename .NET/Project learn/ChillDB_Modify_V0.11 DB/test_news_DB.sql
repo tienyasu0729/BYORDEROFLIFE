@@ -30,3 +30,23 @@ CREATE TABLE News (
     FOREIGN KEY (ApprovedBy) REFERENCES Account(UserName),
     FOREIGN KEY (Category_Id) REFERENCES NewsCategory(Category_Id)
 );
+
+-- dữ liệu news category
+
+INSERT INTO NewsCategory (Category_Name, Parent_Id)
+VALUES
+('Tin tức công nghệ', NULL),  -- Chuyên mục cấp cao, không có Parent_Id
+('Phần mềm', 1),              -- Chuyên mục con, thuộc Tin tức công nghệ (Category_Id = 1)
+('Phần cứng', 1),             -- Chuyên mục con, thuộc Tin tức công nghệ (Category_Id = 1)
+('Tin tức giải trí', NULL),   -- Chuyên mục cấp cao, không có Parent_Id
+('Âm nhạc', 4);              -- Chuyên mục con, thuộc Tin tức giải trí (Category_Id = 4)
+
+-- dữ liệu bảng news
+
+INSERT INTO News (Title, Slug, Summary, Content, Thumbnail, Author_UserName, Category_Id, ApprovalStatus, ApprovedBy, ApprovalDate)
+VALUES
+('Tiêu đề bài viết 1', 'tieu-de-bai-viet-1', 'Đây là mô tả ngắn của bài viết 1.', '<p>Nội dung chi tiết của bài viết 1.</p>', '/path/to/thumbnail1.jpg', 'employee1', 1, 'Approved', 'admin1', '2025-05-05 10:00:00'),
+
+('Tiêu đề bài viết 2', 'tieu-de-bai-viet-2', 'Đây là mô tả ngắn của bài viết 2.', '<p>Nội dung chi tiết của bài viết 2.</p>', '/path/to/thumbnail2.jpg', 'employee2', 2, 'Pending', 'admin1', NULL),
+
+('Tiêu đề bài viết 3', 'tieu-de-bai-viet-3', 'Đây là mô tả ngắn của bài viết 3.', '<p>Nội dung chi tiết của bài viết 3.</p>', '/path/to/thumbnail3.jpg', 'employee1', NULL, 'Pending', 'admin1', NULL);

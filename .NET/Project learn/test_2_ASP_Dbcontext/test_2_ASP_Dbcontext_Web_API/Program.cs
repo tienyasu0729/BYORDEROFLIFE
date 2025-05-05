@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<BookService>();
 
-// Này là theo slide, đã được sửa lại và hoạt động ok
+// Này là theo slide, đã được sửa lại và hoạt động ok, này để tiêm kết nối asp với sql server
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>

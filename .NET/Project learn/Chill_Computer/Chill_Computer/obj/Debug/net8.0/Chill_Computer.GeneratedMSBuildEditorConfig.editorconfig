@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Chill_Computer
+build_property.RootNamespace = Chill_Computer
+build_property.ProjectDir = C:\Codegym\BYORDEROFLIFE\.NET\Project learn\Chill_Computer\Chill_Computer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Codegym\BYORDEROFLIFE\.NET\Project learn\Chill_Computer\Chill_Computer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/AddNewArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTmV3QXJ0aWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/GetAllNewsApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QWxsTmV3c0FwcHJvdmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/ManageAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/ManageInventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlSW52ZW50b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/ManageOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Admin/ManagerNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlck5ld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Blog/BlogPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/BuildPC/BuildPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRQQ1xCdWlsZFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Cart/CartPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Product/ProductDetailPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlsUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Product/ProductListPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/LayoutAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Partials/_CartButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9DYXJ0QnV0dG9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Partials/_CartPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9DYXJ0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Partials/_FilterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9GaWx0ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Partials/_MenuView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9NZW51Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/Partials/_ProductListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9Qcm9kdWN0TGlzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Codegym/BYORDEROFLIFE/.NET/Project learn/Chill_Computer/Chill_Computer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k5c7lwxesu

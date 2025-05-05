@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tien_Chill_Project.props" />
+</Project>

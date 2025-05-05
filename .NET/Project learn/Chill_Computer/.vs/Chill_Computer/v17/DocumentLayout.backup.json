@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\views\\admin\\getallnewsapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\admin\\getallnewsapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\models\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllNewsApproval.cshtml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Admin\\GetAllNewsApproval.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Admin\\GetAllNewsApproval.cshtml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Admin\\GetAllNewsApproval.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Admin\\GetAllNewsApproval.cshtml",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAAAMwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T03:26:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Chill_Computer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:15:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T02:08:13.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e90b470b-c67b-43f8-bf96-918005e436d7",
+        "Display": 1,
+        "X": 159,
+        "Y": 178,
+        "Width": 1507,
+        "Height": 681,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\News.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\News.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:27:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\Account.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\Account.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:26:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsCategory.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\NewsCategory.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Models\\NewsCategory.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Models\\NewsCategory.cs",
+              "RelativeToolTip": "Chill_Computer\\Models\\NewsCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:27:59.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
