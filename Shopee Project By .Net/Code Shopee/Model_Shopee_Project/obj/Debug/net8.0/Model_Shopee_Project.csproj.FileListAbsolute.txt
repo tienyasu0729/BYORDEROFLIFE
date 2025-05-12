@@ -1,0 +1,15 @@
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\bin\Debug\net8.0\Model_Shopee_Project.deps.json
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\bin\Debug\net8.0\Model_Shopee_Project.dll
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\bin\Debug\net8.0\Model_Shopee_Project.pdb
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.AssemblyInfoInputs.cache
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.AssemblyInfo.cs
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.csproj.CoreCompileInputs.cache
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.sourcelink.json
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.dll
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\refint\Model_Shopee_Project.dll
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.pdb
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\ref\Model_Shopee_Project.dll
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\bin\Debug\net8.0\Model_Shopee_Project.runtimeconfig.json
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.csproj.AssemblyReference.cache
+C:\Codegym\BYORDEROFLIFE\Shopee Project By .Net\Code Shopee\Model_Shopee_Project\obj\Debug\net8.0\Model_Shopee_Project.genruntimeconfig.cache

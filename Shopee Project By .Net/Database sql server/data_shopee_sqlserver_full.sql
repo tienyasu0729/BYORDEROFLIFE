@@ -69,7 +69,7 @@ INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_a
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0872341098', N'Pass12345', N'liam.king58@gmail.com\n', N'GreenLife Organics\n', N'16');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0933452109', N'Pass12345', N'mia.harris72@gmail.com\n', N'Beauty Bliss\n', N'21');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0904563210', N'Pass12345', N'nathan.walker91@gmail.com\n', N'Trendy Footwear\n', N'22');
-INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0875674321', N'Pass12345', N'olivia.hall29@gmail.com\n', N'Elegant Accessories\n', N'23');
+INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0875674321', N'Pass12345', N'olivia.hall29@gmail.com', N'Elegant Accessories', N'23');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0936785432', N'Pass12345', N'paul.allen67@gmail.com\n', N'Happy Kids Store\n', N'24');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0907896543', N'Pass12345', N'quincy.young84@gmail.com\n', N'Cozy Home Decor\n', N'25');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0878907654', N'Pass12345', N'rachel.hernandez30@gmail.com\n', N'Luxe Watches\n', N'26');
@@ -83,7 +83,7 @@ INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_a
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0906789012', N'Pass12345', N'zachary.moore74@gmail.com\n', N'Modern Office\n', N'6');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name, id_main_account) VALUES (N'0877890123', N'Pass12345', N'amelia.carter38@gmail.com\n', N'Glamour Glitz\n', N'11');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0938901234', N'Pass12345', N'charlotte.davis84@gmail.com\n', N'Culinary Delights\n');
-INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0909012345', N'Pass12345', N'benjamin.hughes21@gmail.com\n', N'Zen Garden Supplies\n');
+INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0909012345', N'Pass12345', N'benjamin.hughes21@gmail.com', N'Zen Garden Supplies');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0870123456', N'Pass12345', N'daniel.lee56@gmail.com\n', N'Cozy Knitwear\n');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0321234567', N'Pass12345', N'eleanor.scott93@gmail.com\n', N'Outdoor Adventures\n');
 INSERT INTO shopee.dbo.shop (phone_number, password, email, shop_name) VALUES (N'0332345678', N'Pass12345', N'finn.evans60@gmail.com\n', N'Simply Stylish\n');
@@ -364,6 +364,9 @@ INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Dụng cụ
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Dụng cụ tẩy lông', N'144');
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Dụng cụ chăm sóc tóc', N'144');
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Khác', N'144');
+
+SET IDENTITY_INSERT shopee.dbo.category ON;
+
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'224', N'Khác', N'218');
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'225', N'Bông tẩy trang', N'218');
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'226', N'Túi đựng đồ trang điểm', N'218');
@@ -399,6 +402,9 @@ INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'256', N'Giấy thấm dầu', N'145');
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'257', N'Sản phẩm trị mụn', N'145');
 INSERT INTO shopee.dbo.category (id_category, name_category, id_parent) VALUES (N'258', N'Khác', N'145');
+
+SET IDENTITY_INSERT shopee.dbo.category OFF;
+
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Xà phòng & sữa tắm', N'148');
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Tẩy tế bào chết cơ thể', N'148');
 INSERT INTO shopee.dbo.category (name_category, id_parent) VALUES (N'Mặt nạ ủ cơ thể', N'148');
