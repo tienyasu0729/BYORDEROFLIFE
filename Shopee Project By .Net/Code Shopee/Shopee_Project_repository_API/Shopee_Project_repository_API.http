@@ -1,6 +1,0 @@
-@Shopee_Project_repository_API_HostAddress = http://localhost:5160
-
-GET {{Shopee_Project_repository_API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

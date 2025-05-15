@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Interface_Shopee_Project\Interface_Shopee_Project.csproj" />
     <ProjectReference Include="..\Model_Shopee_Project\Model_Shopee_Project.csproj" />
   </ItemGroup>
 

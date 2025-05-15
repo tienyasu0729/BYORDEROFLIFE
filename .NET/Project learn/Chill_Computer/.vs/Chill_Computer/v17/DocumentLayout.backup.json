@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\",
+  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\contacts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\views\\shared\\partials\\_menuview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\partials\\_menuview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\services\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\contacts\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\views\\news\\readnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\news\\readnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\contacts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\contacts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\views\\shared\\partials\\_menuview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\partials\\_menuview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\services\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\contacts\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\views\\news\\readnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\news\\readnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\users\\tienn\\downloads\\chill_computer\\chill_computer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -73,32 +81,25 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\ICartItemRepository.cs",
+              "RelativeToolTip": "Chill_Computer\\Contacts\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:22:31.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Services\\NewsRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Services\\NewsRepository.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Services\\NewsRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\NewsRepository.cs",
               "RelativeToolTip": "Chill_Computer\\Services\\NewsRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_MenuView.cshtml",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
               "RelativeToolTip": "Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -118,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ReadNew.cshtml",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\News\\ReadNew.cshtml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\News\\ReadNew.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\News\\ReadNew.cshtml",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\News\\ReadNew.cshtml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\News\\ReadNew.cshtml",
               "RelativeToolTip": "Chill_Computer\\Views\\News\\ReadNew.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -130,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Controllers\\NewsController.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Controllers\\NewsController.cs",
               "RelativeToolTip": "Chill_Computer\\Controllers\\NewsController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAWwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "INewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Contacts\\INewsRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\INewsRepository.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\INewsRepository.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Contacts\\INewsRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\INewsRepository.cs",
               "RelativeToolTip": "Chill_Computer\\Contacts\\INewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,36 +155,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Contacts\\IAccountService.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\IAccountService.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Contacts\\IAccountService.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\IAccountService.cs",
               "RelativeToolTip": "Chill_Computer\\Contacts\\IAccountService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T05:55:39.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Services\\AccountService.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\AccountService.cs",
               "RelativeToolTip": "Chill_Computer\\Services\\AccountService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T06:25:13.609Z"
+              "WhenOpened": "2025-05-05T06:25:13.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Program.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Program.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Program.cs",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Program.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Program.cs",
               "RelativeToolTip": "Chill_Computer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tienn\\Downloads\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAALcAAAAAAAAAAAAAAPAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

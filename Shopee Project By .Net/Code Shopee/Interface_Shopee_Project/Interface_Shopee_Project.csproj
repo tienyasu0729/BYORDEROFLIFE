@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model_Shopee_Project\Model_Shopee_Project.csproj" />
+  </ItemGroup>
+
 </Project>

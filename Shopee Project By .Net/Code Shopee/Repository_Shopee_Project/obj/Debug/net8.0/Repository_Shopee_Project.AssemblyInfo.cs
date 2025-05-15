@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repository_Shopee_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d46d70b62b1ec3c599951a6088126643a7d13257")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e428f78acfc689b74027498514301483bf0658")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repository_Shopee_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repository_Shopee_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
