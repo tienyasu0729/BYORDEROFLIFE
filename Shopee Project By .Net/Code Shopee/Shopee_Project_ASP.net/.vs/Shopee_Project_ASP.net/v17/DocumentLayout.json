@@ -9,6 +9,9 @@
       "AbsoluteMoniker": "D:0:0:{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}|..\\Interface_Shopee_Project\\Interface_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\interface_shopee_project\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8458ACE4-06CC-4D9E-B9DD-0EBE5FE0BC6A}|..\\Model_Shopee_Project\\Model_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\model_shopee_project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE463178-2556-4D3A-8924-4DA7B6206F1E}|..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\repository_shopee_project\\repository_shopee_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -25,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,13 +60,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "..\\Model_Shopee_Project\\Models\\Area.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
+              "RelativeToolTip": "..\\Model_Shopee_Project\\Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:34:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AreaRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
               "RelativeDocumentMoniker": "..\\Repository_Shopee_Project\\AreaRepository.cs",
               "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
               "RelativeToolTip": "..\\Repository_Shopee_Project\\AreaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:20:09.027Z",
               "EditorCaption": ""
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Repository_Shopee_Project.csproj",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
               "RelativeDocumentMoniker": "..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\ViewModel_Shopee_Project\\Class1.cs",
               "RelativeDocumentMoniker": "..\\ViewModel_Shopee_Project\\Class1.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Service_Shopee_Project\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Service_Shopee_Project\\Class1.cs",

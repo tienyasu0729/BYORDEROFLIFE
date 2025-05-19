@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|c:\\codegym\\byorderoflife\\.net\\project learn\\chill_computer\\chill_computer\\contacts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78370C5D-C596-4715-814D-C14E9FE8C54B}|Chill_Computer\\Chill_Computer.csproj|solutionrelative:chill_computer\\contacts\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +87,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Chill_Computer\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "Chill_Computer\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:21:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ICartItemRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\ICartItemRepository.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\ICartItemRepository.cs",
@@ -90,12 +107,11 @@
               "RelativeToolTip": "Chill_Computer\\Contacts\\ICartItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:22:31.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T18:22:31.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Services\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Services\\NewsRepository.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_MenuView.cshtml",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\Partials\\_MenuView.cshtml",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReadNew.cshtml",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\News\\ReadNew.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\News\\ReadNew.cshtml",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Controllers\\NewsController.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "INewsRepository.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\INewsRepository.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\INewsRepository.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Contacts\\IAccountService.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Contacts\\IAccountService.cs",
@@ -163,8 +179,7 @@
               "RelativeToolTip": "Chill_Computer\\Contacts\\IAccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:55:39.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T05:55:39.573Z"
             },
             {
               "$type": "Document",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Program.cs",
               "RelativeDocumentMoniker": "Chill_Computer\\Program.cs",
@@ -193,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Chill_Computer\\Views\\Shared\\_Layout.cshtml",

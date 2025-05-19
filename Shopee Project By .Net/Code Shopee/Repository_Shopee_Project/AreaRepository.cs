@@ -11,25 +11,30 @@ namespace Repository_Shopee_Project
     public class AreaRepository : ICRUD<Area>
     {
         private readonly ShopeeContext _context;
-
+        public AreaRepository(ShopeeContext context)
+        {
+            _context = context;
+        }
         public void Add(Area entity)
         {
-            throw new NotImplementedException();
+            _context.Areas.Add(entity);
+            SaveChanges();
         }
 
         public void Delete(Area entity)
         {
-            throw new NotImplementedException();
+            _context.Areas.Remove(entity);
+            SaveChanges();
         }
 
         public List<Area> GetAll()
         {
-            throw new NotImplementedException();
+            return _context.Areas.ToList();
         }
 
         public Area GetById(int id)
         {
-            throw new NotImplementedException();
+            return _context.Areas.FirstOrDefault(a => a.AreaId == id);
         }
 
         public Area GetByName(string name)
