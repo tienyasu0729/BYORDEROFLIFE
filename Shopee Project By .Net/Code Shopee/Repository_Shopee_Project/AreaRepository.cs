@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Azure.Core.HttpHeader;
 
 namespace Repository_Shopee_Project
 {
@@ -27,6 +28,45 @@ namespace Repository_Shopee_Project
             SaveChanges();
         }
 
+        public void DeleteAll()
+        {
+            _context.Areas.RemoveRange(_context.Areas);
+            SaveChanges();
+        }
+        
+        // Có thể thay bằng câu lệnh sql thuần ( tìm hiểu lý do không nên sử dụng lắm )
+        public void DeleteByID(int id)
+        {
+            var area = GetById(id);
+            if (area != null)
+            {
+                Delete(area);
+            }
+        }
+
+        public void DeleteByName(string name)
+        {
+            var area = GetByName(name);
+            if (area != null)
+            {
+                Delete(area);
+            }
+        }
+
+        public void DeleteOfChooseID(int[] ids)
+        {
+            var areas = _context.Areas.Where(a => ids.Contains(a.AreaId)).ToList();
+            _context.Areas.RemoveRange(areas);
+            SaveChanges();
+        }
+
+        public void DeleteOfChooseName(String[] names)
+        {
+            var areas = _context.Areas.Where(a => names.Contains(a.NameArea)).ToList();
+            _context.Areas.RemoveRange(areas);
+            SaveChanges();
+        }
+
         public List<Area> GetAll()
         {
             return _context.Areas.ToList();
@@ -39,17 +79,25 @@ namespace Repository_Shopee_Project
 
         public Area GetByName(string name)
         {
-            throw new NotImplementedException();
+            return _context.Areas.FirstOrDefault(a => a.NameArea == name);
+        }
+
+        public List<Area> GetListByName(string name)
+        {
+            return _context.Areas
+                                   .Where(a => a.NameArea.Contains(name))
+                                   .ToList();
         }
 
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
 
         public void Update(Area entity)
         {
-            throw new NotImplementedException();
+            _context.Areas.Update(entity);
+            SaveChanges();
         }
     }
 }

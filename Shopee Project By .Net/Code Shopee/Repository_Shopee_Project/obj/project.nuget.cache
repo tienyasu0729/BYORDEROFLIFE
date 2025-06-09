@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXx2xmgUDOc=",
+  "dgSpecHash": "eGtTdfvQ3SE=",
   "success": true,
-  "projectFilePath": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
+  "projectFilePath": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tienn\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Tienn\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

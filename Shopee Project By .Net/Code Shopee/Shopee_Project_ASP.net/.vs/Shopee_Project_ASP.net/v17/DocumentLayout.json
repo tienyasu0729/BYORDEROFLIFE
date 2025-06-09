@@ -1,24 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Shopee_Project_ASP.net\\",
+  "WorkspaceRootPath": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Shopee_Project_ASP.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE463178-2556-4D3A-8924-4DA7B6206F1E}|..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\repository_shopee_project\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}|..\\MainTest\\MainTest.csproj|d:\\code\\byorderoflife\\shopee project by .net\\code shopee\\maintest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}|..\\Interface_Shopee_Project\\Interface_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\interface_shopee_project\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE463178-2556-4D3A-8924-4DA7B6206F1E}|..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj|d:\\code\\byorderoflife\\shopee project by .net\\code shopee\\repository_shopee_project\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8458ACE4-06CC-4D9E-B9DD-0EBE5FE0BC6A}|..\\Model_Shopee_Project\\Model_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\model_shopee_project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8458ACE4-06CC-4D9E-B9DD-0EBE5FE0BC6A}|..\\Model_Shopee_Project\\Model_Shopee_Project.csproj|d:\\code\\byorderoflife\\shopee project by .net\\code shopee\\model_shopee_project\\models\\shopeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE463178-2556-4D3A-8924-4DA7B6206F1E}|..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\repository_shopee_project\\repository_shopee_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}|..\\Interface_Shopee_Project\\Interface_Shopee_Project.csproj|d:\\code\\byorderoflife\\shopee project by .net\\code shopee\\interface_shopee_project\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D24E56-6748-4CB7-BA6F-5841AFE7A5EC}|..\\ViewModel_Shopee_Project\\ViewModel_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\viewmodel_shopee_project\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{003D39CB-FD32-4AC2-81A5-D51F82142FD7}|..\\Service_Shopee_Project\\Service_Shopee_Project.csproj|c:\\codegym\\byorderoflife\\shopee project by .net\\code shopee\\service_shopee_project\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8458ACE4-06CC-4D9E-B9DD-0EBE5FE0BC6A}|..\\Model_Shopee_Project\\Model_Shopee_Project.csproj|d:\\code\\byorderoflife\\shopee project by .net\\code shopee\\model_shopee_project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,83 +52,68 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopeeContext.cs",
+              "DocumentMoniker": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\ShopeeContext.cs",
+              "RelativeDocumentMoniker": "..\\Model_Shopee_Project\\Models\\ShopeeContext.cs",
+              "ToolTip": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\ShopeeContext.cs",
+              "RelativeToolTip": "..\\Model_Shopee_Project\\Models\\ShopeeContext.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAxwHEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:53:04.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
+              "DocumentMoniker": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
               "RelativeDocumentMoniker": "..\\Model_Shopee_Project\\Models\\Area.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
+              "ToolTip": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Model_Shopee_Project\\Models\\Area.cs",
               "RelativeToolTip": "..\\Model_Shopee_Project\\Models\\Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:34:16.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T06:11:39.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AreaRepository.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository_Shopee_Project\\AreaRepository.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
-              "RelativeToolTip": "..\\Repository_Shopee_Project\\AreaRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\MainTest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MainTest\\Program.cs",
+              "ToolTip": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\MainTest\\Program.cs",
+              "RelativeToolTip": "..\\MainTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:20:09.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICRUD.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Interface_Shopee_Project\\ICRUD.cs",
-              "RelativeDocumentMoniker": "..\\Interface_Shopee_Project\\ICRUD.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Interface_Shopee_Project\\ICRUD.cs",
-              "RelativeToolTip": "..\\Interface_Shopee_Project\\ICRUD.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:46:24.08Z",
+              "WhenOpened": "2025-06-06T03:52:02.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Repository_Shopee_Project.csproj",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
-              "RelativeDocumentMoniker": "..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
-              "RelativeToolTip": "..\\Repository_Shopee_Project\\Repository_Shopee_Project.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T17:35:08.926Z"
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Interface_Shopee_Project\\ICRUD.cs",
+              "RelativeDocumentMoniker": "..\\Interface_Shopee_Project\\ICRUD.cs",
+              "ToolTip": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Interface_Shopee_Project\\ICRUD.cs",
+              "RelativeToolTip": "..\\Interface_Shopee_Project\\ICRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:43:56.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\ViewModel_Shopee_Project\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\ViewModel_Shopee_Project\\Class1.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\ViewModel_Shopee_Project\\Class1.cs",
-              "RelativeToolTip": "..\\ViewModel_Shopee_Project\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AreaRepository.cs",
+              "DocumentMoniker": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository_Shopee_Project\\AreaRepository.cs",
+              "ToolTip": "D:\\Code\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Repository_Shopee_Project\\AreaRepository.cs",
+              "RelativeToolTip": "..\\Repository_Shopee_Project\\AreaRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:34:22.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Service_Shopee_Project\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Service_Shopee_Project\\Class1.cs",
-              "ToolTip": "C:\\Codegym\\BYORDEROFLIFE\\Shopee Project By .Net\\Code Shopee\\Service_Shopee_Project\\Class1.cs",
-              "RelativeToolTip": "..\\Service_Shopee_Project\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:33:14.385Z"
+              "WhenOpened": "2025-05-19T04:26:39.5Z",
+              "EditorCaption": ""
             }
           ]
         }

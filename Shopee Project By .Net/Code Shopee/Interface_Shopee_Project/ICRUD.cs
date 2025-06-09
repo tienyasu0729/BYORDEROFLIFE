@@ -12,9 +12,15 @@ namespace Interface_Shopee_Project
         List<T> GetAll();
         T GetById(int id);
         T GetByName( String name );
+        List<T> GetListByName( String name );
         void Add( T entity );
         void Update( T entity );
         void Delete( T entity );
+        void DeleteByID( int id );
+        void DeleteByName( String name );
+        void DeleteAll();
+        void DeleteOfChooseID(int[] ids);
+        void DeleteOfChooseName(String[] names);
         void SaveChanges();
     }
 }

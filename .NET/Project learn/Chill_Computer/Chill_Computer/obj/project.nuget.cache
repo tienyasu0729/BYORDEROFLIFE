@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuXk4AZ7U1g=",
+  "dgSpecHash": "z/PgkRn5Xeo=",
   "success": true,
-  "projectFilePath": "C:\\Codegym\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Chill_Computer.csproj",
+  "projectFilePath": "D:\\Code\\BYORDEROFLIFE\\.NET\\Project learn\\Chill_Computer\\Chill_Computer\\Chill_Computer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tienn\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Tienn\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

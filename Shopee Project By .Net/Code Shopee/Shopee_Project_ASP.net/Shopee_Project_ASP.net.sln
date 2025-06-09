@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel_Shopee_Project", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Shopee_Project", "..\Interface_Shopee_Project\Interface_Shopee_Project.csproj", "{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainTest", "..\MainTest\MainTest.csproj", "{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4C3805-FC76-4FB7-9EFA-93F733935CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8CDA4-6A59-4555-BFCF-6D08DD5884F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
