@@ -1,0 +1,60 @@
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN222\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

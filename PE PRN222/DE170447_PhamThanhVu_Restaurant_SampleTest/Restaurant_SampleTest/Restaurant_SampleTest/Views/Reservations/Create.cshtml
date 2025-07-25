@@ -1,0 +1,63 @@
+﻿@model Restaurant_SampleTest.Models.Reservation
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Reservation</h1>
+
+<h4>Reservation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <!-- Table: Dropdown để chọn bàn -->
+            <div class="form-group">
+                <label asp-for="TableID" class="control-label">Select Table</label>
+                <select asp-for="TableID" class="form-control" asp-items="ViewBag.Tables" required>
+                    <option value="">-- Select a Table --</option>
+                </select>
+                <span asp-validation-for="TableID" class="text-danger"></span>
+            </div>
+
+            <!-- ReservationDate: Chọn ngày và giờ -->
+            <div class="form-group">
+                <label asp-for="ReservationDate" class="control-label">Reservation Date</label>
+                <input asp-for="ReservationDate" class="form-control" type="datetime-local" required />
+                <span asp-validation-for="ReservationDate" class="text-danger"></span>
+            </div>
+
+            <!-- Status: Tự động gán trạng thái ban đầu là "Pending" -->
+            <div class="form-group" style="display:none;">
+                <label asp-for="Status" class="control-label">Status</label>
+                <input asp-for="Status" class="form-control" value="Pending" readonly />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <!-- CreatedAt: Tự động gán thời gian tạo -->
+            <div class="form-group" style="display:none;">
+                <label asp-for="CreatedAt" class="control-label">Created At</label>
+                <input asp-for="CreatedAt" class="form-control" value="@DateTime.Now" readonly />
+                <span asp-validation-for="CreatedAt" class="text-danger"></span>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="form-group">
+                <input type="submit" value="Create Reservation" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SP25_PRN222_BL3/1.0.0": {
+        "runtime": {
+          "SP25_PRN222_BL3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP25_PRN222_BL3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

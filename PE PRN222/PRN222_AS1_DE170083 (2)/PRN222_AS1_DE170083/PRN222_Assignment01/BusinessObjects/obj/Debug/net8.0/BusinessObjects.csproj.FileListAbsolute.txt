@@ -1,0 +1,42 @@
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_Assignment01\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\Chuyen Nganh 7\PRN222\PRN222_AS1_DE170083\PRN222_Assignment01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

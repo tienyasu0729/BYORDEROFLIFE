@@ -1,0 +1,14 @@
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.csproj.AssemblyReference.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.AssemblyInfoInputs.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.AssemblyInfo.cs
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.csproj.CoreCompileInputs.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\bin\Debug\net8.0\ReutanrantBusiness.deps.json
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\bin\Debug\net8.0\ReutanrantBusiness.runtimeconfig.json
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\bin\Debug\net8.0\ReutanrantBusiness.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\bin\Debug\net8.0\ReutanrantBusiness.pdb
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\refint\ReutanrantBusiness.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.pdb
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ReutanrantBusiness.genruntimeconfig.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\ReutanrantBusiness\obj\Debug\net8.0\ref\ReutanrantBusiness.dll

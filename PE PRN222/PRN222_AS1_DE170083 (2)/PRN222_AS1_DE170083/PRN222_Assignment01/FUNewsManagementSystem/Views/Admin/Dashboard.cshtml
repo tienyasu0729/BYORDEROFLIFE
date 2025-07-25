@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1 class="display-5 fw-bold text-primary">Admin Dashboard</h1>
+        <p class="lead text-muted">Manage all aspects of the system from this panel</p>
+    </div>
+
+    <div class="row justify-content-center">
+        <!-- Manage Accounts -->
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0 rounded-4 hover-effect">
+                <div class="card-body text-center">
+                    <i class="bi bi-people fs-1 text-primary"></i>
+                    <h5 class="card-title fw-bold mt-3">Manage Accounts</h5>
+                    <p class="card-text text-muted">Create, edit, and manage user accounts.</p>
+                    <a asp-controller="Admin" asp-action="ManageAccounts" class="btn btn-primary btn-lg custom-btn">
+                        <i class="bi bi-arrow-right-circle"></i> Go to Accounts
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Approve News -->
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0 rounded-4 hover-effect">
+                <div class="card-body text-center">
+                    <i class="bi bi-check-circle fs-1 text-success"></i>
+                    <h5 class="card-title fw-bold mt-3">Approve News</h5>
+                    <p class="card-text text-muted">Review and approve submitted news articles.</p>
+                    <a asp-controller="Admin" asp-action="ApproveNews" class="btn btn-success btn-lg custom-btn">
+                        <i class="bi bi-newspaper"></i> Approve News
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Generate Reports -->
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0 rounded-4 hover-effect">
+                <div class="card-body text-center">
+                    <i class="bi bi-bar-chart-line fs-1 text-warning"></i>
+                    <h5 class="card-title fw-bold mt-3">Generate Reports</h5>
+                    <p class="card-text text-muted">View system reports and analytics.</p>
+                    <a asp-controller="Admin" asp-action="Report" class="btn btn-warning btn-lg custom-btn">
+                        <i class="bi bi-graph-up"></i> View Reports
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CSS Custom -->
+<style>
+    .hover-effect {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .hover-effect:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+    .custom-btn {
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .custom-btn:hover {
+            transform: scale(1.05);
+        }
+</style>
+

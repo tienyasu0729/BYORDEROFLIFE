@@ -1,0 +1,123 @@
+﻿@model X.PagedList.IPagedList<BusinessObjects.NewsArticle>
+@using X.PagedList.Mvc.Core
+
+@{
+    ViewData["Title"] = "News Feed";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        @Html.Partial("_Sidebar")
+
+        <!-- Main Content -->
+        <main class="col-10 ms-auto p-4" style="height: 100vh; overflow-y: auto;">
+            <h2 class="mb-4 text-primary fw-bold"><i class="bi bi-newspaper"></i> Latest News</h2>
+
+            <!-- Bộ lọc Category và Tag -->
+            <form method="get" class="mb-4">
+                <div class="row g-3">
+                    <!-- Lọc theo Category -->
+                    <div class="col-md-4">
+                        <label for="categoryId" class="form-label fw-semibold"><i class="bi bi-folder"></i> Category</label>
+                        <select name="categoryId" id="categoryId" class="form-select">
+                            <option value="">All Categories</option>
+                            @foreach (var category in ViewBag.Categories)
+                            {
+                                <option value="@category.CategoryId" selected="@(Context.Request.Query["categoryId"] == category.CategoryId.ToString())">
+                                    @category.CategoryName
+                                </option>
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Lọc theo Tag -->
+                    <div class="col-md-4">
+                        <label for="tagId" class="form-label fw-semibold"><i class="bi bi-tags"></i> Tags</label>
+                        <select name="tagId" id="tagId" class="form-select">
+                            <option value="">All Tags</option>
+                            @foreach (var tag in ViewBag.Tags)
+                            {
+                                <option value="@tag.TagId" selected="@(Context.Request.Query["tagId"] == tag.TagId.ToString())">
+                                    @tag.TagName
+                                </option>
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Nút Lọc & Reset -->
+                    <div class="col-md-4 d-flex align-items-end">
+                        <button type="submit" class="btn btn-primary me-2"><i class="bi bi-funnel"></i> Filter</button>
+                        <a href="@Url.Action("Index", "News")" class="btn btn-secondary"><i class="bi bi-arrow-clockwise"></i> Reset</a>
+                    </div>
+                </div>
+            </form>
+
+            <!-- Danh sách bài viết -->
+            @if (Model != null && Model.Any())
+            {
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                    @foreach (var news in Model)
+                    {
+                        <div class="col">
+                            <div class="card shadow-sm h-100 border-0 rounded-3">
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold">@news.NewsTitle</h5>
+                                    <p class="card-text text-muted"><i class="bi bi-folder"></i> @(news.Category?.CategoryName ?? "Uncategorized")</p>
+                                    <p class="card-text">
+                                        @(news.NewsContent.Length > 100 ? news.NewsContent.Substring(0, 100) + "..." : news.NewsContent)
+                                    </p>
+                                    <a asp-controller="News" asp-action="Details" asp-route-id="@news.NewsArticleId" class="btn btn-outline-primary">
+                                        <i class="bi bi-eye"></i> Read More
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <!-- Phân trang -->
+                <div class="d-flex justify-content-center mt-4">
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new
+                        {
+                            categoryId = Context.Request.Query["categoryId"],
+                            tagId = Context.Request.Query["tagId"],
+                            page
+                        }),
+                             new PagedListRenderOptions
+                {
+                    Display = PagedListDisplayMode.IfNeeded,
+                    DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+                    DisplayLinkToNextPage = PagedListDisplayMode.Always,
+                    LiElementClasses = new[] { "page-item" },
+                    PageClasses = new[] { "page-link" }
+                })
+                </div>
+            }
+            else
+            {
+                <p class="text-muted text-center fs-5">🚫 No news articles available.</p>
+            }
+        </main>
+    </div>
+</div>
+
+<!-- Custom CSS -->
+<style>
+    .card {
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+        }
+
+    .page-item .page-link {
+        transition: all 0.3s ease;
+    }
+
+        .page-item .page-link:hover {
+            background-color: #007bff;
+            color: white;
+        }
+</style>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:45:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
+              "RelativeToolTip": "FUNewsManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T16:39:38.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

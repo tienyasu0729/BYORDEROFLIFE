@@ -1,0 +1,11 @@
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\bin\Debug\net8.0\RestaurantDataAccess.deps.json
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\bin\Debug\net8.0\RestaurantDataAccess.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\bin\Debug\net8.0\RestaurantDataAccess.pdb
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.AssemblyInfoInputs.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.AssemblyInfo.cs
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.csproj.CoreCompileInputs.cache
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\refint\RestaurantDataAccess.dll
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\RestaurantDataAccess.pdb
+E:\FPT_UNIVERSITY\PRN222\Restaurant_SampleTest\RestaurantDataAccess\obj\Debug\net8.0\ref\RestaurantDataAccess.dll

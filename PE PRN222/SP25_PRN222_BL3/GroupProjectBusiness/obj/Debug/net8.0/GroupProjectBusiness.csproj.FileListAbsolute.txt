@@ -1,0 +1,15 @@
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.deps.json
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.dll
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.pdb
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.AssemblyInfoInputs.cache
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.AssemblyInfo.cs
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.csproj.CoreCompileInputs.cache
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.sourcelink.json
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.dll
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\refint\GroupProjectBusiness.dll
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.pdb
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\ref\GroupProjectBusiness.dll
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.runtimeconfig.json
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.csproj.AssemblyReference.cache
+C:\CODE\BYORDEROFLIFE\PE PRN222\SP25_PRN222_BL3\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.genruntimeconfig.cache

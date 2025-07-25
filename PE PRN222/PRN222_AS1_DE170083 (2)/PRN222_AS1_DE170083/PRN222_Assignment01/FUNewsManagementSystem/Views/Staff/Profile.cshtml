@@ -1,0 +1,106 @@
+﻿@model BusinessObjects.SystemAccount
+@{
+    ViewData["Title"] = "Manage Profile";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        @Html.Partial("_Sidebar")
+
+        <!-- Main Content -->
+        <main class="col-md-9 col-lg-10 ms-auto p-4">
+            <div class="container mt-4">
+                <h2><i class="bi bi-person-circle"></i> Manage Profile</h2>
+
+                @if (TempData["SuccessMessage"] != null)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <i class="bi bi-check-circle"></i> @TempData["SuccessMessage"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                    </div>
+                }
+                @if (TempData["ErrorMessage"] != null)
+                {
+                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                        <i class="bi bi-exclamation-triangle"></i> @TempData["ErrorMessage"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                    </div>
+                }
+
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <form asp-action="UpdateProfile" method="post">
+                            <input type="hidden" asp-for="AccountId" />
+
+                            <div class="mb-3">
+                                <label class="form-label"><i class="bi bi-person-fill"></i> Full Name</label>
+                                <input type="text" class="form-control" asp-for="AccountName" required />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label"><i class="bi bi-envelope-fill"></i> Email</label>
+                                <input type="email" class="form-control" asp-for="AccountEmail" readonly />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label"><i class="bi bi-person-badge-fill"></i> Role</label>
+                                <input type="text" class="form-control" value="@(Model.AccountRole == 1 ? "Staff" : "Lecturer")" readonly />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary"><i class="bi bi-save"></i> Update Profile</button>
+                        </form>
+                    </div>
+                </div>
+
+                <h3 class="mt-4"><i class="bi bi-shield-lock-fill"></i> Change Password</h3>
+
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <form asp-action="ChangePassword" method="post">
+                            <input type="hidden" name="userId" value="@Model.AccountId" />
+
+                            <div class="mb-3">
+                                <label class="form-label"><i class="bi bi-lock-fill"></i> Current Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" name="currentPassword" id="currentPassword" required />
+                                    <button class="btn btn-outline-secondary" type="button" onclick="togglePassword('currentPassword')">
+                                        <i class="bi bi-eye-slash"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label"><i class="bi bi-key-fill"></i> New Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" name="newPassword" id="newPassword" required />
+                                    <button class="btn btn-outline-secondary" type="button" onclick="togglePassword('newPassword')">
+                                        <i class="bi bi-eye-slash"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <button type="submit" class="btn btn-warning"><i class="bi bi-arrow-repeat"></i> Change Password</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+
+<!-- Bootstrap Icons & Toggle Password Script -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+<script>
+    function togglePassword(fieldId) {
+        let input = document.getElementById(fieldId);
+        let icon = input.nextElementSibling.querySelector("i");
+        if (input.type === "password") {
+            input.type = "text";
+            icon.classList.replace("bi-eye-slash", "bi-eye");
+        } else {
+            input.type = "password";
+            icon.classList.replace("bi-eye", "bi-eye-slash");
+        }
+    }
+</script>

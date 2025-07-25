@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Restaurant_SampleTest.Models.Tables>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <form method="get" class="form-inline">
+        <input type="text" name="searchQuery" class="form-control" placeholder="Search by seats" value="@ViewData["SearchQuery"]" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</p>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success">Create New Table</a>
+    </p>
+}
+
+@if (!Model.Any())
+{
+    <p>No tables found that match your search criteria.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TableNumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Seats)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreatedAt)
+                </th>
+                @* <th></th> *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TableNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Seats)
+                    </td>
+                    <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <!-- Liên kết để thay đổi trạng thái -->
+                            <a href="@Url.Action("ChangeStatus", "Tables", new { id = item.ID, currentStatus = item.Status })">
+                                @item.Status
+                            </a>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.Status)
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedAt)
+                    </td>
+                    @* <td> *@
+                    @*     @if (User.IsInRole("Admin")) *@
+                    @*     { *@
+                    @*         <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> *@
+                    @*         <a asp-action="Details" asp-route-id="@item.ID">Details</a>  *@
+                    @*         <a asp-action="Delete" asp-route-id="@item.ID">Delete</a> *@
+                    @*     } *@
+                    @*     else *@
+                    @*     { *@
+                    @*         <a asp-action="Details" asp-route-id="@item.ID">View Details</a> *@
+                    @*     } *@
+                    @* </td> *@
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+}
