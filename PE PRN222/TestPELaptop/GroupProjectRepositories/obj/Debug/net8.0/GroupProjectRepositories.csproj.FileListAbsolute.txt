@@ -1,0 +1,16 @@
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\bin\Debug\net8.0\GroupProjectRepositories.deps.json
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\bin\Debug\net8.0\GroupProjectRepositories.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\bin\Debug\net8.0\GroupProjectRepositories.pdb
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.sourcelink.json
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\refint\GroupProjectRepositories.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.pdb
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\ref\GroupProjectRepositories.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\bin\Debug\net8.0\GroupProjectBusiness.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\bin\Debug\net8.0\GroupProjectBusiness.pdb
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupProjectRepositories.csproj.AssemblyReference.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectRepositories\obj\Debug\net8.0\GroupPro.F8D09195.Up2Date

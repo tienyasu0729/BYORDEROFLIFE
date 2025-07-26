@@ -1,0 +1,15 @@
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.deps.json
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.runtimeconfig.json
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\bin\Debug\net8.0\GroupProjectBusiness.pdb
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.csproj.AssemblyReference.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.sourcelink.json
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\refint\GroupProjectBusiness.dll
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.pdb
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\GroupProjectBusiness.genruntimeconfig.cache
+D:\CODE\BYORDEROFLIFE\PE PRN222\TestPELaptop\GroupProjectBusiness\obj\Debug\net8.0\ref\GroupProjectBusiness.dll
