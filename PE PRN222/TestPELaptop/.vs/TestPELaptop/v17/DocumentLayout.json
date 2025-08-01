@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\",
+  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\groupprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\groupprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\lecturer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\lecturer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\testpelaptop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectdataaccess\\groupprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFE20341-A5A9-4DCC-930C-CDB6863D9881}|GroupProjectDataAccess\\GroupProjectDataAccess.csproj|solutionrelative:groupprojectdataaccess\\groupprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\views\\lecturer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\views\\lecturer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\testpelaptop\\testpelaptop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B2950801-02D0-4A0E-BC14-3F762678386C}|TestPELaptop\\TestPELaptop.csproj|solutionrelative:testpelaptop\\testpelaptop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\groupprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectrepositories\\groupprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{387D2DEF-96DD-4D6D-925A-6E4F3355605B}|GroupProjectRepositories\\GroupProjectRepositories.csproj|solutionrelative:groupprojectrepositories\\groupprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\groupprojectbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\groupprojectbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|solutionrelative:groupprojectbusiness\\groupprojectbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|solutionrelative:groupprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|d:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\models\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|c:\\code\\byorderoflife\\pe prn222\\testpelaptop\\groupprojectbusiness\\models\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F377C9B0-AC19-4144-9E2C-8F5D84E0A689}|GroupProjectBusiness\\GroupProjectBusiness.csproj|solutionrelative:groupprojectbusiness\\models\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,27 +90,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "TestPELaptop\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LoginController.cs",
               "RelativeToolTip": "TestPELaptop\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:25:30.402Z"
+              "WhenOpened": "2025-07-25T19:25:30.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LecturerController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LecturerController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "TestPELaptop\\Controllers\\LecturerController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\LecturerController.cs",
               "RelativeToolTip": "TestPELaptop\\Controllers\\LecturerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Student\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Student\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "TestPELaptop\\Views\\Student\\Dashboard.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Student\\Dashboard.cshtml",
               "RelativeToolTip": "TestPELaptop\\Views\\Student\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -130,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Login\\Login.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "TestPELaptop\\Views\\Login\\Login.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "TestPELaptop\\Views\\Login\\Login.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwDsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -142,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "GroupProjectRepositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "GroupProjectRepositories\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "GroupProjectRepositories\\UserRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\UserRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\UserRepository.cs",
               "RelativeToolTip": "GroupProjectRepositories\\UserRepository.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAmwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,24 +167,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Program.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Program.cs",
               "RelativeDocumentMoniker": "TestPELaptop\\Program.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Program.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Program.cs",
               "RelativeToolTip": "TestPELaptop\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T19:44:02.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TestPELaptop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TestPELaptop\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -191,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TeamRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\TeamRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\TeamRepository.cs",
               "RelativeDocumentMoniker": "GroupProjectRepositories\\TeamRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\TeamRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\TeamRepository.cs",
               "RelativeToolTip": "GroupProjectRepositories\\TeamRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "TestPELaptop\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\StudentController.cs",
               "RelativeToolTip": "TestPELaptop\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TeamDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\TeamDAO.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\TeamDAO.cs",
               "RelativeDocumentMoniker": "GroupProjectDataAccess\\TeamDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\TeamDAO.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\TeamDAO.cs",
               "RelativeToolTip": "GroupProjectDataAccess\\TeamDAO.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAqwCYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\UserDAO.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\UserDAO.cs",
               "RelativeDocumentMoniker": "GroupProjectDataAccess\\UserDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\UserDAO.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\UserDAO.cs",
               "RelativeToolTip": "GroupProjectDataAccess\\UserDAO.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GroupProjectDataAccess.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
               "RelativeDocumentMoniker": "GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
               "RelativeToolTip": "GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -251,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
               "RelativeToolTip": "TestPELaptop\\Views\\Lecturer\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -263,23 +264,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TestPELaptop\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TestPELaptop\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:08:18.15Z"
+              "WhenOpened": "2025-07-25T20:08:18.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TestPELaptop.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\TestPELaptop.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\TestPELaptop.csproj",
               "RelativeDocumentMoniker": "TestPELaptop\\TestPELaptop.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\TestPELaptop.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\TestPELaptop\\TestPELaptop.csproj",
               "RelativeToolTip": "TestPELaptop\\TestPELaptop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -289,9 +291,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "GroupProjectBusiness.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
               "RelativeDocumentMoniker": "GroupProjectBusiness\\GroupProjectBusiness.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
               "RelativeToolTip": "GroupProjectBusiness\\GroupProjectBusiness.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -301,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "GroupProjectRepositories.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
               "RelativeDocumentMoniker": "GroupProjectRepositories\\GroupProjectRepositories.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
               "RelativeToolTip": "GroupProjectRepositories\\GroupProjectRepositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -313,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\User.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\User.cs",
               "RelativeDocumentMoniker": "GroupProjectBusiness\\Models\\User.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\User.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\User.cs",
               "RelativeToolTip": "GroupProjectBusiness\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "InnoCodeDbContext.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
               "RelativeDocumentMoniker": "GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
               "RelativeToolTip": "GroupProjectBusiness\\Models\\InnoCodeDbContext.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

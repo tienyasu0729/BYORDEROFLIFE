@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\controllers\\pawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\controllers\\pawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\views\\pawnitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\views\\pawnitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\models\\pawnitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\models\\pawnitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\pawnitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\pawnitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\pawnitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\pawnitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\interface\\ipawnitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\interface\\ipawnitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\interface\\ipawnitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\ipawnitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\views\\login\\shoplogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\views\\login\\shoplogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\pawnshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC54F3B5-49EB-4703-9291-55D0020A9547}|PawnShop\\PawnShop.csproj|solutionrelative:pawnshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\interface\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\interface\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\interface\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C434E27-3111-46A4-8428-723F57BD7AF9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|c:\\code\\byorderoflife\\prn222_project\\pawnshop\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{453B8943-7B79-4749-94FA-AE2791AB1456}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\PawnItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "PawnShop\\Views\\PawnItem\\Create.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\PawnItem\\Create.cshtml",
+              "RelativeToolTip": "PawnShop\\Views\\PawnItem\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T21:53:57.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PawnController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Controllers\\PawnController.cs",
+              "RelativeDocumentMoniker": "PawnShop\\Controllers\\PawnController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Controllers\\PawnController.cs",
+              "RelativeToolTip": "PawnShop\\Controllers\\PawnController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:12:58.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PawnItemService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\PawnItemService.cs",
+              "RelativeDocumentMoniker": "Services\\PawnItemService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\PawnItemService.cs",
+              "RelativeToolTip": "Services\\PawnItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:12:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPawnItemService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IPawnItemService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IPawnItemService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IPawnItemService.cs",
+              "RelativeToolTip": "Services\\Interface\\IPawnItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:11:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PawnItemRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\PawnItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PawnItemRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\PawnItemRepository.cs",
+              "RelativeToolTip": "Repositories\\PawnItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:11:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPawnItemRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IPawnItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IPawnItemRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IPawnItemRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IPawnItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:04:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PawnItemViewModel.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Models\\PawnItemViewModel.cs",
+              "RelativeDocumentMoniker": "PawnShop\\Models\\PawnItemViewModel.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Models\\PawnItemViewModel.cs",
+              "RelativeToolTip": "PawnShop\\Models\\PawnItemViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:03:31.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Program.cs",
+              "RelativeDocumentMoniker": "PawnShop\\Program.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Program.cs",
+              "RelativeToolTip": "PawnShop\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:31:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopLogin.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\Login\\ShopLogin.cshtml",
+              "RelativeDocumentMoniker": "PawnShop\\Views\\Login\\ShopLogin.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\Login\\ShopLogin.cshtml",
+              "RelativeToolTip": "PawnShop\\Views\\Login\\ShopLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:31:03.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "PawnShop\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "PawnShop\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:30:48.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PawnShop\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PawnShop\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:32:37.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\ShopService.cs",
+              "RelativeDocumentMoniker": "Services\\ShopService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\ShopService.cs",
+              "RelativeToolTip": "Services\\ShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:24:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IShopService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IShopService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IShopService.cs",
+              "RelativeToolTip": "Services\\Interface\\IShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:11:11.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\ShopRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ShopRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\ShopRepository.cs",
+              "RelativeToolTip": "Repositories\\ShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:09:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IShopRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IShopRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:08:07.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:45:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:44:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:39:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PawnShop\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "PawnShop\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:37:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T18:33:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:32:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T18:26:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\appsettings.json",
+              "RelativeDocumentMoniker": "PawnShop\\appsettings.json",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PRN222_Project\\PawnShop\\PawnShop\\appsettings.json",
+              "RelativeToolTip": "PawnShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T18:25:18.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

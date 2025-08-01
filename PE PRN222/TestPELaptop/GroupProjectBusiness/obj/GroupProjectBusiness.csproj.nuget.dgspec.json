@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {}
+    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
         "projectName": "GroupProjectBusiness",
-        "projectPath": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
-        "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
+        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tienn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,60 @@
+﻿@model PawnShop.Models.PawnItemViewModel
+
+@{
+    ViewData["Title"] = "Tạo món cầm mới";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Số điện thoại khách hàng</label>
+        <input asp-for="CustomerPhoneNumber" class="form-control" />
+        <span asp-validation-for="CustomerPhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Tên khách hàng</label>
+        <input asp-for="CustomerName" class="form-control" />
+        <span asp-validation-for="CustomerName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Tên sản phẩm</label>
+        <input asp-for="NameProduct" class="form-control" />
+        <span asp-validation-for="NameProduct" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Mô tả sản phẩm</label>
+        <textarea asp-for="ProductDescription" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Giá cầm</label>
+        <input asp-for="PawnPrice" class="form-control" />
+        <span asp-validation-for="PawnPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Tình trạng</label>
+        <input asp-for="Condition" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày cầm</label>
+        <input asp-for="PawnDate" type="date" class="form-control" />
+        <span asp-validation-for="PawnDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Thời gian cầm (tháng)</label>
+        <input asp-for="PawnTime" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Hình ảnh sản phẩm (tối đa 9 ảnh)</label>
+        <input asp-for="ImageFiles" type="file" class="form-control" multiple />
+        <span asp-validation-for="ImageFiles" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Tạo món cầm</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

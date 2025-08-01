@@ -1,0 +1,15 @@
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+C:\CODE\BYORDEROFLIFE\PRN222_Project\PawnShop\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
