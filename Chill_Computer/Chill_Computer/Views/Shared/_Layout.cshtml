@@ -1,0 +1,448 @@
+﻿@{
+    var userRole = Context.Session.GetString("_userRole"); // "Employee" hoặc "Customer"
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Chill_Computer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Chill_Computer.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/14df7a3629.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</head>
+<body>
+    <div class="chat-bubble" id="chatBubble" style="background-color: #605cff;">
+        <i class="fas fa-comments"></i>
+    </div>
+
+    <div class="container d-flex justify-content-center chatbox" style="display: none; max-height:500px">
+        <div class="card mt-5" id="chatbox">
+            <div class="d-flex flex-row justify-content-between p-3 adiv text-white" style="background-color: #605cff;">
+                <i class="fas fa-chevron-left"></i>
+                <span class="pb-3">Hỗ trợ khách hàng</span>
+                <i class="fas fa-times" id="closeChat"></i>
+            </div>
+            <div id="chatContent" style="flex: 1; overflow-y: auto; padding: 10px;">
+                <div class="d-flex flex-row p-3">
+                    <div class="chat ml-2 p-3">Xin chào bạn cần hỗ trợ gì vậy</div>
+                </div>
+            </div>
+            <div class="form-group px-3 mb-2">
+                <textarea class="form-control" rows="2" placeholder="Type your message"></textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-1 row">
+        <div class="col-lg-6">
+            <div class="hotline-box">
+                <div class="header-1-sdt">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36947 6.55486C6.55494 6.43122 6.66634 6.22306 6.66634 6.00016V3.3335C6.66634 2.22893 5.77091 1.3335 4.66634 1.3335H1.99967C1.63148 1.3335 1.33301 1.63197 1.33301 2.00016C1.33301 8.62758 7.37226 14.6668 13.9997 14.6668C14.3679 14.6668 14.6663 14.3684 14.6663 14.0002V11.3335C14.6663 10.2289 13.7709 9.3335 12.6663 9.3335H9.99967C9.77677 9.3335 9.56862 9.4449 9.44497 9.63036L8.17474 11.5357C6.79127 10.6412 5.57917 9.45961 4.64683 8.09947L4.46413 7.82509L6.36947 6.55486ZM10.3565 10.6668H12.6663C13.0345 10.6668 13.333 10.9653 13.333 11.3335V13.3104C12.0415 13.221 10.7811 12.8756 9.6055 12.3279L9.33574 12.1979L10.3565 10.6668ZM9.33301 4.00016C10.8058 4.00016 11.9997 5.19407 11.9997 6.66683C11.9997 7.03502 11.7012 7.3335 11.333 7.3335C10.9911 7.3335 10.7093 7.07614 10.6708 6.74458L10.6627 6.56732C10.6118 5.87741 10.0359 5.3335 9.33301 5.3335C8.96482 5.3335 8.66634 5.03502 8.66634 4.66683C8.66634 4.29864 8.96482 4.00016 9.33301 4.00016ZM9.33301 1.3335C12.2785 1.3335 14.6663 3.72131 14.6663 6.66683C14.6663 7.03502 14.3679 7.3335 13.9997 7.3335C13.6315 7.3335 13.333 7.03502 13.333 6.66683C13.333 4.45769 11.5421 2.66683 9.33301 2.66683C8.96482 2.66683 8.66634 2.36835 8.66634 2.00016C8.66634 1.63197 8.96482 1.3335 9.33301 1.3335ZM4.66634 2.66683C5.03453 2.66683 5.33301 2.96531 5.33301 3.3335V5.64337L3.80193 6.66409C3.17889 5.41246 2.7857 4.05767 2.68946 2.66683H4.66634Z" fill="#FF5D8A" />
+                    </svg>
+                    <span>1234567890</span>
+                </div>
+
+                <div class="header-1-hotro">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66634 9.33317H5.33301C6.42349 9.33317 7.39168 9.85682 7.99982 10.6664C8.57568 9.89943 9.47494 9.38908 10.4952 9.33749L10.6663 9.33317H11.333C13.174 9.33317 14.6663 10.8256 14.6663 12.6665C14.6663 13.0347 14.3679 13.3332 13.9997 13.3332C13.6578 13.3332 13.376 13.0758 13.3375 12.7443L13.3296 12.549C13.271 11.538 12.4615 10.7285 11.4505 10.6699L11.333 10.6665H10.6663C9.56177 10.6665 8.66634 11.5619 8.66634 12.6665C8.66634 13.0084 8.40898 13.2902 8.07742 13.3287L7.99967 13.3332C7.65778 13.3332 7.376 13.0758 7.33749 12.7443L7.32961 12.549C7.27103 11.538 6.46151 10.7285 5.45052 10.6699L5.33301 10.6665H4.66634C3.56177 10.6665 2.66634 11.5619 2.66634 12.6665C2.66634 13.0347 2.36786 13.3332 1.99967 13.3332C1.63148 13.3332 1.33301 13.0347 1.33301 12.6665C1.33301 10.874 2.74788 9.41196 4.52175 9.33625L4.66634 9.33317ZM4.66634 2.6665C6.1391 2.6665 7.33301 3.86041 7.33301 5.33317C7.33301 6.80593 6.1391 7.99984 4.66634 7.99984C3.19358 7.99984 1.99967 6.80593 1.99967 5.33317C1.99967 3.86041 3.19358 2.6665 4.66634 2.6665ZM11.333 2.6665C12.8058 2.6665 13.9997 3.86041 13.9997 5.33317C13.9997 6.80593 12.8058 7.99984 11.333 7.99984C9.86025 7.99984 8.66634 6.80593 8.66634 5.33317C8.66634 3.86041 9.86025 2.6665 11.333 2.6665ZM4.66634 3.99984C3.92996 3.99984 3.33301 4.59679 3.33301 5.33317C3.33301 6.06955 3.92996 6.6665 4.66634 6.6665C5.40272 6.6665 5.99967 6.06955 5.99967 5.33317C5.99967 4.59679 5.40272 3.99984 4.66634 3.99984ZM11.333 3.99984C10.5966 3.99984 9.99967 4.59679 9.99967 5.33317C9.99967 6.06955 10.5966 6.6665 11.333 6.6665C12.0694 6.6665 12.6663 6.06955 12.6663 5.33317C12.6663 4.59679 12.0694 3.99984 11.333 3.99984Z" fill="#5BC41A" />
+                    </svg>
+
+                    <span>Hỗ trợ</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 header-1-right-box">
+            <div>
+                <a href="" class="header-1-diachi" style="text-decoration: none;">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.6667 14.6668C3.56213 14.6668 2.6667 13.7714 2.6667 12.6668V8.66683H2.00003C1.4061 8.66683 1.10865 7.94873 1.52863 7.52876L7.52863 1.52876C7.78898 1.26841 8.21109 1.26841 8.47144 1.52876L14.4714 7.52876C14.8914 7.94873 14.594 8.66683 14 8.66683H13.3334V12.6668C13.3334 13.7714 12.4379 14.6668 11.3334 14.6668H4.6667ZM8.00003 2.94297L3.56731 7.3757C3.8201 7.47044 4.00003 7.71429 4.00003 8.00016V12.6668C4.00003 13.035 4.29851 13.3335 4.6667 13.3335L6.00003 13.3328L6.00003 10.6668C6.00003 9.93045 6.59699 9.3335 7.33337 9.3335H8.6667C9.40308 9.3335 10 9.93045 10 10.6668L10 13.3328L11.3334 13.3335C11.7016 13.3335 12 13.035 12 12.6668V8.00016C12 7.71429 12.18 7.47044 12.4328 7.3757L8.00003 2.94297ZM8.6667 10.6668H7.33337L7.33336 13.3328H8.6667L8.6667 10.6668Z" fill="#06152B" />
+                    </svg>
+
+                    <div>
+                        <span>Địa chỉ cửa hàng</span>
+                    </div>
+                </a>
+            </div>
+
+            <div>
+                <a href="" class="header-1-tintuc" style="text-decoration: none;">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.00016 1.3335C11.6821 1.3335 14.6668 4.31826 14.6668 8.00016C14.6668 11.6821 11.6821 14.6668 8.00016 14.6668C4.31826 14.6668 1.3335 11.6821 1.3335 8.00016C1.3335 4.31826 4.31826 1.3335 8.00016 1.3335ZM9.98179 8.66735H6.01853C6.09249 10.003 6.38625 11.219 6.83571 12.1179C7.2543 12.9551 7.70161 13.3335 8.00016 13.3335C8.29872 13.3335 8.74602 12.9551 9.16462 12.1179C9.61407 11.219 9.90783 10.003 9.98179 8.66735ZM13.2922 8.66749L11.317 8.66767C11.2363 10.2903 10.8648 11.7417 10.3081 12.8103C11.9069 12.0412 13.0636 10.4985 13.2922 8.66749ZM4.68333 8.66767L2.70817 8.66749C2.93673 10.4985 4.09344 12.0412 5.69259 12.8098C5.17039 11.8084 4.81116 10.4702 4.70184 8.96985L4.68333 8.66767ZM5.69219 3.19L5.67475 3.19913C4.08469 3.97072 2.93565 5.50895 2.70811 7.33338L4.6833 7.33333C4.76388 5.71045 5.13546 4.25879 5.69219 3.19ZM8.00016 2.66683L7.94597 2.67077C7.64908 2.71293 7.22968 3.09446 6.83571 3.8824C6.38618 4.78146 6.09239 5.99771 6.0185 7.33364H9.98183C9.90793 5.99771 9.61415 4.78146 9.16462 3.8824C8.74602 3.04522 8.29872 2.66683 8.00016 2.66683ZM10.3077 3.19052L10.3228 3.21832C10.8714 4.28447 11.2372 5.72502 11.3171 7.33379L13.2922 7.33351C13.0639 5.50221 11.9071 3.95925 10.3077 3.19052Z" fill="#06152B" />
+                    </svg>
+
+                    <span>Tin tức</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-2 row" style="margin: 15px 0;">
+        <div class="col-lg-2 logo-sanpham">
+            <a asp-area="" asp-controller="Home" asp-action="Index"><img src="~/imgs/output-onlinepngtools.png" alt="" width="60px" height="60px" /></a>
+
+            <button id="productMenu" class="header-sanpham">
+                <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.25 21.25C26.9404 21.25 27.5 21.8096 27.5 22.5C27.5 23.1904 26.9404 23.75 26.25 23.75H3.75C3.05964 23.75 2.5 23.1904 2.5 22.5C2.5 21.8096 3.05964 21.25 3.75 21.25H26.25ZM26.25 13.75C26.9404 13.75 27.5 14.3096 27.5 15C27.5 15.6904 26.9404 16.25 26.25 16.25H3.75C3.05964 16.25 2.5 15.6904 2.5 15C2.5 14.3096 3.05964 13.75 3.75 13.75H26.25ZM26.25 6.25C26.9404 6.25 27.5 6.80964 27.5 7.5C27.5 8.19036 26.9404 8.75 26.25 8.75H3.75C3.05964 8.75 2.5 8.19036 2.5 7.5C2.5 6.80964 3.05964 6.25 3.75 6.25H26.25Z" fill="#06152B" />
+                </svg>
+                <span>Sản phẩm</span>
+            </button>
+        </div>
+
+        <div class="col-lg-5">
+            @using (Html.BeginForm("SearchProduct", "Product", FormMethod.Get, new { id = "searchForm" }))
+            {
+                <div class="header-search">
+                    <input class="searh-box" type="search" placeholder="Xin chào, bạn đang tìm gì" name="searchInput" />
+                </div>
+            }
+        </div>
+
+        <div class="col-lg-5 dangnhap-giohang">
+            <div style="display: flex">
+                <a  asp-controller="BuildPC" asp-action="BuildPage" style="text-decoration: none; color: black;">
+                    <img src="~/imgs/3706888-assembly-control-fix-setting_108715.ico" alt="" width="30px" height="30px" />
+                    <span>Build PC</span>
+                </a>
+            </div>
+
+            @{
+                var user = Context.Session.GetString("_userFullName");
+            }
+            @if (Context.Session.GetObject<int>("_userId") == 0)
+            {
+                <a href="/Login" class="header-dangnhap" style="text-decoration: none; color: black;">
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75 20H21.25C24.7018 20 27.5 22.7982 27.5 26.25C27.5 26.9404 26.9404 27.5 26.25 27.5C25.609 27.5 25.0806 27.0174 25.0084 26.3958L24.9936 26.0297C24.8838 24.1341 23.3659 22.6162 21.4703 22.5064L21.25 22.5H8.75C6.67893 22.5 5 24.1789 5 26.25C5 26.9404 4.44036 27.5 3.75 27.5C3.05964 27.5 2.5 26.9404 2.5 26.25C2.5 22.8891 5.15288 20.1477 8.47889 20.0058L8.75 20H21.25H8.75ZM15 2.5C19.1421 2.5 22.5 5.85786 22.5 10C22.5 14.1421 19.1421 17.5 15 17.5C10.8579 17.5 7.5 14.1421 7.5 10C7.5 5.85786 10.8579 2.5 15 2.5ZM15 5C12.2386 5 10 7.23858 10 10C10 12.7614 12.2386 15 15 15C17.7614 15 20 12.7614 20 10C20 7.23858 17.7614 5 15 5Z" fill="#06152B" />
+                    </svg>
+                    <span>Đăng nhập</span>
+                </a>
+            }
+            else
+            {
+                <div>
+                    <button class="header-dangnhap" id="profileBtn" style="background-color: white; border: none;">
+                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75 20H21.25C24.7018 20 27.5 22.7982 27.5 26.25C27.5 26.9404 26.9404 27.5 26.25 27.5C25.609 27.5 25.0806 27.0174 25.0084 26.3958L24.9936 26.0297C24.8838 24.1341 23.3659 22.6162 21.4703 22.5064L21.25 22.5H8.75C6.67893 22.5 5 24.1789 5 26.25C5 26.9404 4.44036 27.5 3.75 27.5C3.05964 27.5 2.5 26.9404 2.5 26.25C2.5 22.8891 5.15288 20.1477 8.47889 20.0058L8.75 20H21.25H8.75ZM15 2.5C19.1421 2.5 22.5 5.85786 22.5 10C22.5 14.1421 19.1421 17.5 15 17.5C10.8579 17.5 7.5 14.1421 7.5 10C7.5 5.85786 10.8579 2.5 15 2.5ZM15 5C12.2386 5 10 7.23858 10 10C10 12.7614 12.2386 15 15 15C17.7614 15 20 12.7614 20 10C20 7.23858 17.7614 5 15 5Z" fill="#06152B" />
+                        </svg>
+                        <span>@user</span>
+                    </button>
+
+                    <div class="user-profile" style="appearance: none; display:none;">
+                        <a asp-controller="Profile" asp-action="Profile" style="color: black; text-decoration: none;">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M10.8976 2.00206L13.0201 2.00195C13.0843 2.00493 13.1406 2.01227 13.2197 2.0295C13.8002 2.1559 14.0209 2.36432 14.5611 3.6408L14.6491 3.85137L14.9886 4.69255L15.0165 4.70402L15.4539 4.50602C16.4066 4.08002 16.8976 3.90058 17.2278 3.85052L17.2962 3.84173L17.4209 3.835C17.7182 3.835 18.021 3.94031 18.2528 4.12366L18.3624 4.22171L19.7193 5.57302L19.8137 5.67271C20.2399 6.14224 20.2797 6.47511 19.8082 7.68829L19.6513 8.07967L19.2815 8.95464L19.2886 8.97172L20.1357 9.28806L20.5441 9.44947C21.599 9.88078 21.8158 10.1107 21.9568 10.6387C21.9852 10.7452 21.9953 10.8177 21.9986 10.9078L22 11.0055V12.9133C22 13.0489 21.9954 13.1255 21.962 13.2595C21.8216 13.8232 21.6132 14.0379 20.3455 14.5734L20.1363 14.6607L19.301 14.9978L19.2952 15.0119L19.5972 15.6718C20.3484 17.3413 20.3746 17.7073 19.8809 18.2571L19.8192 18.324L18.4263 19.7159C18.1769 19.968 17.8217 20.1067 17.4779 20.1067C17.186 20.1067 16.7275 19.968 15.9459 19.6545L15.5275 19.4831L15.0509 19.2816L15.0236 19.2929L14.7773 19.9533C14.1744 21.5419 13.9678 21.7998 13.3484 21.9597C13.2569 21.9833 13.1914 21.9934 13.1171 21.9975L12.9945 22.0001H11.0856C10.9665 22.0001 10.8993 21.9965 10.7809 21.9708C10.2007 21.845 9.97914 21.6362 9.43788 20.3589L9.34966 20.1482L9.0096 19.3066L8.98344 19.2958L8.34815 19.5814C7.332 20.0287 6.89179 20.1649 6.57806 20.1649C6.28426 20.1649 5.98508 20.0616 5.74708 19.8766L5.63349 19.7773L4.27843 18.424L4.12369 18.2552C3.75208 17.818 3.73381 17.4789 4.18994 16.3119L4.42762 15.7278L4.71777 15.0457L4.71172 15.0311L4.05484 14.7863C2.73708 14.2862 2.33098 14.0559 2.138 13.6354L2.0858 13.5031L2.0422 13.3566C2.01752 13.263 2.00699 13.1959 2.00272 13.1195L2 12.9936V11.0847C2 10.9481 2.00474 10.8708 2.03877 10.7356C2.16566 10.2316 2.34576 10.0078 3.29447 9.58267L3.68766 9.41288L4.69733 9.00457L4.70425 8.98776L4.32674 8.15484C3.70383 6.73997 3.65224 6.30918 4.04525 5.82802L4.09903 5.7649L4.22636 5.62993L5.57616 4.28319C5.82346 4.03452 6.1772 3.89433 6.5215 3.89433C6.76776 3.89433 7.12934 3.99177 7.70805 4.21096L8.29026 4.44176L8.95028 4.71838L8.97734 4.70713L9.22549 4.04231C9.83405 2.44232 10.0513 2.17475 10.6932 2.03105C10.7742 2.01292 10.8319 2.00519 10.8976 2.00206ZM12.523 4.00006H11.4081L11.2509 4.36859C11.1912 4.5151 11.1238 4.68623 11.0478 4.88487L10.6993 5.817C10.6157 6.03768 10.4574 6.22046 10.2538 6.33479L10.1483 6.3861L9.3292 6.72696C9.1224 6.81301 8.89398 6.82667 8.6804 6.76806L8.55432 6.72422L7.58525 6.31575L7.06181 6.10701L6.70998 5.97716L5.91977 6.76558L6.01277 7.00048C6.04911 7.08896 6.09094 7.18788 6.13863 7.29809L6.2997 7.66336L6.70366 8.54646C6.80042 8.75676 6.82065 8.9927 6.76353 9.21417L6.71997 9.34499L6.38503 10.1589C6.29635 10.3744 6.13575 10.551 5.93242 10.6599L5.82733 10.7086L4.73976 11.1457L4.19609 11.3788L4 11.4696V12.5997L4.23463 12.7015C4.32346 12.7386 4.42321 12.7791 4.53477 12.8233L4.90579 12.9673L5.80732 13.3021C6.03461 13.384 6.22321 13.5449 6.34018 13.7533L6.39255 13.8613L6.72754 14.6728C6.81356 14.8812 6.82615 15.1112 6.76566 15.3258L6.7206 15.4523L6.33182 16.3646L6.088 16.9665L5.96921 17.286L6.75948 18.0753L6.99479 17.9823C7.08146 17.947 7.17645 17.9073 7.28 17.8632L8.00585 17.5431L8.5293 17.3021C8.74835 17.1975 8.99663 17.1766 9.22796 17.2409L9.342 17.2801L10.1659 17.6203C10.3843 17.7104 10.5625 17.8744 10.6707 18.0817L10.7189 18.1888L10.9239 18.7061L11.2157 19.4157L11.3846 19.8035L11.4762 20.0001H12.5944L12.7541 19.6236L12.9621 19.0925L13.3007 18.1844C13.3843 17.9618 13.5438 17.7775 13.7492 17.6627L13.8556 17.6113L14.676 17.2727C14.8804 17.1883 15.1058 17.1746 15.317 17.2313L15.4417 17.2738L16.2143 17.6015L16.7781 17.8312L17.0867 17.9502L17.2903 18.0239L18.0815 17.2341L17.929 16.8579L17.7004 16.3363L17.2956 15.454C17.1985 15.2433 17.1782 15.0068 17.2356 14.785L17.2793 14.6539L17.6137 13.8435C17.7019 13.6297 17.861 13.4542 18.0624 13.3453L18.1665 13.2965L19.0876 12.9262L19.5578 12.7291L19.6871 12.6729L20 12.5297V11.4007L19.6863 11.2668L19.2615 11.0987L18.1891 10.6995C17.9623 10.6169 17.7744 10.4558 17.658 10.2474L17.6059 10.1394L17.2715 9.32458C17.1862 9.1167 17.1738 8.88745 17.2341 8.67361L17.279 8.54746L17.5895 7.82156C17.6703 7.6296 17.7406 7.45937 17.8014 7.30892L17.9103 7.03378L18.029 6.71227L17.2384 5.92488L17.0029 6.01804C16.8727 6.07114 16.7235 6.13416 16.5542 6.20775L16.3782 6.28489L15.4554 6.70346C15.2454 6.79966 15.0101 6.81967 14.7891 6.7627L14.6586 6.71927L13.8352 6.3808C13.6196 6.2922 13.443 6.13165 13.334 5.92835L13.2853 5.82327L12.9942 5.09488L12.7832 4.58459L12.6663 4.31319L12.523 4.00006ZM12.0005 8.00006C14.2066 8.00006 16 9.79308 16 11.9992C16 14.2054 14.2065 16.0001 12.0005 16.0001C9.79382 16.0001 8 14.2058 8 11.9992C8 9.79276 9.79369 8.00006 12.0005 8.00006ZM12.0005 10.0001C10.898 10.0001 10 10.8976 10 11.9992C10 13.1013 10.8985 14.0001 12.0005 14.0001C13.1016 14.0001 14 13.1012 14 11.9992C14 10.8977 13.1021 10.0001 12.0005 10.0001Z" fill="#06152B" />
+                            </svg>
+                            <span>Thông tin cá nhân</span>
+                        </a>
+                        <hr style="margin: 2px 0;">
+                        <a asp-controller="Logout" asp-action="Logout" style="color: black; text-decoration:none;">
+                            <img src="~/imgs/logout_icon_151219.ico" alt="" width="24" height="24">
+                            <span>Đăng xuất</span>
+                        </a>
+                    </div>
+                </div>
+            }
+
+            <div class="">
+                <button class="btn-header" id="btn-header">
+                    <svg width="30" height="30" viewBox="0 0 30 30"
+                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M10.625 23.75C11.6605 23.75 12.5 24.5895 12.5 25.625C12.5 26.6605 11.6605 27.5 10.625 27.5C9.58947 27.5 8.75 26.6605 8.75 25.625C8.75 24.5895 9.58947 23.75 10.625 23.75ZM21.875 23.75C22.9105 23.75 23.75 24.5895 23.75 25.625C23.75 26.6605 22.9105 27.5 21.875 27.5C20.8395 27.5 20 26.6605 20 25.625C20 24.5895 20.8395 23.75 21.875 23.75ZM3.75 2.5H6.25C6.81951 2.5 7.31038 2.88355 7.45632 3.42217L7.48546 3.55993L8.09163 7.5H26.25C26.9997 7.5 27.5687 8.15085 27.4939 8.87543L27.4702 9.02116L25.4053 18.3135C25.0406 19.9547 23.6324 21.1429 21.9724 21.2431L21.7446 21.25H10.8948C9.11794 21.25 7.59621 20.0055 7.22832 18.2874L7.1884 18.0702L5.1776 5H3.75C3.05964 5 2.5 4.44036 2.5 3.75C2.5 3.10896 2.98255 2.58062 3.60422 2.50841L3.75 2.5H6.25H3.75ZM24.6917 10H8.47624L9.65933 17.6901C9.74593 18.253 10.1997 18.6798 10.7542 18.7421L10.8948 18.75H21.7446C22.2816 18.75 22.7526 18.4081 22.9253 17.9106L22.9648 17.7712L24.6917 10Z"
+                        fill="#06152B" />
+                    </svg>
+
+                    <div id="cartButton">
+                        <partial name="Partials/_CartButton" />
+                    </div>
+                </button>
+
+                </div>
+            </div>
+        </div>
+
+    <div class="modal cart-modal" style="margin-top: 110px; left: 1195px; width: 500px;" id="cart-container">
+        <partial name="Partials/_CartPartial" model="ViewBag.CartItems" />
+    </div>
+
+    <div id="searchResults">
+        <partial name="Partials/_SearchBarPartial" />
+    </div>
+
+
+    <div class="dropdown-position">
+        <div class="dropdown">
+            <div class="menu-dropdown" id="productDropdown">
+                <partial name="Partials/_MenuView"  model="ViewBag.MenuTitle"/>
+            </div>
+        </div>
+    </div>
+
+    <div class="">
+            @RenderBody()
+    </div>
+
+    <div class="footer-style ">
+        <div class="footer-content">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="~/imgs/output-onlinepngtools.png" alt width="100px"
+                         height="100px">
+                </div>
+
+                <div class="col-md-4">
+                    <h4>Thông tin hữu ích</h4>
+                    <ul class="list-group">
+                        <li>Chính sách bảo hành</li>
+                        <li>Chính sách đổi trả</li>
+                        <li>Chính sách vận chuyển</li>
+                        <li>Chính sách bảo mật</li>
+                        <li>Chính sách thanh toán</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    <h4>Phản hồi góp ý</h4>
+                    <span>Đội ngũ kiểm soát chất lượng của chúng tôi sẵn sàng lắng nghe quý khách</span>
+                    <button class="btn-phanhoi">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M19 4C20.6569 4 22 5.34315 22 7V17C22 18.6569 20.6569 20 19 20H5C3.34315 20 2 18.6569 2 17V7C2 5.34315 3.34315 4 5 4H19ZM20 7.328L12.6585 13.7526C12.3129 14.055 11.8111 14.0802 11.4394 13.8282L11.3415 13.7526L4 7.329V17C4 17.5523 4.44772 18 5 18H19C19.5523 18 20 17.5523 20 17V7.328ZM18.48 6H5.518L12 11.6712L18.48 6Z" fill="white" />
+                        </svg>
+                        <span>Gửi phản hồi</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script>
+        $(document).ready(function() {
+                var isBlur = false;
+                var categories = document.querySelectorAll('.category');
+                var categoryProducts = document.querySelectorAll('.product-menu-details');
+
+        var currentCategory = null;
+                $('#searchResults').hide();
+                $('#chatbox').hide();
+                $('#productDropdown').hide();
+                $('#productMenu').click(function (){
+                    $('#productDropdown').slideToggle();
+                    $('#Laptop').show();
+                    if(!isBlur){
+                        $('.main-content').css({'filter' : 'blur(2px)'})
+                    }
+                    else{
+                        $('.main-content').css({'filter' : 'none'})
+                    }
+                    isBlur = !isBlur;
+                });
+
+                $('#btn-header').click(function(){  
+                    $('.cart-modal').toggle()
+                });
+
+
+                $('#profileBtn').click(function() {
+                    $('.user-profile').toggle();
+                })
+
+        $(window).on('scroll', function () {
+            var scrollTop = $(this).scrollTop();
+            var triggerHeight = 100;
+            var $header = $('.header-2');
+            var $modal = $('.cart-modal');
+
+            if (scrollTop > triggerHeight) {
+                // Limit the translateY to max 0 (once fully sticky)
+                let offset = Math.min(100, triggerHeight - scrollTop);
+                $header
+                    .addClass('sticky-header')
+                    .css('transform', `translateY(${offset}px)`);
+
+                $modal.addClass('sticky-modal');
+            } else {
+                // Reset to normal
+                $header
+                    .removeClass('sticky-header')
+                    .css('transform', 'translateY(0)');
+
+                $modal.removeClass('sticky-modal');
+            }
+        });
+
+        $('.category').mouseover(function() {
+            var categoryType = $(this).attr('data-category');
+            $('.product-menu-details').each(function() {
+                if ($(this).attr('id') === categoryType) {
+                    $(this).css('display', 'block');
+                } else {
+                    $(this).css('display', 'none');
+                }
+            });
+        });
+
+
+        // ChatHub
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/chathub")
+            .build();
+
+        connection.start().then(() => {
+            console.log("Connected to SignalR hub.");
+            connection.invoke("RegisterFromSession").catch(err => console.error('Error invoking RegisterFromSession:', err));
+            connection.invoke("LoadChatHistory").catch(err => console.error('Error invoking LoadChatHistory:', err));
+        }).catch(err => console.error('Error starting connection:', err));
+
+        const currentUserRole = @Html.Raw(Json.Serialize(userRole));
+
+        connection.on("ReceiveMessage", (senderRole, message) => {
+            const normalizedSenderRole = senderRole.trim().replace(/"/g, '');
+            const normalizedCurrentRole = currentUserRole.trim().replace(/"/g, '');
+
+            const isSender = normalizedSenderRole === normalizedCurrentRole;  
+            console.log("Received message:", message, "Sender role:", senderRole, "Is sender:", isSender, "Current User:", currentUserRole);
+            let chatHtml = "";
+
+            if (isSender) {
+                chatHtml = `
+                    <div class="d-flex p-3 justify-content-end">
+                        <div class="chat ml-2 p-3 send" style="border: none; background: #E2FFE8; font-size: 10px; border-radius: 20px;">${message}</div>
+                        <img src="https://cdn4.iconfinder.com/data/icons/office-34/256/28-512.png" width="35" height="35">
+                    </div>
+                `;
+            } else {
+                chatHtml = `
+                    <div class="d-flex p-3 flex-row">
+                        <img src="https://cdn4.iconfinder.com/data/icons/office-34/256/28-512.png" width="35" height="35">
+                            <div class="chat ml-2 p-3 receive" style="border: none; background: #E2FFE8; font-size: 10px; border-radius: 20px;">${message}</div>
+                    </div>
+                `;
+            }
+
+            const chatContainer = document.querySelector("#chatContent");
+            chatContainer.insertAdjacentHTML("beforeend", chatHtml);
+            chatContainer.scrollTop = chatContainer.scrollHeight;  // Tự động cuộn xuống cuối
+        });
+
+        $(document).on('click', '.deleteCartBtn', function () {
+            var productId = $(this).data('id');
+            var pcId = $(this).data('pcId');
+
+            $.ajax({
+                url: '@Url.Action("DeleteCartItem", "Cart")',
+                type: 'DELETE',
+                data: { 
+                    productId: productId,
+                    pcId: pcId,
+                },
+                success: function (response) {
+                    if (response.success) {
+                        $('.modal-cart-title h5').text('Giỏ hàng (' + response.count + ')');
+
+                        // Refresh cart HTML
+                        $.get('@Url.Action("RenderMiniCart", "Cart")', function (html) {
+                            $('#cart-container').html(html);
+                        });
+
+                        // Update cart icon/button
+                        $.get('@Url.Action("RenderCartButton", "Cart")', function (html) {
+                            $('#cartButton').html(html);
+                        });
+                    } else {
+                        alert('Có lỗi xảy ra!');
+                    }
+                }
+            });
+        });
+
+
+        let debounceTimer;
+
+                $('.searh-box').on('input', function () {
+                    clearTimeout(debounceTimer);
+
+                    const searchVal = $(this).val().trim();
+
+                    // Set debounce delay (e.g., 300ms)
+                    debounceTimer = setTimeout(function () {
+                        if (searchVal === "") {
+                            $('#searchResults').html('');
+                            return;
+                        }
+
+                        $.ajax({
+                            url: '/Product/SearchProduct',
+                            type: 'GET',
+                            data: { searchInput: searchVal },
+                            success: function (result) {
+                                $('#searchResults').show();
+                                $('#searchResults').html(result);
+                            },
+                            error: function () {
+                                $('#searchResults').html('<span>Lỗi khi tìm kiếm sản phẩm!</span>');
+                            }
+                        });
+                    }, 300); // adjust delay as needed
+                });
+
+        $('.searh-box').on('keypress', function (e) {
+            if (e.which === 13) {
+                e.preventDefault();
+                const searchVal = $(this).val().trim();
+                if (searchVal !== "") {
+                    // Use "value" as the query string parameter
+                    window.location.href = `/Product/SearchPage?value=${encodeURIComponent(searchVal)}`;
+                }
+            }
+        });
+
+
+
+        const textarea = document.querySelector("textarea");
+        textarea.addEventListener("keypress", function (e) {
+            if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault();
+                const message = textarea.value.trim();
+                if (message) {
+                    connection.invoke("SendMessage", message);
+                    textarea.value = "";
+                }
+            }
+        });
+
+        $(".box").click(function(){
+           $(".box").removeClass("box-active");
+           $(this).addClass("box-active");
+           });
+
+                
+
+           $('#chatBubble').on('click', function() {
+           $('#chatbox').toggle(); // Toggles chatbox display
+           });
+
+           $('#closeChat').on('click', function() {
+           $('#chatbox').hide(); // Hides chatbox
+           });
+
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

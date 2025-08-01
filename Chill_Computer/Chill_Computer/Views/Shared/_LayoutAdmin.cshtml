@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebMVC</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebMVC.styles.css" asp-append-version="true" />
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+    <style>
+        /* Horizon Line */
+        hr {
+            width: 250px;
+            margin: 1rem 0;
+            color: inherit;
+            background-color: currentColor;
+            border: 1px solid black;
+            opacity: 0.75;
+        }
+
+        .listAdmin li{
+            border: 2px solid;
+            border-radius: 15px;
+            background-color: lightgray;
+            margin: 20px;
+            width: 200px;
+            height: 40px;
+        }
+
+        .listAdmin .chooseButton{
+            background-color: lightcyan;
+        }
+
+        .listAdmin a{
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .listAdmin svg{
+            margin-right: 10px;
+        }
+
+        .box-border-Left{
+            justify-items: center; height: 650px; width: 350px; border: 1px solid;
+            margin: 20px 0 0 0;
+            padding: 15px;
+            border-radius: 15px;
+        }
+
+        .box-border-Right{
+            justify-items: right;
+            height: fit-content;
+            width: 100%;
+            margin: 20px 0 0 0;
+            border: 1px solid;
+            margin-right: 20px;
+            padding: 15px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-3" style="justify-items: center;">
+            <div class="box-border-Left">
+                <img class="img-fluid" src="https://www.svgrepo.com/show/345047/person.svg" alt="personal-icon" style="width: 69px;
+                height: 71px;
+                border: 2px solid;
+                border-radius: 125px;">
+                <h4 style="margin-top: 14px;">Welcome Admin</h4>
+                <hr>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 listAdmin">
+                        <li class="nav-item @ViewData["ChooseDashboard"]">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Admin">
+                                Dashboard
+                                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" fill="currentColor"
+                                     class="bi bi-chevron-right" viewBox="0 0 10 16">
+                                    <path fill-rule="evenodd"
+                                          d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="nav-item @ViewData["ChooseManageInventory"]">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="ManageInventory">
+                                Quản lý
+                                kho
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" fill="currentColor"
+                                     class="bi bi-chevron-right" viewBox="0 0 10 16">
+                                    <path fill-rule="evenodd"
+                                          d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                </svg>
+                            </a>
+                        </li>
+
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Quản lý tin tức
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="@Url.Action("ManagerNews", "Admin")">Chỉnh sửa</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("GetAllNewsApproval", "Admin")">Kiểm Duyệt</a></li>
+                                <li><a class="dropdown-item" href="@Url.Action("AddNewArticle", "Admin")">Thêm tin mới</a></li>
+                            </ul>
+                        </li>
+
+
+
+                        <li class="nav-item @ViewData["ChooseManageOrder"]">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="ManageOrder">
+                                Quản lý
+                                đơn hàng
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" fill="currentColor"
+                                     class="bi bi-chevron-right" viewBox="0 0 10 16">
+                                    <path fill-rule="evenodd"
+                                          d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="nav-item @ViewData["ChooseManageAccount"]">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Admin"
+                               asp-action="ManageAccount">
+                                Quản lý tài khoản
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" fill="currentColor"
+                                     class="bi bi-chevron-right" viewBox="0 0 10 16">
+                                    <path fill-rule="evenodd"
+                                          d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home"
+                               asp-action="Index">
+                                Trang chủ
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
+                                     class="bi bi-house" viewBox="0 0 16 16">
+                                    <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z" />
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-9" style="justify-items: center; width: 100%;">
+            <div class="box-border-Right">
+                
+                    @RenderBody() <!-- Đây là phần nội dung chính -->
+                
+            </div>
+        </div>
+
+    </div>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            console.log("Bootstrap dropdown test OK");
+            var dropdownTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="dropdown"]'));
+            dropdownTriggerList.forEach(function (dropdownToggleEl) {
+                new bootstrap.Dropdown(dropdownToggleEl);
+            });
+        });
+                document.addEventListener('click', function (e) {
+            e.stopPropagation();
+        });
+    </script>
+
+</body>
+</html>
