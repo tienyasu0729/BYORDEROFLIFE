@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\estoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\estoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|d:\\code\\byorderoflife\\prn232\\lab01_estorewebapi\\estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5827493-68FC-489C-87C3-B871A0455956}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "eStoreAPI\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\appsettings.json",
+              "RelativeToolTip": "eStoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T04:28:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eStoreAPI",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
+              "RelativeDocumentMoniker": "eStoreAPI\\eStoreAPI.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
+              "RelativeToolTip": "eStoreAPI\\eStoreAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T04:23:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:15:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:14:25.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Models\\Product.cs",
+              "RelativeToolTip": "eStoreAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:12:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\Models\\Category.cs",
+              "RelativeToolTip": "eStoreAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:12:12.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
