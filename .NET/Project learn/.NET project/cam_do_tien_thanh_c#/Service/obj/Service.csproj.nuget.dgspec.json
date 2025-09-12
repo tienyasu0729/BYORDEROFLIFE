@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj": {}
+    "D:\\CODE\\BYORDEROFLIFE\\.NET\\Project learn\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj": {
+    "D:\\CODE\\BYORDEROFLIFE\\.NET\\Project learn\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\.NET\\Project learn\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\LEARN\\codegym\\BYORDEROFLIFE\\.NET\\.NET project\\cam_do_tien_thanh_c#\\Service\\obj\\",
+        "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\Project learn\\.NET project\\cam_do_tien_thanh_c#\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\Project learn\\.NET project\\cam_do_tien_thanh_c#\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
