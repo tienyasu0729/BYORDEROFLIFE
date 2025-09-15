@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shopee_Project_ASP.net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048ff9a99580333bf4ee9450bf91cd9fdf758de6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90a23bd3ed80e30f7663c2c8ec44a5d298a4678")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shopee_Project_ASP.net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shopee_Project_ASP.net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
