@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\",
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187946E-983A-43EA-80E8-91703F9DF5B0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECED8914-0769-41D5-B164-A229C4175D16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BE5A2ED-7737-4B04-9B7F-65EE362FB40E}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\newsarticletag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn222\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\businessobjects\\newsarticletag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19131078-7A05-49AF-9890-CAEAC4F83C0E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\newsarticletag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|c:\\code\\byorderoflife\\pe prn222\\prn222_as1_de170083 (2)\\prn222_as1_de170083\\prn222_assignment01\\funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2773686-9D1F-41E7-B533-A7C818315160}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,15 +70,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\News\\Index.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\News\\Index.cshtml",
               "RelativeToolTip": "FUNewsManagementSystem\\Views\\News\\Index.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\NewsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\NewsController.cs",
               "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\NewsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "FUNewsManagementSystem\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,23 +134,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T01:55:45.451Z"
+              "WhenOpened": "2025-07-26T01:55:45.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\AccountRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\AccountRepository.cs",
               "RelativeToolTip": "Repositories\\AccountRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\AccountService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Services\\AccountService.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\AccountService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\AccountService.cs",
               "RelativeToolTip": "Services\\AccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\IAccountService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "Services\\IAccountService.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\IAccountService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\Services\\IAccountService.cs",
               "RelativeToolTip": "Services\\IAccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Tag.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Tag.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Tag.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Tag.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Tag.cs",
               "RelativeToolTip": "BusinessObjects\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\DataAccessLayer\\AccountDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwBAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SystemAccount.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\SystemAccount.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\SystemAccount.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\SystemAccount.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\SystemAccount.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\SystemAccount.cs",
               "RelativeToolTip": "BusinessObjects\\SystemAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "NewsArticle.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticle.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticle.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\NewsArticle.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticle.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticle.cs",
               "RelativeToolTip": "BusinessObjects\\NewsArticle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "NewsArticleTag.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticleTag.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticleTag.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\NewsArticleTag.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticleTag.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\NewsArticleTag.cs",
               "RelativeToolTip": "BusinessObjects\\NewsArticleTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,26 +255,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Category.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Category.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\BusinessObjects\\Category.cs",
               "RelativeToolTip": "BusinessObjects\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T01:34:29.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T01:34:29.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\appsettings.json",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\PRN222_AS1_DE170083 (2)\\PRN222_AS1_DE170083\\PRN222_Assignment01\\FUNewsManagementSystem\\appsettings.json",
               "RelativeToolTip": "FUNewsManagementSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-21T16:39:38.626Z"
             }

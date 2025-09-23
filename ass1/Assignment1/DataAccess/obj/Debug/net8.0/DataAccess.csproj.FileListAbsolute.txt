@@ -1,0 +1,16 @@
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\bin\Debug\net8.0\BusinessObjects.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\bin\Debug\net8.0\BusinessObjects.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

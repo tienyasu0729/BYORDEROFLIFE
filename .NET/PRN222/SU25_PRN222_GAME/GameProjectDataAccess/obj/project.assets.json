@@ -2821,11 +2821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
+      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
       "projectName": "GameProjectDataAccess",
-      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
+      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
       "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\obj\\",
+      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2847,8 +2847,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj": {
-              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj"
+            "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj": {
+              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj"
             }
           }
         }

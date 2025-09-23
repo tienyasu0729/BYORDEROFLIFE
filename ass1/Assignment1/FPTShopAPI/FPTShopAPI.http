@@ -1,0 +1,6 @@
+@FPTShopAPI_HostAddress = http://localhost:5055
+
+GET {{FPTShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

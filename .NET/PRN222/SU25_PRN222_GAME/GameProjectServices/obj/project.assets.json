@@ -2859,11 +2859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
+      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
       "projectName": "GameProjectServices",
-      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
+      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
       "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\obj\\",
+      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2885,11 +2885,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj": {
-              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj"
+            "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj": {
+              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj"
             },
-            "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj": {
-              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj"
+            "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj": {
+              "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj"
             }
           }
         }
@@ -2928,13 +2928,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

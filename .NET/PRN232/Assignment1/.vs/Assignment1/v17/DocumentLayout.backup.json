@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\businessobjects\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\dataaccess\\laptopdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\laptopdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\fptshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|solutionrelative:fptshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\fptshopapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|solutionrelative:fptshopapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\laptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\laptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\fptshopapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|solutionrelative:fptshopapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\fptshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA588322-2ACB-4A2F-AFDE-543E62E06D76}|FPTShopAPI\\FPTShopAPI.csproj|solutionrelative:fptshopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\iservices\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\iservices\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7992784-312B-4167-9820-B73EFC906996}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\laptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\laptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\repositories\\irepositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350BF27-1430-4325-8E30-38525F87D9F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A78549-A402-4CDA-90DD-69552BF9A1A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\businessobjects\\models\\fptshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\fptshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\byorderoflife\\.net\\prn232\\assignment1\\businessobjects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C8761-8F5E-4362-9E6A-D10F5E686CEC}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:52:35.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:48:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaptopDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\LaptopDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\LaptopDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\LaptopDAO.cs",
+              "RelativeToolTip": "DataAccess\\LaptopDAO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:08:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:49:00.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FPTShopAPI\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Program.cs",
+              "RelativeToolTip": "FPTShopAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:13:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Laptop.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Laptop.cs*",
+              "RelativeToolTip": "BusinessObjects\\Models\\Laptop.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:52:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\User.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\User.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:52:57.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositories",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T00:57:20.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaptopService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\LaptopService.cs",
+              "RelativeDocumentMoniker": "Services\\LaptopService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\LaptopService.cs",
+              "RelativeToolTip": "Services\\LaptopService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:48:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IOrderService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IServices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:45:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FPTShopAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FPTShopAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:53:36.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FPTShopAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FPTShopAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:53:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILaptopService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\ILaptopService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\ILaptopService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\IServices\\ILaptopService.cs",
+              "RelativeToolTip": "Services\\IServices\\ILaptopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:47:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:46:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T01:45:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:41:23.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:41:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:40:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:40:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UserDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\UserDAO.cs",
+              "RelativeToolTip": "DataAccess\\UserDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:15:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LaptopRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\LaptopRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LaptopRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\LaptopRepository.cs",
+              "RelativeToolTip": "Repositories\\LaptopRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:19:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILaptopRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\ILaptopRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositories\\ILaptopRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\Repositories\\IRepositories\\ILaptopRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepositories\\ILaptopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:18:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:12:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FptshopDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\FptshopDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\FptshopDbContext.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\FptshopDbContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\FptshopDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:52:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Order.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Order.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:52:02.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

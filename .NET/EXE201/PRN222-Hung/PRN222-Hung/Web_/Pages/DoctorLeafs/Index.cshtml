@@ -1,0 +1,114 @@
+﻿@page
+@model Web_.Pages.DoctorLeafs.IndexModel
+@{
+    ViewData["Title"] = "Danh sách đơn nghỉ";
+    Layout = "_LayoutMain";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header d-flex justify-content-between align-items-center bg-primary text-white">
+            <h4 class="mb-0">
+                <i class="fa-solid fa-list me-2"></i> Danh sách đơn bác sĩ xin nghỉ
+            </h4>
+            <a asp-page="Create" class="btn btn-light btn-sm">
+                <i class="fa-solid fa-plus"></i> Tạo mới
+            </a>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th>Bác sĩ</th>
+                        <th>Ngày nghỉ</th>
+                        <th>Lý do</th>
+                        <th>Trạng thái</th>
+                        <th>Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.DoctorLeafList)
+                    {
+                        <tr>
+                            <td>@item.Doctor?.FullName</td>
+                            <td>@item.LeaveDate.ToString("dd/MM/yyyy")</td>
+                            <td style="max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="@item.Reason">
+                                @item.Reason
+                            </td>
+                            <td>
+                                @if (Model.IsAdmin)
+                                {
+                                    <span class="badge badge-toggle @(item.IsActive ? "bg-success" : "bg-danger")"
+                                          data-id="@item.LeaveId" style="cursor:pointer;" title="Nhấn để đổi trạng thái">
+                                        @(item.IsActive ? "Approved" : "Rejected")
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span class="badge @(item.IsActive ? "bg-success" : "bg-danger")">
+                                        @(item.IsActive ? "Approved" : "Rejected")
+                                    </span>
+                                }
+                            </td>
+                            <td>
+
+                                @if (Model.IsAdmin)
+                                {
+                                    <a asp-page="Details" asp-route-id="@item.LeaveId" class="btn btn-info btn-sm text-white me-1" title="Xem chi tiết">
+                                    <i class="fa-solid fa-circle-info"></i>
+                                </a>
+                                }
+                                else
+                                {
+                                   <a asp-page="Details" asp-route-id="@item.LeaveId" class="btn btn-info btn-sm text-white me-1" title="Xem chi tiết">
+                                    <i class="fa-solid fa-circle-info"></i>
+                                </a>
+                                    <a href="#" class="btn btn-danger btn-sm delete-btn" data-id="@item.LeaveId" title="Xóa đơn">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                                }
+
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $(".badge-toggle").on("click", function () {
+                var $badge = $(this);
+                var id = $badge.data("id");
+                var originalHtml = $badge.html();
+                $badge.html('<i class="fa fa-spinner fa-spin"></i>');
+
+                $.post("?handler=ToggleStatus", { id: id })
+                    .done(function (data) {
+                        if (data.success) {
+                            $badge
+                                .removeClass("bg-success bg-danger")
+                                .addClass(data.newValue ? "bg-success" : "bg-danger")
+                                .text(data.newValue ? "Approved" : "Rejected");
+                        } else {
+                            alert(data.message);
+                            $badge.html(originalHtml);
+                        }
+                    })
+                    .fail(function () {
+                        alert("Đã xảy ra lỗi khi cập nhật.");
+                        $badge.html(originalHtml);
+                    });
+            });
+        });
+    </script>
+    <script src="~/js/crud.js"></script>
+    <script src="~/js/loading.js"></script>
+}

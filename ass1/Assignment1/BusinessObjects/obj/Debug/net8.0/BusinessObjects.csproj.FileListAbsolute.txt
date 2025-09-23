@@ -1,0 +1,15 @@
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\Assignment1\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

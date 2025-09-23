@@ -1,101 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\",
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectbusiness\\models\\su25prn222context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|solutionrelative:gameprojectbusiness\\models\\su25prn222context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectbusiness\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|solutionrelative:gameprojectbusiness\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\views\\user\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\views\\user\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectservices\\repositories\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\repositories\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectservices\\repositories\\usersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\repositories\\usersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectrepositories\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectrepositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectservices\\interfaces\\iusersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\interfaces\\iusersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectservices\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectrepositories\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectrepositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectdataaccess\\dao\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectdataaccess\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectbusiness\\models\\su25prn222context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|solutionrelative:gameprojectbusiness\\models\\su25prn222context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectbusiness\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|solutionrelative:gameprojectbusiness\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\views\\user\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\views\\user\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectservices\\repositories\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\repositories\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectservices\\repositories\\usersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\repositories\\usersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectrepositories\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectrepositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectservices\\interfaces\\iusersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\interfaces\\iusersercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectservices\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectrepositories\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectrepositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectdataaccess\\dao\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectdataaccess\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B49457E-7EEE-4E98-841C-DE54392F94F8}|GameProjectBusiness\\GameProjectBusiness.csproj|solutionrelative:gameprojectbusiness\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\su25_prn222_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\su25_prn222_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CCE3493-05A7-46D9-A219-8112187CC09D}|SU25_PRN222_GAME\\SU25_PRN222_GAME.csproj|solutionrelative:su25_prn222_game\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectservices\\gameprojectservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectservices\\gameprojectservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4C7B6C63-5BA8-4719-BE53-759C2D08902C}|GameProjectServices\\GameProjectServices.csproj|solutionrelative:gameprojectservices\\gameprojectservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectdataaccess\\dao\\evaluationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectdataaccess\\dao\\evaluationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\evaluationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectdataaccess\\gameprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectdataaccess\\gameprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\gameprojectdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectrepositories\\gameprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectrepositories\\gameprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DC265857-D251-40E6-ACFF-48C9FB302228}|GameProjectRepositories\\GameProjectRepositories.csproj|solutionrelative:gameprojectrepositories\\gameprojectrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\su25_prn222_game\\gameprojectdataaccess\\dao\\gameporjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|d:\\code\\byorderoflife\\.net\\prn222\\su25_prn222_game\\gameprojectdataaccess\\dao\\gameporjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F28869-697E-4CB5-946D-9B7E52B7080C}|GameProjectDataAccess\\GameProjectDataAccess.csproj|solutionrelative:gameprojectdataaccess\\dao\\gameporjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,41 +106,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Evaluation.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Evaluation.cs",
-              "RelativeDocumentMoniker": "GameProjectBusiness\\Models\\Evaluation.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Evaluation.cs",
-              "RelativeToolTip": "GameProjectBusiness\\Models\\Evaluation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T00:15:50.159Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeamService.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\TeamService.cs",
-              "RelativeDocumentMoniker": "GameProjectServices\\Repositories\\TeamService.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\TeamService.cs",
-              "RelativeToolTip": "GameProjectServices\\Repositories\\TeamService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:31:32.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ITeamRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
               "RelativeDocumentMoniker": "GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
               "RelativeToolTip": "GameProjectRepositories\\Interfaces\\ITeamRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,37 +146,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateTeam.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
               "RelativeDocumentMoniker": "SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
               "RelativeToolTip": "SU25_PRN222_GAME\\Views\\User\\CreateTeam.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-26T02:24:31.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T02:24:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Su25Prn222Context.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Su25Prn222Context.cs",
+              "RelativeDocumentMoniker": "GameProjectBusiness\\Models\\Su25Prn222Context.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Su25Prn222Context.cs",
+              "RelativeToolTip": "GameProjectBusiness\\Models\\Su25Prn222Context.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:18:35.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Su25Prn222Context.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Su25Prn222Context.cs",
-              "RelativeDocumentMoniker": "GameProjectBusiness\\Models\\Su25Prn222Context.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Su25Prn222Context.cs",
-              "RelativeToolTip": "GameProjectBusiness\\Models\\Su25Prn222Context.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAASwBcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:18:35.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Program.cs",
               "RelativeDocumentMoniker": "SU25_PRN222_GAME\\Program.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Program.cs",
               "RelativeToolTip": "SU25_PRN222_GAME\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserSercvice.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\UserSercvice.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\UserSercvice.cs",
               "RelativeDocumentMoniker": "GameProjectServices\\Repositories\\UserSercvice.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\UserSercvice.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\UserSercvice.cs",
               "RelativeToolTip": "GameProjectServices\\Repositories\\UserSercvice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +195,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\appsettings.json",
+              "RelativeDocumentMoniker": "SU25_PRN222_GAME\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\appsettings.json",
+              "RelativeToolTip": "SU25_PRN222_GAME\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T01:27:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\TeamService.cs",
+              "RelativeDocumentMoniker": "GameProjectServices\\Repositories\\TeamService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Repositories\\TeamService.cs",
+              "RelativeToolTip": "GameProjectServices\\Repositories\\TeamService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:31:32.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Evaluation.cs",
+              "RelativeDocumentMoniker": "GameProjectBusiness\\Models\\Evaluation.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\Evaluation.cs",
+              "RelativeToolTip": "GameProjectBusiness\\Models\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:15:50.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "GameProjectRepositories\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "GameProjectRepositories\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IUserSercvice.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\IUserSercvice.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\IUserSercvice.cs",
               "RelativeDocumentMoniker": "GameProjectServices\\Interfaces\\IUserSercvice.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\IUserSercvice.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\IUserSercvice.cs",
               "RelativeToolTip": "GameProjectServices\\Interfaces\\IUserSercvice.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAvwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TeamRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\TeamRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\TeamRepository.cs",
               "RelativeDocumentMoniker": "GameProjectRepositories\\Repositories\\TeamRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Repositories\\TeamRepository.cs",
               "RelativeToolTip": "GameProjectRepositories\\Repositories\\TeamRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +268,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ITeamService.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\ITeamService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\ITeamService.cs",
               "RelativeDocumentMoniker": "GameProjectServices\\Interfaces\\ITeamService.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\ITeamService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\Interfaces\\ITeamService.cs",
               "RelativeToolTip": "GameProjectServices\\Interfaces\\ITeamService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TeamDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\TeamDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\TeamDAO.cs",
               "RelativeDocumentMoniker": "GameProjectDataAccess\\DAO\\TeamDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\TeamDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\TeamDAO.cs",
               "RelativeToolTip": "GameProjectDataAccess\\DAO\\TeamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,11 +292,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SU25_PRN222_GAME\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\UserController.cs",
               "RelativeToolTip": "SU25_PRN222_GAME\\Controllers\\UserController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +304,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\UserDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\UserDAO.cs",
               "RelativeDocumentMoniker": "GameProjectDataAccess\\DAO\\UserDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\UserDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\UserDAO.cs",
               "RelativeToolTip": "GameProjectDataAccess\\DAO\\UserDAO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "GameProjectRepositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "GameProjectRepositories\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "SU25_PRN222_GAME\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -307,23 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\appsettings.json",
-              "RelativeDocumentMoniker": "SU25_PRN222_GAME\\appsettings.json",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\appsettings.json",
-              "RelativeToolTip": "SU25_PRN222_GAME\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-26T01:27:25.879Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\User.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\User.cs",
               "RelativeDocumentMoniker": "GameProjectBusiness\\Models\\User.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\User.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\Models\\User.cs",
               "RelativeToolTip": "GameProjectBusiness\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,9 +354,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SU25_PRN222_GAME\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\SU25_PRN222_GAME\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SU25_PRN222_GAME\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,9 +366,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "GameProjectServices.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
               "RelativeDocumentMoniker": "GameProjectServices\\GameProjectServices.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectServices\\GameProjectServices.csproj",
               "RelativeToolTip": "GameProjectServices\\GameProjectServices.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -357,9 +378,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "EvaluationDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
               "RelativeDocumentMoniker": "GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
               "RelativeToolTip": "GameProjectDataAccess\\DAO\\EvaluationDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -369,9 +390,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "GameProjectDataAccess.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
               "RelativeDocumentMoniker": "GameProjectDataAccess\\GameProjectDataAccess.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\GameProjectDataAccess.csproj",
               "RelativeToolTip": "GameProjectDataAccess\\GameProjectDataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -381,9 +402,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "GameProjectRepositories.csproj",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj",
               "RelativeDocumentMoniker": "GameProjectRepositories\\GameProjectRepositories.csproj",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectRepositories\\GameProjectRepositories.csproj",
               "RelativeToolTip": "GameProjectRepositories\\GameProjectRepositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -393,9 +414,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "GamePorjectDAO.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
               "RelativeDocumentMoniker": "GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
               "RelativeToolTip": "GameProjectDataAccess\\DAO\\GamePorjectDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

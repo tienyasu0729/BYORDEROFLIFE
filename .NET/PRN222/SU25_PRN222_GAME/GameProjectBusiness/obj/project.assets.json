@@ -4729,11 +4729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj",
+      "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj",
       "projectName": "GameProjectBusiness",
-      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj",
+      "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\GameProjectBusiness.csproj",
       "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\SU25_PRN222_GAME\\GameProjectBusiness\\obj\\",
+      "outputPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\SU25_PRN222_GAME\\GameProjectBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
