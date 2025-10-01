@@ -1,4 +1,4 @@
-namespace PeekmedWebAPI
+namespace PeekmedWebApi
 {
     public class WeatherForecast
     {

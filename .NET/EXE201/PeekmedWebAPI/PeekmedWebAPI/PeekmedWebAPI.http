@@ -1,6 +1,6 @@
-@PeekmedWebAPI_HostAddress = http://localhost:5122
+@PeekmedWebApi_HostAddress = http://localhost:5048
 
-GET {{PeekmedWebAPI_HostAddress}}/weatherforecast/
+GET {{PeekmedWebApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

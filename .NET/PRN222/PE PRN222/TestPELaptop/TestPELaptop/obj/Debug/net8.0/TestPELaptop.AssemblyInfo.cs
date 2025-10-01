@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestPELaptop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+387dece946a05adab035f71e63da76642cfd76ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e312a85bfd2540bc2d09227d73d44281c1976f6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestPELaptop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestPELaptop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

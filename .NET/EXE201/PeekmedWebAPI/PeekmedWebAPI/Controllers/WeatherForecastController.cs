@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PeekmedWebAPI.Controllers
+namespace PeekmedWebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

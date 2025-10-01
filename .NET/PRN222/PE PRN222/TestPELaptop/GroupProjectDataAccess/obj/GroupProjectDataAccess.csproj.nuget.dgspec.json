@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj": {}
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
         "projectName": "GroupProjectBusiness",
-        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
+        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
         "projectName": "GroupProjectDataAccess",
-        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\GroupProjectDataAccess.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\obj\\",
+        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
-                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj"
+              "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
+                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj"
               },
-              "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj": {
-                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj"
+              "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj": {
+                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
         "projectName": "GroupProjectRepositories",
-        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\GroupProjectRepositories.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\obj\\",
+        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectRepositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
-                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj"
+              "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
+                "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj"
               }
             }
           }

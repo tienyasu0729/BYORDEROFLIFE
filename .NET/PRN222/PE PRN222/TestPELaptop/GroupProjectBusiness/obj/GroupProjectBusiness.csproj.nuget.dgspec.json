@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {}
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
         "projectName": "GroupProjectBusiness",
-        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\GroupProjectBusiness.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
+        "outputPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN222\\PE PRN222\\TestPELaptop\\GroupProjectBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
