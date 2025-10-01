@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -135,19 +135,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LaptopsController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
-              "RelativeDocumentMoniker": "FPTShopAPI\\Controllers\\LaptopsController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
-              "RelativeToolTip": "FPTShopAPI\\Controllers\\LaptopsController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T01:52:35.09Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,11 +194,24 @@
               "Title": "Laptop.cs",
               "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Laptop.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Models\\Laptop.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Laptop.cs*",
-              "RelativeToolTip": "BusinessObjects\\Models\\Laptop.cs*",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\BusinessObjects\\Models\\Laptop.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Laptop.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA4wAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T00:52:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Assignment1\\FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "FPTShopAPI\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:52:35.09Z",
               "EditorCaption": ""
             },
             {

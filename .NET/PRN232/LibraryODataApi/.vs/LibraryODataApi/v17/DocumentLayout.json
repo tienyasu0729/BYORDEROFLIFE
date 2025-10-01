@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,6 +89,10 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20250923041129_InitialCreate.cs",
@@ -98,8 +102,7 @@
               "RelativeToolTip": "LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAowIUAAACtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T04:11:29.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T04:11:29.809Z"
             },
             {
               "$type": "Document",
@@ -111,8 +114,7 @@
               "RelativeToolTip": "LibraryODataApi\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:48:00.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:48:00.515Z"
             },
             {
               "$type": "Document",
@@ -124,8 +126,7 @@
               "RelativeToolTip": "LibraryODataApi\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:48:54.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:48:54.21Z"
             },
             {
               "$type": "Document",
@@ -137,8 +138,7 @@
               "RelativeToolTip": "LibraryODataApi\\Models\\BookLoan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:49:27.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:49:27.707Z"
             },
             {
               "$type": "Document",
@@ -150,12 +150,11 @@
               "RelativeToolTip": "LibraryODataApi\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:48:34.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:48:34.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
               "RelativeDocumentMoniker": "LibraryODataApi\\appsettings.json",
@@ -168,13 +167,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Program.cs",
               "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
               "RelativeToolTip": "LibraryODataApi\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:50:48.119Z",
               "EditorCaption": ""
@@ -189,8 +188,7 @@
               "RelativeToolTip": "LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:50:21.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:50:21.34Z"
             },
             {
               "$type": "Document",
@@ -202,8 +200,7 @@
               "RelativeToolTip": "LibraryODataApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T04:03:09.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T04:03:09.095Z"
             },
             {
               "$type": "Document",
@@ -215,8 +212,7 @@
               "RelativeToolTip": "LibraryODataApi\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:58:00.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:58:00.796Z"
             },
             {
               "$type": "Document",
@@ -228,8 +224,7 @@
               "RelativeToolTip": "LibraryODataApi\\Controllers\\BooksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:57:17.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:57:17.048Z"
             },
             {
               "$type": "Document",
@@ -241,8 +236,7 @@
               "RelativeToolTip": "LibraryODataApi\\Controllers\\BookLoansController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:58:18.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:58:18.11Z"
             },
             {
               "$type": "Document",
@@ -254,8 +248,7 @@
               "RelativeToolTip": "LibraryODataApi\\Controllers\\AuthorsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:57:42.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:57:42.07Z"
             }
           ]
         }

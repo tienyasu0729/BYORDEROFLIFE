@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj": {}
+    "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj": {
+    "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
+        "projectUniqueName": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
         "projectName": "eStoreAPI",
-        "projectPath": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
+        "projectPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\eStoreAPI.csproj",
         "packagesPath": "C:\\Users\\tie\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\BYORDEROFLIFE\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\obj\\",
+        "outputPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\Lab01_eStoreWebAPI\\eStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

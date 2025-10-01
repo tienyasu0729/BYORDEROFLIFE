@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPTShopAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b19ee32051f4d8903571f6b1963ce768f929e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c5a86be2e8a648a13ded7a489493b0864ab56e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPTShopAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPTShopAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

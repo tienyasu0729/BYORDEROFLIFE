@@ -1,0 +1,5 @@
+D:\CODE\BYORDEROFLIFE\.NET\EXE201\PeekmedWebAPI\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\.NET\EXE201\PeekmedWebAPI\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\EXE201\PeekmedWebAPI\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\.NET\EXE201\PeekmedWebAPI\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\EXE201\PeekmedWebAPI\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.sourcelink.json

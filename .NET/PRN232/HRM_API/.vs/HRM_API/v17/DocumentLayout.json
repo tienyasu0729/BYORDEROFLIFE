@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\hrm_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\hrm_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\dtos\\employee\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\dtos\\employee\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\dtos\\company\\companydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\dtos\\company\\companydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\irepository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\irepository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\repositories\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\repositories\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\validationattributes\\validcompanyidattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\validationattributes\\validcompanyidattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|d:\\code\\byorderoflife\\.net\\prn232\\hrm_api\\hrm_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02103-EE9A-4011-A672-D059849E23AC}|HRM_API\\HRM_API.csproj|solutionrelative:hrm_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRM_API\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\appsettings.json",
+              "RelativeToolTip": "HRM_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T04:23:56.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Program.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Program.cs",
+              "RelativeToolTip": "HRM_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:47:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HRM_API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:04:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Data\\SeedData.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Data\\SeedData.cs",
+              "RelativeToolTip": "HRM_API\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:04:30.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDtos.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\DTOs\\Company\\CompanyDtos.cs",
+              "RelativeDocumentMoniker": "HRM_API\\DTOs\\Company\\CompanyDtos.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\DTOs\\Company\\CompanyDtos.cs",
+              "RelativeToolTip": "HRM_API\\DTOs\\Company\\CompanyDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:05:04.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDtos.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\DTOs\\Employee\\EmployeeDtos.cs",
+              "RelativeDocumentMoniker": "HRM_API\\DTOs\\Employee\\EmployeeDtos.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\DTOs\\Employee\\EmployeeDtos.cs",
+              "RelativeToolTip": "HRM_API\\DTOs\\Employee\\EmployeeDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:07:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRM_API",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\HRM_API.csproj",
+              "RelativeDocumentMoniker": "HRM_API\\HRM_API.csproj",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\HRM_API.csproj",
+              "RelativeToolTip": "HRM_API\\HRM_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T03:12:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HRM_API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:56:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "HRM_API\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:56:20.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HRM_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:13:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "HRM_API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:12:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:30:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:30:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:17:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\IRepository\\IRepositoryManager.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\IRepositoryManager.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\IRepository\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:17:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\IRepository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\IRepository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:17:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Repositories\\IRepository\\ICompanyRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Repositories\\IRepository\\ICompanyRepository.cs",
+              "RelativeToolTip": "HRM_API\\Repositories\\IRepository\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:16:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidCompanyIdAttribute.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\ValidationAttributes\\ValidCompanyIdAttribute.cs",
+              "RelativeDocumentMoniker": "HRM_API\\ValidationAttributes\\ValidCompanyIdAttribute.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\ValidationAttributes\\ValidCompanyIdAttribute.cs",
+              "RelativeToolTip": "HRM_API\\ValidationAttributes\\ValidCompanyIdAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:09:08.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Models\\Employee.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Models\\Employee.cs",
+              "RelativeToolTip": "HRM_API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:03:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "HRM_API\\Models\\Company.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\HRM_API\\HRM_API\\Models\\Company.cs",
+              "RelativeToolTip": "HRM_API\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:02:35.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

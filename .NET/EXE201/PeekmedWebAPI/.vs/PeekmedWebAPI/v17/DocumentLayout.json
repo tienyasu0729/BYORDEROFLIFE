@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8539B5-A366-4854-8345-260DB923A82F}|Data\\Data.csproj|d:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8539B5-A366-4854-8345-260DB923A82F}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF36A14-146E-4505-80B8-EDE5A375DC08}|PeekmedWebAPI\\PeekmedWebAPI.csproj|d:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF36A14-146E-4505-80B8-EDE5A375DC08}|PeekmedWebAPI\\PeekmedWebAPI.csproj|solutionrelative:peekmedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815EEF94-4C81-44E4-B3DD-0E82314CE732}|DataAccessObjects\\DataAccessObjects.csproj|d:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815EEF94-4C81-44E4-B3DD-0E82314CE732}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF36A14-146E-4505-80B8-EDE5A375DC08}|PeekmedWebAPI\\PeekmedWebAPI.csproj|d:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DF36A14-146E-4505-80B8-EDE5A375DC08}|PeekmedWebAPI\\PeekmedWebAPI.csproj|solutionrelative:peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:02:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PeekmedWebAPI\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebAPI\\appsettings.json",
+              "RelativeToolTip": "PeekmedWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T03:57:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PeekmedWebAPI\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebAPI\\Program.cs",
+              "RelativeToolTip": "PeekmedWebAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:56:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:52:34.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
