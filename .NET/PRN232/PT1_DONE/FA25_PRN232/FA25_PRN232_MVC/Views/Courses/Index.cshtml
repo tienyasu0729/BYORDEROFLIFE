@@ -1,0 +1,35 @@
+﻿@model IEnumerable<FA25_PRN232_MVC.Models.CourseDto>
+
+@{
+    ViewData["Title"] = "Các khóa học";
+}
+
+<h1 class="mb-4">Các khóa học</h1>
+
+<table class="table table-striped table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Tiêu đề</th>
+            <th>Danh mục</th>
+            <th>Tác giả</th>
+            <th>Mô tả</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.CategoryName</td>
+                <td>@item.Author</td>
+                <td>@item.Description</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.CourseId" class="btn btn-primary">Xem chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
