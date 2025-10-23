@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\dtos\\vehiclecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\dtos\\vehiclecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\models\\odatavehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\models\\odatavehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\models\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\models\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\garagesystemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA3409F8-7C8B-4D2E-862E-97587FCA1870}|GarageSystemWeb\\GarageSystemWeb.csproj|solutionrelative:garagesystemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|d:\\code\\byorderoflife\\.net\\prn232\\fa25_prn232\\fa25_prn232\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E68F30-B5B4-44E1-886E-A78671BBB6BA}|FA25_PRN232\\FA25_PRN232.csproj|solutionrelative:fa25_prn232\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Services\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Services\\IVehicleService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Services\\IVehicleService.cs",
+              "RelativeToolTip": "FA25_PRN232\\Services\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:29:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FA25_PRN232\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA9wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:28:29.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FA25_PRN232\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:28:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Common\\MappingProfile.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "FA25_PRN232\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:26:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Program.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Program.cs",
+              "RelativeToolTip": "FA25_PRN232\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:50:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "FA25_PRN232\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:54:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\DTOs\\VehicleDto.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "FA25_PRN232\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:25:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Services\\VehicleService.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Services\\VehicleService.cs",
+              "RelativeToolTip": "FA25_PRN232\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:29:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleCreateDto.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\VehicleCreateDto.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\DTOs\\VehicleCreateDto.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\VehicleCreateDto.cs",
+              "RelativeToolTip": "FA25_PRN232\\DTOs\\VehicleCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:26:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Views\\Vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Views\\Vehicles\\Index.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Views\\Vehicles\\Index.cshtml",
+              "RelativeToolTip": "GarageSystemWeb\\Views\\Vehicles\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T04:12:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ODataVehicleResponse.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\ODataVehicleResponse.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Models\\ODataVehicleResponse.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\ODataVehicleResponse.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Models\\ODataVehicleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:11:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\Vehicle.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:10:53.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:07:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GarageSystemWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T04:05:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:03:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Program.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Program.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:01:36.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLoginResponse.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\UserLoginResponse.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Models\\UserLoginResponse.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\UserLoginResponse.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Models\\UserLoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:03:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GarageSystemWeb\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:02:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "GarageSystemWeb\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\GarageSystemWeb\\appsettings.json",
+              "RelativeToolTip": "GarageSystemWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T04:01:36.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FA25_PRN232\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:53:31.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "FA25_PRN232\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "FA25_PRN232\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:52:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\appsettings.json",
+              "RelativeDocumentMoniker": "FA25_PRN232\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\FA25_PRN232\\FA25_PRN232\\appsettings.json",
+              "RelativeToolTip": "FA25_PRN232\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T03:50:22.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

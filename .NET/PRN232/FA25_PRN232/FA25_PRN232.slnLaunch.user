@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FA25_PRN232\\FA25_PRN232.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GarageSystemWeb\\GarageSystemWeb.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

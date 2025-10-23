@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GarageSystemWeb.Models.Vehicle>
+@{
+    ViewData["Title"] = "List of vehicles";
+    // Lấy Role từ ViewBag mà Controller đã gửi qua
+    var userRole = ViewBag.UserRole;
+}
+
+<h2>List of vehicles</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>License Plate</th>
+            <th>Manufacture</th>
+            <th>Vehicle Owner</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PlateNumber</td>
+                <td>@item.Brand</td>
+                <td>@item.OwnerName</td>
+                <td>
+                    @if (userRole == 1)
+                    {
+                        <form asp-action="Delete" method="post" asp-route-id="@item.VehicleId">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-controller="Account" asp-action="Logout" class="btn btn-secondary">Logout</a>
+</p>

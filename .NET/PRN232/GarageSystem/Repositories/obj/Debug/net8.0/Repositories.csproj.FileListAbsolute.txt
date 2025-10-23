@@ -1,0 +1,12 @@
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\CODE\BYORDEROFLIFE\.NET\PRN232\GarageSystem\Repositories\obj\Debug\net8.0\ref\Repositories.dll
