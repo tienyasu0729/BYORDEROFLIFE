@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\",
+  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\bookloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\bookloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\bookloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\migrations\\20250923041129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\migrations\\20250923041129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\migrations\\20250923041129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|d:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,27 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 42,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -90,15 +82,143 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20250923041129_InitialCreate.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
               "RelativeToolTip": "LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAowIUAAACtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +228,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Author.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Author.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Author.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Author.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Author.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Author.cs",
               "RelativeToolTip": "LibraryODataApi\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +240,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Book.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Book.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Book.cs",
               "RelativeToolTip": "LibraryODataApi\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +252,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BookLoan.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\BookLoan.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\BookLoan.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\BookLoan.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\BookLoan.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\BookLoan.cs",
               "RelativeToolTip": "LibraryODataApi\\Models\\BookLoan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +264,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Category.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Category.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Category.cs",
               "RelativeToolTip": "LibraryODataApi\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +276,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
               "RelativeDocumentMoniker": "LibraryODataApi\\appsettings.json",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
               "RelativeToolTip": "LibraryODataApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-23T03:59:43.257Z",
               "EditorCaption": ""
@@ -169,22 +289,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Program.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
               "RelativeToolTip": "LibraryODataApi\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T03:50:48.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T03:50:48.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +313,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,9 +325,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,9 +337,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\BooksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,9 +349,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BookLoansController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BookLoansController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BookLoansController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\BookLoansController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BookLoansController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BookLoansController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\BookLoansController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,13 +361,27 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AuthorsController.cs",
-              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\AuthorsController.cs",
-              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\AuthorsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:57:42.07Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 525,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
