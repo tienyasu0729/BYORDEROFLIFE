@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\migrations\\20251104041311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\migrations\\20251104041311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\viewmodels\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\viewmodels\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF282DD-638D-4406-8E98-B20DBCF747FB}|PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj|solutionrelative:prn232_medical_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\dtos\\appointmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\dtos\\appointmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|d:\\code\\byorderoflife\\.net\\prn232\\prn232_medical\\prn232_medical\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}|PRN232_MEDICAL\\PRN232_MEDICAL.csproj|solutionrelative:prn232_medical\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:21:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:53:07.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:53:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:48:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:43:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:25:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:51:03.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251104041311_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Migrations\\20251104041311_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Migrations\\20251104041311_InitialCreate.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Migrations\\20251104041311_InitialCreate.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Migrations\\20251104041311_InitialCreate.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAiwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:13:59.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA9wEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:31:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\appsettings.json",
+              "RelativeToolTip": "PRN232_MEDICAL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T03:14:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorViewModel.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\DoctorViewModel.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\ViewModels\\DoctorViewModel.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\DoctorViewModel.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\ViewModels\\DoctorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:52:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:57:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\ViewModels\\LoginResponse.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\LoginResponse.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\ViewModels\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:47:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:47:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PRN232_MEDICAL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T03:46:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Program.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\Program.cs",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:45:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL_WEB\\appsettings.json",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL_WEB\\appsettings.json",
+              "RelativeToolTip": "PRN232_MEDICAL_WEB\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T03:45:17.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppointmentCreateRequest.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\DTOs\\AppointmentCreateRequest.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\DTOs\\AppointmentCreateRequest.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\DTOs\\AppointmentCreateRequest.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\DTOs\\AppointmentCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:42:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:29:04.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:28:30.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Program.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Program.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Program.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:24:32.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Models\\User.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\User.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:11:29.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Models\\Doctor.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:12:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "PRN232_MEDICAL\\Models\\Appointment.cs",
+              "ToolTip": "D:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\PRN232_MEDICAL\\PRN232_MEDICAL\\Models\\Appointment.cs",
+              "RelativeToolTip": "PRN232_MEDICAL\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:13:48.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

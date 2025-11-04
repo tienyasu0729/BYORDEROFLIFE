@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN232_MEDICAL", "PRN232_MEDICAL\PRN232_MEDICAL.csproj", "{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN232_MEDICAL_WEB", "PRN232_MEDICAL_WEB\PRN232_MEDICAL_WEB.csproj", "{2DF282DD-638D-4406-8E98-B20DBCF747FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8792DE6-B095-4DFC-AFDA-F4FCAEB7CD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF282DD-638D-4406-8E98-B20DBCF747FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF282DD-638D-4406-8E98-B20DBCF747FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF282DD-638D-4406-8E98-B20DBCF747FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF282DD-638D-4406-8E98-B20DBCF747FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CB4552-8592-4EC0-B9F5-D93E3A836796}
+	EndGlobalSection
+EndGlobal

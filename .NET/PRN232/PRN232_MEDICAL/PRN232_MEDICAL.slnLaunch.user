@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PRN232_MEDICAL\\PRN232_MEDICAL.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PRN232_MEDICAL_WEB\\PRN232_MEDICAL_WEB.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
