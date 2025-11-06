@@ -11,6 +11,26 @@
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,32 +47,8 @@
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\migrations\\20250923041129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\migrations\\20250923041129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\bookloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|c:\\code\\byorderoflife\\.net\\prn232\\libraryodataapi\\libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E24E44-EC20-4EF0-A11D-5133D37E8864}|LibraryODataApi\\LibraryODataApi.csproj|solutionrelative:libraryodataapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 42,
+          "SelectedChildIndex": 41,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,19 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250923041129_InitialCreate.cs",
-              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
-              "RelativeDocumentMoniker": "LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
-              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
-              "RelativeToolTip": "LibraryODataApi\\Migrations\\20250923041129_InitialCreate.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAowIUAAACtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T04:11:29.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Author.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Author.cs",
@@ -238,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Book.cs",
@@ -250,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BookLoan.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\BookLoan.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\BookLoan.cs",
@@ -262,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Models\\Category.cs",
@@ -280,7 +264,7 @@
               "RelativeDocumentMoniker": "LibraryODataApi\\appsettings.json",
               "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\appsettings.json",
               "RelativeToolTip": "LibraryODataApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-23T03:59:43.257Z",
               "EditorCaption": ""
@@ -293,25 +277,25 @@
               "RelativeDocumentMoniker": "LibraryODataApi\\Program.cs",
               "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Program.cs",
               "RelativeToolTip": "LibraryODataApi\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:50:48.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "LibraryODataApi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:50:21.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\WeatherForecastController.cs",
@@ -323,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\CategoriesController.cs",
@@ -335,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\BooksController.cs",
@@ -347,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "BookLoansController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\BookLoansController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\BookLoansController.cs",
@@ -359,13 +343,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "AuthorsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "LibraryODataApi\\Controllers\\AuthorsController.cs",
               "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\PRN232\\LibraryODataApi\\LibraryODataApi\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "LibraryODataApi\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:57:42.07Z"
             }

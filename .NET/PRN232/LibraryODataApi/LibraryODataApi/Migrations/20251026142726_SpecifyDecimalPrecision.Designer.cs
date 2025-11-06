@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibraryODataApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250923041129_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20251026142726_SpecifyDecimalPrecision")]
+    partial class SpecifyDecimalPrecision
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -156,19 +156,6 @@ namespace LibraryODataApi.Migrations
                             PublishedDate = new DateTime(2020, 6, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Rating = 4.2000000000000002,
                             Title = "Vietnam History"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            AuthorId = 3,
-                            CategoryId = 3,
-                            ISBN = "978-5555555555",
-                            IsAvailable = true,
-                            Pages = 500,
-                            Price = 35.00m,
-                            PublishedDate = new DateTime(2022, 5, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Rating = 4.7999999999999998,
-                            Title = "Advanced Physics"
                         });
                 });
 

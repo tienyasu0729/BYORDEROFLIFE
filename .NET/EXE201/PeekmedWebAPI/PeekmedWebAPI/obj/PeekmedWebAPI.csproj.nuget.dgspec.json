@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\PeekmedWebApi.csproj": {}
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebApi\\PeekmedWebApi.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\PeekmedWebApi.csproj": {
+    "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebApi\\PeekmedWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\PeekmedWebApi.csproj",
+        "projectUniqueName": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebApi\\PeekmedWebApi.csproj",
         "projectName": "PeekmedWebApi",
-        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\PeekmedWebApi.csproj",
+        "projectPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebAPI\\PeekmedWebApi\\PeekmedWebApi.csproj",
         "packagesPath": "C:\\Users\\Tienn\\.nuget\\packages\\",
         "outputPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\obj\\",
         "projectStyle": "PackageReference",

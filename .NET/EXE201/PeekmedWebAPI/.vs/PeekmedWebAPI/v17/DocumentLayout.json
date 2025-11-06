@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +23,28 @@
       "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\data\\peekmeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\data\\peekmeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\queuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\queuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|c:\\code\\byorderoflife\\.net\\exe201\\peekmedwebapi\\peekmedwebapi\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10498522-ACD3-4C39-89ED-921BAAA2081E}|PeekmedWebApi\\PeekmedWebApi.csproj|solutionrelative:peekmedwebapi\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 39,
+          "SelectedChildIndex": 46,
           "Children": [
             {
               "$type": "Bookmark",
@@ -199,6 +207,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "PeekmedWebApi\\Models\\Appointment.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Models\\Appointment.cs",
+              "RelativeToolTip": "PeekmedWebApi\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:56:45.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeekMedDbContext.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Data\\PeekMedDbContext.cs",
+              "RelativeDocumentMoniker": "PeekmedWebApi\\Data\\PeekMedDbContext.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Data\\PeekMedDbContext.cs",
+              "RelativeToolTip": "PeekmedWebApi\\Data\\PeekMedDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:49:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "NotificationsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\NotificationsController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\NotificationsController.cs",
@@ -206,12 +240,11 @@
               "RelativeToolTip": "PeekmedWebApi\\Controllers\\NotificationsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:37:32.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:37:32.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "QueuesController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\QueuesController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\QueuesController.cs",
@@ -219,12 +252,11 @@
               "RelativeToolTip": "PeekmedWebApi\\Controllers\\QueuesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:37:16.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:37:16.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\AppointmentsController.cs",
@@ -237,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\DoctorsController.cs",
@@ -250,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\DepartmentsController.cs",
@@ -263,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "HospitalsController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\HospitalsController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\HospitalsController.cs",
@@ -276,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Controllers\\UsersController.cs",
@@ -284,25 +316,24 @@
               "RelativeToolTip": "PeekmedWebApi\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:35:00.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:35:00.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Program.cs",
               "RelativeDocumentMoniker": "PeekmedWebApi\\Program.cs",
               "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\Program.cs",
               "RelativeToolTip": "PeekmedWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T07:27:04.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\EXE201\\PeekmedWebApi\\PeekmedWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "PeekmedWebApi\\appsettings.json",
@@ -310,8 +341,7 @@
               "RelativeToolTip": "PeekmedWebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-08T07:26:31.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:26:31.262Z"
             }
           ]
         },

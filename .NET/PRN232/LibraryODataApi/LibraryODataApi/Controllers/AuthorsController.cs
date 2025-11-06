@@ -9,7 +9,7 @@ namespace LibraryODataApi.Controllers
     {
         private readonly ApplicationDbContext _db;
 
-        public AuthorsController(ApplicationDbContext db)
+        public  AuthorsController(ApplicationDbContext db)
         {
             _db = db;
         }
