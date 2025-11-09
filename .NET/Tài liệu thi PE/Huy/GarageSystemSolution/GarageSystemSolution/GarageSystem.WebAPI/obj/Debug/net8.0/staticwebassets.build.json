@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kE0o00rQb9uT0wlU+6390cb21L4yIkFBSEmIgMw71Rg=",
+  "Source": "GarageSystem.WebAPI",
+  "BasePath": "_content/GarageSystem.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

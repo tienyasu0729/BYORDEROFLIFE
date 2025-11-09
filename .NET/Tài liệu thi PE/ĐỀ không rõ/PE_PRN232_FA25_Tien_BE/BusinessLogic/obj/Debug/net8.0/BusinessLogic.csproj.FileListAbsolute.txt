@@ -1,0 +1,16 @@
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

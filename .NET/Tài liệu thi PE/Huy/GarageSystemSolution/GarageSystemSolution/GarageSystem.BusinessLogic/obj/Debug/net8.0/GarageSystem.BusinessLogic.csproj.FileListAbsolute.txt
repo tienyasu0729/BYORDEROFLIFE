@@ -1,0 +1,15 @@
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\bin\Debug\net8.0\appsettings.json
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\bin\Debug\net8.0\GarageSystem.BusinessLogic.deps.json
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\bin\Debug\net8.0\GarageSystem.BusinessLogic.runtimeconfig.json
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\bin\Debug\net8.0\GarageSystem.BusinessLogic.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\bin\Debug\net8.0\GarageSystem.BusinessLogic.pdb
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.csproj.AssemblyReference.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.AssemblyInfoInputs.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.AssemblyInfo.cs
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\refint\GarageSystem.BusinessLogic.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.pdb
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\GarageSystem.BusinessLogic.genruntimeconfig.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.BusinessLogic\obj\Debug\net8.0\ref\GarageSystem.BusinessLogic.dll

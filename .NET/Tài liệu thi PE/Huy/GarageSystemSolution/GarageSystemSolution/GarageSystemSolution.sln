@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.BusinessLogic", "GarageSystem.BusinessLogic\GarageSystem.BusinessLogic.csproj", "{03A41990-6A3E-4E1A-B307-9CE915B0872B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.DataAccess", "GarageSystem.DataAccess\GarageSystem.DataAccess.csproj", "{C0615416-2EC9-49AB-B96D-E9C8EC217197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.Repositories", "GarageSystem.Repositories\GarageSystem.Repositories.csproj", "{149C99DE-46A1-41D9-B374-91925D3AC704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.Services", "GarageSystem.Services\GarageSystem.Services.csproj", "{1EA546EC-DC75-43A2-9972-02E3D7A1471F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.WebAPI", "GarageSystem.WebAPI\GarageSystem.WebAPI.csproj", "{D4843ECB-D24D-406C-A447-D4F86F25122E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageSystem.Web", "GarageSystem.Web\GarageSystem.Web.csproj", "{938DD51B-49F5-4E93-B13C-EF8555CC881B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A41990-6A3E-4E1A-B307-9CE915B0872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A41990-6A3E-4E1A-B307-9CE915B0872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A41990-6A3E-4E1A-B307-9CE915B0872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A41990-6A3E-4E1A-B307-9CE915B0872B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0615416-2EC9-49AB-B96D-E9C8EC217197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0615416-2EC9-49AB-B96D-E9C8EC217197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0615416-2EC9-49AB-B96D-E9C8EC217197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0615416-2EC9-49AB-B96D-E9C8EC217197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149C99DE-46A1-41D9-B374-91925D3AC704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149C99DE-46A1-41D9-B374-91925D3AC704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149C99DE-46A1-41D9-B374-91925D3AC704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149C99DE-46A1-41D9-B374-91925D3AC704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA546EC-DC75-43A2-9972-02E3D7A1471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA546EC-DC75-43A2-9972-02E3D7A1471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA546EC-DC75-43A2-9972-02E3D7A1471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA546EC-DC75-43A2-9972-02E3D7A1471F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4843ECB-D24D-406C-A447-D4F86F25122E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4843ECB-D24D-406C-A447-D4F86F25122E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4843ECB-D24D-406C-A447-D4F86F25122E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4843ECB-D24D-406C-A447-D4F86F25122E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938DD51B-49F5-4E93-B13C-EF8555CC881B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938DD51B-49F5-4E93-B13C-EF8555CC881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938DD51B-49F5-4E93-B13C-EF8555CC881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938DD51B-49F5-4E93-B13C-EF8555CC881B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298A7231-B98A-4D0A-B3CC-CD88195473EB}
+	EndGlobalSection
+EndGlobal

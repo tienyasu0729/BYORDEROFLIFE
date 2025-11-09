@@ -1,0 +1,16 @@
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\appsettings.json
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\GarageSystem.DataAccess.deps.json
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\GarageSystem.DataAccess.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\GarageSystem.DataAccess.pdb
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\GarageSystem.BusinessLogic.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\bin\Debug\net8.0\GarageSystem.BusinessLogic.pdb
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.csproj.AssemblyReference.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.AssemblyInfoInputs.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.AssemblyInfo.cs
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.csproj.CoreCompileInputs.cache
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSy.2BF40E0A.Up2Date
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\refint\GarageSystem.DataAccess.dll
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\GarageSystem.DataAccess.pdb
+D:\FU\SU25\PRN232\PE\GarageSystemSolution\GarageSystem.DataAccess\obj\Debug\net8.0\ref\GarageSystem.DataAccess.dll

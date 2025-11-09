@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\dataaccess\\models\\beartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\beartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\dataaccess\\fa25beardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\fa25beardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\dataaccess\\models\\bearprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\bearprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\dataaccess\\models\\bearaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31285CA9-EA9C-4A19-8D47-E22480552371}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\bearaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\repositories\\bearprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repositories\\bearprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\repositories\\interfaces\\ibearprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repositories\\interfaces\\ibearprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\searchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\searchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\bearprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\bearprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\dtos\\bearprofilecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\bearprofilecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\api\\controllers\\bearprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|solutionrelative:api\\controllers\\bearprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A5276D-DED7-4DDD-9DEF-D36F3655074B}|API\\API.csproj|solutionrelative:api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|c:\\code\\byorderoflife\\.net\\t\u00E0i li\u1EC7u thi pe\\\u0111\u1EC1 kh\u00F4ng r\u00F5\\pe_prn232_fa25_tien_be\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A9DC4-0C10-4439-852E-9E7AC12C2008}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:61:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BearProfilesController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Controllers\\BearProfilesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BearProfilesController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Controllers\\BearProfilesController.cs",
+              "RelativeToolTip": "API\\Controllers\\BearProfilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:41:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:40:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwH4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:38:49.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T06:38:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BearProfileRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\BearProfileRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repositories\\BearProfileRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\BearProfileRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\Repositories\\BearProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:36:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:36:06.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBearProfileRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\Interfaces\\IBearProfileRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repositories\\Interfaces\\IBearProfileRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\Interfaces\\IBearProfileRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\Repositories\\Interfaces\\IBearProfileRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:34:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:33:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchResponseDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\SearchResponseDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\SearchResponseDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\SearchResponseDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\SearchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:32:44.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchRequestDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\SearchRequestDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\SearchRequestDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\SearchRequestDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\SearchRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:32:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BearProfileCreateDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\BearProfileCreateDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\BearProfileCreateDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\BearProfileCreateDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\BearProfileCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:31:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BearProfileDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\BearProfileDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\BearProfileDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\BearProfileDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\BearProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:31:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:31:16.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:30:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FA25BearDBContext.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\FA25BearDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FA25BearDBContext.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\FA25BearDBContext.cs",
+              "RelativeToolTip": "DataAccess\\FA25BearDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:29:43.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BearAccount.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearAccount.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BearAccount.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearAccount.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BearAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:29:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BearProfile.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearProfile.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BearProfile.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearProfile.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BearProfile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:14:35.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BearType.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearType.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\BearType.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\DataAccess\\Models\\BearType.cs",
+              "RelativeToolTip": "DataAccess\\Models\\BearType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:13:59.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\CODE\\BYORDEROFLIFE\\.NET\\T\u00E0i li\u1EC7u thi PE\\\u0110\u1EC0 kh\u00F4ng r\u00F5\\PE_PRN232_FA25_Tien_BE\\BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:05:35.951Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 525,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\CODE\BYORDEROFLIFE\.NET\Tài liệu thi PE\ĐỀ không rõ\PE_PRN232_FA25_Tien_BE\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

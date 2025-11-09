@@ -1,0 +1,6 @@
+@PRN_Sum25B5_Q1_Solution_HostAddress = http://localhost:5187
+
+GET {{PRN_Sum25B5_Q1_Solution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

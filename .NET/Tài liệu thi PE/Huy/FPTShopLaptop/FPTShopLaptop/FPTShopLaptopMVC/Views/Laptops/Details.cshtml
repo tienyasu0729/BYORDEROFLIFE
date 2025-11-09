@@ -1,0 +1,25 @@
+﻿@model FPTShopLaptopMVC.ViewModels.LaptopViewModel
+
+<h2>@Model.Name</h2>
+<p>Brand: @Model.Brand</p>
+<p>Price: @Model.Price</p>
+<p>Stock: @Model.StockQuantity</p>
+<p>Uploader: @Model.UploaderEmail</p>
+
+<form asp-action="Order" method="post">
+    <input type="hidden" name="LaptopId" value="@Model.LaptopId" />
+    <label>UserId:</label>
+    <input type="text" name="UserId" value="1" />
+    <label>Quantity:</label>
+    <input type="number" name="Quantity" min="1" max="@Model.StockQuantity" required />
+    <button type="submit" class="btn btn-success">Order</button>
+</form>
+
+@if (TempData["Success"] != null)
+{
+     <p class="text-success">@TempData["Success"]</p>
+}
+@if (TempData["Error"] != null)
+{
+     <p class="text-danger">@TempData["Error"]</p>
+}

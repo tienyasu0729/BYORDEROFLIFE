@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

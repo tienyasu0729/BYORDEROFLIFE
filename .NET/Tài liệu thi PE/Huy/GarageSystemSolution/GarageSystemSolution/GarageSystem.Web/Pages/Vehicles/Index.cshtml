@@ -1,0 +1,30 @@
+﻿@page
+@model GarageSystem.Web.Pages.Vehicles.IndexModel
+<h3>List of vehicles</h3>
+@if (TempData["message"] != null)
+{
+    <p style="color:green">@TempData["message"]</p>
+}
+@if (TempData["error"] != null)
+{
+    <p style="color:red">@TempData["error"]</p>
+}
+<table class="table">
+    <tr><th>License Plate</th><th>Manufacture</th><th>Vehicle Owner</th> <th></th></tr>
+    @foreach (var v in Model.Vehicles)
+    {
+        <tr>
+            <td>@v.PlateNumber</td>
+            <td>@v.Brand</td>
+            <td>@v.OwnerName</td>
+            <td>
+                @if (Model.Role == "1") // Chỉ hiển thị nếu là Admin
+                {
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@v.VehicleId" onsubmit="return confirm('Are you sure you want to delete?');">
+                        <button class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+</table>

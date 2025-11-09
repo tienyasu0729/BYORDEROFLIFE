@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.web\\pages\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|solutionrelative:garagesystem.web\\pages\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|solutionrelative:garagesystem.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.web\\pages\\vehicles\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|solutionrelative:garagesystem.web\\pages\\vehicles\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|solutionrelative:garagesystem.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|solutionrelative:garagesystem.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938DD51B-49F5-4E93-B13C-EF8555CC881B}|GarageSystem.Web\\GarageSystem.Web.csproj|solutionrelative:garagesystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4843ECB-D24D-406C-A447-D4F86F25122E}|GarageSystem.WebAPI\\GarageSystem.WebAPI.csproj|solutionrelative:garagesystem.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|solutionrelative:garagesystem.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.services\\iserviceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|solutionrelative:garagesystem.services\\iserviceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\serviceorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\serviceorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\iserviceorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\iserviceorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA546EC-DC75-43A2-9972-02E3D7A1471F}|GarageSystem.Services\\GarageSystem.Services.csproj|solutionrelative:garagesystem.services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149C99DE-46A1-41D9-B374-91925D3AC704}|GarageSystem.Repositories\\GarageSystem.Repositories.csproj|solutionrelative:garagesystem.repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|solutionrelative:garagesystem.dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.dataaccess\\serviceorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|solutionrelative:garagesystem.dataaccess\\serviceorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.dataaccess\\vehicledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0615416-2EC9-49AB-B96D-E9C8EC217197}|GarageSystem.DataAccess\\GarageSystem.DataAccess.csproj|solutionrelative:garagesystem.dataaccess\\vehicledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A41990-6A3E-4E1A-B307-9CE915B0872B}|GarageSystem.BusinessLogic\\GarageSystem.BusinessLogic.csproj|d:\\fu\\su25\\prn232\\pe\\garagesystemsolution\\garagesystem.businesslogic\\models\\su25prn23201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A41990-6A3E-4E1A-B307-9CE915B0872B}|GarageSystem.BusinessLogic\\GarageSystem.BusinessLogic.csproj|solutionrelative:garagesystem.businesslogic\\models\\su25prn23201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Web\\Program.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Program.cs",
+              "RelativeToolTip": "GarageSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:34:58.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml",
+              "RelativeToolTip": "GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T09:33:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "GarageSystem.WebAPI\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:27:52.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\Program.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Program.cs",
+              "RelativeToolTip": "GarageSystem.WebAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vx4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:26:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GarageSystem.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:44:29.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml.cs",
+              "RelativeToolTip": "GarageSystem.Web\\Pages\\Vehicles\\Index.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:33:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Web\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "GarageSystem.Web\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAlwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:06:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\appsettings.json",
+              "RelativeToolTip": "GarageSystem.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T09:59:30.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GarageSystem.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T09:42:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "GarageSystem.Web\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Web\\Pages\\Login.cshtml",
+              "RelativeToolTip": "GarageSystem.Web\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:05:26.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Services\\UserService.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\UserService.cs",
+              "RelativeToolTip": "GarageSystem.Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAywBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:11:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "GarageSystem.WebAPI\\Models\\LoginDTO.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.WebAPI\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "GarageSystem.WebAPI\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:19:12.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Services\\IUserService.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IUserService.cs",
+              "RelativeToolTip": "GarageSystem.Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:58:18.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\UserRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:57:54.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:57:36.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceOrderRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\ServiceOrderRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\ServiceOrderRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\ServiceOrderRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\ServiceOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:46:22.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceOrderService.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IServiceOrderService.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Services\\IServiceOrderService.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IServiceOrderService.cs",
+              "RelativeToolTip": "GarageSystem.Services\\IServiceOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:45:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServiceOrderRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IServiceOrderRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\IServiceOrderRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IServiceOrderRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\IServiceOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:45:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Services\\IVehicleService.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Services\\IVehicleService.cs",
+              "RelativeToolTip": "GarageSystem.Services\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:43:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\VehicleRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:43:08.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "GarageSystem.Repositories\\IVehicleRepository.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.Repositories\\IVehicleRepository.cs",
+              "RelativeToolTip": "GarageSystem.Repositories\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:42:01.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\UserDAO.cs",
+              "RelativeDocumentMoniker": "GarageSystem.DataAccess\\UserDAO.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\UserDAO.cs",
+              "RelativeToolTip": "GarageSystem.DataAccess\\UserDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:38:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceOrderDAO.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\ServiceOrderDAO.cs",
+              "RelativeDocumentMoniker": "GarageSystem.DataAccess\\ServiceOrderDAO.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\ServiceOrderDAO.cs",
+              "RelativeToolTip": "GarageSystem.DataAccess\\ServiceOrderDAO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:37:14.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VehicleDAO.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\VehicleDAO.cs",
+              "RelativeDocumentMoniker": "GarageSystem.DataAccess\\VehicleDAO.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.DataAccess\\VehicleDAO.cs",
+              "RelativeToolTip": "GarageSystem.DataAccess\\VehicleDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:36:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Su25Prn23201Context.cs",
+              "DocumentMoniker": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.BusinessLogic\\Models\\Su25Prn23201Context.cs",
+              "RelativeDocumentMoniker": "GarageSystem.BusinessLogic\\Models\\Su25Prn23201Context.cs",
+              "ToolTip": "D:\\FU\\SU25\\PRN232\\PE\\GarageSystemSolution\\GarageSystem.BusinessLogic\\Models\\Su25Prn23201Context.cs",
+              "RelativeToolTip": "GarageSystem.BusinessLogic\\Models\\Su25Prn23201Context.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:23:32.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\dtos\\neworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\dtos\\neworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\migrations\\20250616032135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\migrations\\20250616032135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEEA78B-1C43-48C6-9745-0B14F4BA5A24}|FPTShopLaptopAPI\\FPTShopLaptopAPI.csproj|solutionrelative:fptshoplaptopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\viewmodels\\laptopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\viewmodels\\laptopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\views\\laptops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\views\\laptops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|d:\\prn232\\pe\\fptshoplaptop\\fptshoplaptop\\fptshoplaptopmvc\\views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BF75AA3-A508-4E4C-8A63-1D159AD36FDE}|FPTShopLaptopMVC\\FPTShopLaptopMVC.csproj|solutionrelative:fptshoplaptopmvc\\views\\laptops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LaptopDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\LaptopDTO.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\DTOs\\LaptopDTO.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\LaptopDTO.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\DTOs\\LaptopDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:29:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Models\\User.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\User.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:11:55.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewOrderDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\NewOrderDTO.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\DTOs\\NewOrderDTO.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\NewOrderDTO.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\DTOs\\NewOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:34:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:15:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:19:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Program.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Program.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:11:37.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Controllers\\LaptopsController.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:17:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:14:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\Order.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:08:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Models\\Laptop.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Models\\Laptop.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:11:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250616032135_InitialCreate.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Migrations\\20250616032135_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Migrations\\20250616032135_InitialCreate.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Migrations\\20250616032135_InitialCreate.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Migrations\\20250616032135_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:37.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:33:17.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\appsettings.json",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\appsettings.json",
+              "RelativeToolTip": "FPTShopLaptopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T09:11:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "FPTShopLaptopAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:11:36.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:11:01.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:10:56.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Program.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Program.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:10:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Views\\Laptops\\Details.cshtml",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Views\\Laptops\\Details.cshtml",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Views\\Laptops\\Details.cshtml",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Views\\Laptops\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T03:14:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Controllers\\LaptopsController.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:13:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LaptopViewModel.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\ViewModels\\LaptopViewModel.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\ViewModels\\LaptopViewModel.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\ViewModels\\LaptopViewModel.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\ViewModels\\LaptopViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:12:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "FPTShopLaptopMVC\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:07:15.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Views\\Laptops\\Index.cshtml",
+              "RelativeDocumentMoniker": "FPTShopLaptopMVC\\Views\\Laptops\\Index.cshtml",
+              "ToolTip": "D:\\PRN232\\PE\\FPTShopLaptop\\FPTShopLaptop\\FPTShopLaptopMVC\\Views\\Laptops\\Index.cshtml",
+              "RelativeToolTip": "FPTShopLaptopMVC\\Views\\Laptops\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T03:12:56.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

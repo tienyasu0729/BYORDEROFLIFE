@@ -1,0 +1,29 @@
+﻿@page
+@model GarageSystem.Web.Pages.LoginModel
+@{
+}
+<h2>Đăng nhập hệ thống</h2>
+<div class="container">
+    <div class="login-container">
+        <h3 class="text-center mb-4 fw-bold">Đăng nhập hệ thống</h3>
+        <form method="post">
+            <div class="mb-3">
+                <label for="email" class="form-label">Email:</label>
+                <input type="text" class="form-control" asp-for="Email" />
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password:</label>
+                <input type="password" class="form-control" asp-for="Password" />
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Đăng nhập</button>
+            </div>
+            <div class="d-grid">
+                @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                {
+                    <p style="color:red">@Model.ErrorMessage</p>
+                }
+            </div>
+        </form>
+    </div>
+</div>

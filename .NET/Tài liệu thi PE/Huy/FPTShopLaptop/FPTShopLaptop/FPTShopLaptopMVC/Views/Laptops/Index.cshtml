@@ -1,0 +1,18 @@
+﻿
+@model List<FPTShopLaptopMVC.ViewModels.LaptopViewModel>
+
+<table class="table">
+    <thead><tr><th>Name</th><th>Brand</th><th>Price</th><th>Stock</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Brand</td>
+                <td>@item.Price</td>
+                <td>@item.StockQuantity</td>
+                <td><a asp-action="Details" asp-route-id="@item.LaptopId">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
