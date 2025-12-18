@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center_horizontal"
+    tools:context=".RevenueActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thống Kê Doanh Thu"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TỔNG DOANH THU (Tất cả)"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tvTotalRevenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 VNĐ"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lọc theo ngày"
+        android:textSize="16sp"
+        android:layout_marginTop="40dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/btnStartDate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Từ ngày"
+            android:layout_marginEnd="5dp"/>
+
+        <Button
+            android:id="@+id/btnEndDate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Đến ngày"
+            android:layout_marginStart="5dp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lọc"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tvFilteredRevenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doanh thu (đã lọc): 0 VNĐ"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

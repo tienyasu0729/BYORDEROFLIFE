@@ -4,17 +4,24 @@
 
     <item
         android:id="@+id/action_search"
-        android:title="Tìm kiếm"
-        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/menu_search" android:icon="@android:drawable/ic_menu_search"
         app:showAsAction="ifRoom|collapseActionView"
         app:actionViewClass="androidx.appcompat.widget.SearchView" />
 
     <item
+        android:id="@+id/action_cart"
+        android:title="@string/menu_cart" android:icon="@drawable/ic_shopping_cart" app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_revenue"
+        android:title="@string/menu_revenue" app:showAsAction="never" />
+
+    <item
         android:id="@+id/action_sort_asc"
-        android:title="Sắp xếp: Giá tăng dần"
-        app:showAsAction="never" /> <item
-    android:id="@+id/action_sort_desc"
-    android:title="Sắp xếp: Giá giảm dần"
-    app:showAsAction="never" />
+        android:title="@string/menu_sort_asc" app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort_desc"
+        android:title="@string/menu_sort_desc" app:showAsAction="never" />
 
 </menu>

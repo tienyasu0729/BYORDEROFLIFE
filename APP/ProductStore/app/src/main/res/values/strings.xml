@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">ProductStore</string>
+
+    <string name="login_title">ĐĂNG NHẬP</string>
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Mật khẩu</string>
+    <string name="login_remember_me">Ghi nhớ mật khẩu (Remember Password)</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_register_link">Chưa có tài khoản? Đăng ký ngay</string>
+
+    <string name="fab_add_product_description">Thêm sản phẩm mới</string>
+
+    <string name="cart_decrease_quantity">-</string>
+    <string name="cart_increase_quantity">+</string>
+    <string name="cart_remove_item_description">Xóa khỏi giỏ hàng</string>
+    <string name="cart_name_placeholder">Tên Sản phẩm</string>
+    <string name="cart_price_placeholder">100.000 VNĐ</string>
+    <string name="cart_total_placeholder">Tổng: 200.000 VNĐ</string>
+
+    <string name="product_image_description">Hình ảnh sản phẩm</string>
+    <string name="product_edit_description">Sửa sản phẩm</string>
+    <string name="product_delete_description">Xóa sản phẩm</string>
+    <string name="product_add_to_cart">Thêm vào giỏ</string>
+    <string name="product_name_placeholder">Tên Sản phẩm</string>
+    <string name="product_desc_placeholder">Mô tả ngắn</string>
+    <string name="product_price_placeholder">100.000 VNĐ</string>
+
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_cart">Giỏ hàng</string>
+    <string name="menu_revenue">Thống kê Doanh thu</string>
+    <string name="menu_sort_asc">Sắp xếp: Giá tăng dần</string>
+    <string name="menu_sort_desc">Sắp xếp: Giá giảm dần</string>
+
 </resources>

@@ -23,39 +23,34 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Tên sản phẩm"
-        android:inputType="textCapWords" />
-
-    <EditText
-        android:id="@+id/edtProductDesc"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Mô tả"
-        android:layout_marginTop="10dp"
-        android:inputType="textMultiLine"
-        android:minLines="3"
-        android:gravity="top"/>
-
-    <EditText
-        android:id="@+id/edtProductPrice"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Giá (ví dụ: 100000)"
-        android:layout_marginTop="10dp"
-        android:inputType="numberDecimal" />
-
-    <EditText
-        android:id="@+id/edtProductImage"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Link ảnh (URL) - Tùy chọn"
-        android:layout_marginTop="10dp"
-        android:inputType="textUri" />
-
-    <Button
-        android:id="@+id/btnSaveProduct"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Lưu Sản Phẩm"
-        android:layout_marginTop="20dp" />
-
-</LinearLayout>
+        android:inputType="textCapWords"
+        android:minHeight="48dp" /> <EditText
+    android:id="@+id/edtProductDesc"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Mô tả"
+    android:layout_marginTop="10dp"
+    android:inputType="textMultiLine"
+    android:minLines="3"
+    android:gravity="top"
+    android:minHeight="48dp" /> <EditText
+    android:id="@+id/edtProductPrice"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Giá (ví dụ: 100000)"
+    android:layout_marginTop="10dp"
+    android:inputType="numberDecimal"
+    android:minHeight="48dp" /> <EditText
+    android:id="@+id/edtProductImage"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Link ảnh (URL) - Tùy chọn"
+    android:layout_marginTop="10dp"
+    android:inputType="textUri"
+    android:minHeight="48dp" /> <Button
+    android:id="@+id/btnSaveProduct"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Lưu Sản Phẩm"
+    android:layout_marginTop="20dp"
+    android:minHeight="48dp" /> </LinearLayout>

@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PawnShopManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tùy chỉnh theme sáng của bạn ở đây. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="onPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="onPrimaryContainer">@color/onPrimaryContainer</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="onSecondary">@color/onSecondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+        <item name="onSecondaryContainer">@color/onSecondaryContainer</item>
+        <item name="colorError">@color/error</item>
+        <item name="onError">@color/onError</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/onBackground</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariant</item>
+        <item name="colorOutline">@color/outline</item>
+
+        <!-- Đặt màu thanh trạng thái (status bar) -->
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+
+    <style name="Theme.PawnShopManager" parent="Base.Theme.PawnShopManager" />
+
+    <!-- Theme cho Splash Screen -->
+    <style name="Theme.PawnShopManager.Splash" parent="Theme.PawnShopManager">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+
+    <!-- Theme cho MainActivity (có Toolbar) -->
+    <style name="Theme.PawnShopManager.Main" parent="Theme.Material3.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PawnShopManager</string>
+    <string name="dang_nhap">Đăng nhập</string>
+    <string name="dang_nhap_bang_email_hoac_sdt">Đăng nhập bằng Email hoặc SĐT</string>
+    <string name="mat_khau">Mật khẩu</string>
+    <string name="chua_co_tai_khoan">Chưa có tài khoản? Đăng ký</string>
+    <string name="dang_ky_tai_khoan_admin">Đăng ký tài khoản Admin</string>
+    <string name="email">Email</string>
+    <string name="so_dien_thoai">Số điện thoại</string>
+    <string name="tao_tai_khoan">Tạo tài khoản</string>
+    <string name="da_co_tai_khoan">Đã có tài khoản? Đăng nhập</string>
+    <string name="quan_ly_vat_pham">Quản lý Vật phẩm</string>
+    <string name="them_vat_pham">Thêm Vật phẩm</string>
+    <string name="sua_vat_pham">Sửa Vật phẩm</string>
+    <string name="loai_vat_pham">Loại vật phẩm</string>
+    <string name="ten_nguoi_cam">Tên người cầm</string>
+    <string name="ten_vat_pham">Tên vật phẩm</string>
+    <string name="gia_tien_cam">Giá tiền cầm</string>
+    <string name="ngay_cam">Ngày cầm</string>
+    <string name="ghi_chu">Ghi chú (Tùy chọn)</string>
+    <string name="thong_tin_xe_va_chu_so_huu">Thông tin Xe và Chủ sở hữu</string>
+    <string name="ma_so_cccd">Mã số CCCD</string>
+    <string name="dia_chi">Địa chỉ</string>
+    <string name="bien_so_xe">Biển số xe</string>
+    <string name="luu">Lưu</string>
+    <string name="chon_ngay">Chọn ngày</string>
+    <string name="tim_kiem">Tìm kiếm (tên, cccd, biển số...)</string>
+
+    <!-- Mảng các loại vật phẩm cho Spinner/Dropdown -->
+    <string-array name="item_types">
+        <item>phone</item>
+        <item>laptop</item>
+        <item>vehicle</item>
+    </string-array>
+
+    <!-- Mảng các tùy chọn lọc cho Spinner -->
+    <string-array name="filter_options">
+        <item>Tất cả</item>
+        <item>Sắp đến hạn</item>
+        <item>Quá hạn</item>
+    </string-array>
+
+    <!-- CHUỖI MỚI CHO LOGIC GIA HẠN -->
+    <string name="xac_nhan_gia_han">Xác nhận Gia hạn</string>
+    <string name="thong_bao_gia_han">Tiền lãi cho kỳ này: <b>%1$s đ</b>\n\nHạn cũ: %2$s\nNgày cầm sẽ được cập nhật thành hôm nay.\nHạn mới: %3$s\n\nBạn có muốn tiếp tục?</string>
+    <string name="xac_nhan">Xác nhận</string>
+    <string name="huy">Hủy</string>
+</resources>

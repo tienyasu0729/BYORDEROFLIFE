@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.pawnshopmanager">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PawnShopManager"
+        tools:targetApi="31">
+
+        <!-- 1. Màn hình Splash (Màn hình khởi động) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar"> <!-- Ẩn thanh tiêu đề -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 2. Màn hình Đăng ký -->
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+
+        <!-- 3. Màn hình Đăng nhập -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+
+        <!-- 4. Màn hình chính (sửa lại activity mặc định) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/> <!-- Dùng Toolbar riêng -->
+
+        <!-- 5. Màn hình Thêm/Sửa -->
+        <activity
+            android:name=".AddEditItemActivity"
+            android:exported="false"
+            android:label="@string/them_vat_pham"/>
+
+    </application>
+
+</manifest>

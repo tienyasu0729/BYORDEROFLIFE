@@ -2,6 +2,7 @@ package com.example.productstore;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
+import androidx.appcompat.widget.Toolbar; // Import mới
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -12,7 +13,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast; // Import mới (nếu chưa có)
+import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
@@ -34,6 +35,16 @@ public class ProductListActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_product_list);
 
+        // --- (MỚI) KÍCH HOẠT TOOLBAR ---
+        // 1. Tìm Toolbar
+        Toolbar toolbar = findViewById(R.id.toolbar);
+        // 2. Đặt nó làm ActionBar
+        setSupportActionBar(toolbar);
+        // 3. (Tùy chọn) Đặt tiêu đề
+        setTitle("Danh sách Sản phẩm");
+        // --- KẾT THÚC PHẦN MỚI ---
+
+        // Code cũ (giữ nguyên)
         dbHelper = new DatabaseHelper(this);
         productList = new ArrayList<>();
         recyclerViewProducts = findViewById(R.id.recyclerViewProducts);
@@ -43,7 +54,6 @@ public class ProductListActivity extends AppCompatActivity
         recyclerViewProducts.setLayoutManager(new LinearLayoutManager(this));
         recyclerViewProducts.setAdapter(adapter);
 
-        // Sự kiện nhấn nút Thêm (+)
         fabAddProduct.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -64,7 +74,8 @@ public class ProductListActivity extends AppCompatActivity
         adapter.setProducts(searchResult);
     }
 
-    // onEditClick
+    // --- Các hàm xử lý click của Adapter (CRUD + Cart) ---
+
     @Override
     public void onEditClick(Product product) {
         Intent intent = new Intent(ProductListActivity.this, AddEditProductActivity.class);
@@ -72,45 +83,28 @@ public class ProductListActivity extends AppCompatActivity
         startActivity(intent);
     }
 
-    // onDeleteClick
     @Override
     public void onDeleteClick(Product product) {
         new AlertDialog.Builder(this)
                 .setTitle("Xác nhận Xóa")
                 .setMessage("Bạn có chắc chắn muốn xóa " + product.getName() + "?")
-                .setPositiveButton("Xóa", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int which) {
-                        dbHelper.deleteProduct(product.getId());
-                        loadProducts();
-                        Toast.makeText(ProductListActivity.this, "Đã xóa", Toast.LENGTH_SHORT).show();
-                    }
+                .setPositiveButton("Xóa", (dialog, which) -> {
+                    dbHelper.deleteProduct(product.getId());
+                    loadProducts();
+                    Toast.makeText(ProductListActivity.this, "Đã xóa", Toast.LENGTH_SHORT).show();
                 })
                 .setNegativeButton("Hủy", null)
                 .setIcon(android.R.drawable.ic_dialog_alert)
                 .show();
     }
 
-    /**
-     * (HÀM MỚI - BƯỚC 19)
-     * Xử lý khi nhấn nút "Thêm vào giỏ"
-     */
     @Override
     public void onAddToCartClick(Product product) {
-        // Gọi hàm DatabaseHelper để thêm sản phẩm
         dbHelper.addProductToCart(product.getId());
-
-        // Thông báo cho người dùng
         Toast.makeText(this, "Đã thêm '" + product.getName() + "' vào giỏ", Toast.LENGTH_SHORT).show();
     }
 
-    // onResume
-    @Override
-    protected void onResume() {
-        super.onResume();
-        loadProducts();
-    }
-
-    // --- XỬ LÝ MENU (SEARCH VÀ SORT) ---
+    // --- Xử lý Menu (Search, Sort, Cart, Revenue) ---
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -118,12 +112,9 @@ public class ProductListActivity extends AppCompatActivity
         MenuItem searchItem = menu.findItem(R.id.action_search);
         SearchView searchView = (SearchView) searchItem.getActionView();
         searchView.setOnQueryTextListener(this);
-        searchView.setOnCloseListener(new SearchView.OnCloseListener() {
-            @Override
-            public boolean onClose() {
-                loadProducts();
-                return false;
-            }
+        searchView.setOnCloseListener(() -> {
+            loadProducts();
+            return false;
         });
         return super.onCreateOptionsMenu(menu);
     }
@@ -131,30 +122,53 @@ public class ProductListActivity extends AppCompatActivity
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
+
+        if (id == R.id.action_cart) {
+            Intent intent = new Intent(this, ShoppingCartActivity.class);
+            startActivity(intent);
+            return true;
+        }
+
+        if (id == R.id.action_revenue) {
+            Intent intent = new Intent(this, RevenueActivity.class);
+            startActivity(intent);
+            return true;
+        }
+
         if (id == R.id.action_sort_asc) {
             currentSortOrder = DatabaseHelper.KEY_PRODUCT_PRICE + " ASC";
             loadProducts();
             return true;
         }
+
         if (id == R.id.action_sort_desc) {
             currentSortOrder = DatabaseHelper.KEY_PRODUCT_PRICE + " DESC";
             loadProducts();
             return true;
         }
+
         return super.onOptionsItemSelected(item);
     }
 
-    // onQueryTextSubmit
+    // --- Xử lý Tìm kiếm ---
+
     @Override
     public boolean onQueryTextSubmit(String query) {
         searchProducts(query);
         return false;
     }
 
-    // onQueryTextChange
     @Override
     public boolean onQueryTextChange(String newText) {
         searchProducts(newText);
         return false;
+    }
+
+    // --- Xử lý Vòng đời Activity ---
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        loadProducts();
     }
 }
